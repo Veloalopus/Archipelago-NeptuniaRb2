@@ -88,21 +88,87 @@ purple_disc                          = "Purple Disc"
 black_disc                           = "Black Disc"
 white_disc                           = "White Disc"
 green_disc                           = "Green Disc"
-
-
-
-## Plans
-
-
-
-## Materials
-
-
-## Weapons
-
-
-##
-
+## Plans Consumables
+plan_healing_pod                    = "Plan - Healing Pod"
+plan_healing_drink                  = "Plan - Healing Drink"
+plan_healing_bottle                 = "Plan - Healing Bottle"
+plan_nepbull                        = "Plan - Nepbull"
+plan_nepbull_c                      = "Plan - Nepbull C"
+plan_nepbull_sp                     = "Plan - Nepbull SP"
+plan_nepbull_ex2                    = "Plan - Nepbull EX II"
+plan_special_drink_c                = "Plan - Special Drink C"
+plan_special_drink_h                = "Plan - Special Drink H"
+plan_compas_nurse_kit               = "Plan - Compa's Nurse Kit"
+plan_p_sp_charger                   = "Plan - P SP Charger"
+plan_p_sp_charger_2                 = "Plan - P SP Charger 2"
+plan_hero_drink                     = "Plan - Hero Drink"
+plan_hero_drink_c                   = "Plan - Hero Drink C"
+plan_paralaxin                      = "Plan - Paralaxin"
+plan_reflex                         = "Plan - Reflex"
+plan_tuffmil                        = "Plan - Tuffmil"
+plan_anti_venom                     = "Plan - Anti Venom"
+plan_anti_paralysis                 = "Plan - Anti Paralysis"
+plan_anti_seal                      = "Plan - Anti Seal"
+plan_anti_virus                     = "Plan - Anti Virus"
+plan_panacea                        = "Plan - Panacea"
+plan_super_panacea                  = "Plan - Super Panacea"
+plan_int_booster                    = "Plan - Int Booster"
+plan_int_booster_z                  = "Plan - Int Booster Z"
+plan_agi_booster                    = "Plan - Agi Booster"
+plan_agi_booster_z                  = "Plan - Agi Booster Z"
+plan_str_booster                    = "Plan - Str Booster"
+plan_str_booster_z                  = "Plan - Str Booster Z"
+## Weapon Plans
+plan_beam_cutlass                   = "Plan - Beam Cutlass"
+plan_beam_buster_neo                = "Plan - Beam Buster Neo"
+plan_gramblaze                      = "Plan - Gramblaze"
+plan_heisen_slay                    = "Plan - Heisen Slay"
+plan_railgun                        = "Plan - Railgun"
+plan_s_rifle                        = "Plan - S Rifle"
+plan_vintage_rifle                  = "Plan - Vintage Rifle"
+plan_linear_railgun                 = "Plan - Linear Railgun"
+plan_green_wand                     = "Plan - Green Wand"
+plan_melee_pencil                   = "Plan - Melee Pencil"
+plan_blue_wand                      = "Plan - Blue Wand"
+plan_black_wand                     = "Plan - Black Wand"
+plan_green_staff                    = "Plan - Green Staff"
+plan_dogoo_pencil                   = "Plan - Dogoo Pencil"
+plan_yellow_staff                   = "Plan - Yellow Staff"
+plan_black_staff                    = "Plan - Black Staff"
+plan_unbranded_katana               = "Plan - Unbranded Katana"
+plan_demon_blade_curse              = "Plan - Demon Blade Curse"
+plan_excalibur                      = "Plan - Excalibur"
+plan_laevteinn                      = "Plan - Laevteinn"
+plan_kiryu_sword                    = "Plan - Kiryu Sword"
+plan_dragon_killer                  = "Plan - Dragon Killer"
+plan_elysdeon                       = "Plan - Elysdeon"
+plan_durandal                       = "Plan - Durandal"
+plan_bladed_hammer                  = "Plan - Bladed Hammer"
+plan_cpu_crusher                    = "Plan - CPU Crusher"
+plan_iron_lance                     = "Plan - Iron Lance"
+plan_gungnir                        = "Plan - Gungnir"
+plan_gigatoxin                      = "Plan - Gigatoxin"
+plan_splashing_acid                 = "Plan - Splashing Acid"
+plan_mutant_blood                   = "Plan - Mutant Blood"
+plan_venom_claw_neo                 = "Plan - Venom Claw Neo"
+plan_numbing_claw_neo               = "Plan - Numbing Claw Neo"
+plan_bloody_claw                    = "Plan - Bloody Claw"
+plan_kings_claw                     = "Plan - King's Claw"
+plan_silver_toy_set                 = "Plan - Silver Toy Set"
+plan_royal_toy_set                  = "Plan - Royal Toy Set"
+plan_pla00_bl                       = "Plan - PLA00/BL"
+plan_broom                          = "Plan - Broom"
+plan_v000_bl                        = "Plan - V-000/BL"
+plan_happy_majin_gapps              = "Plan - Happy Majin Gapps"
+plan_angry_gema                     = "Plan - Angry Gema"
+plan_laughing_gema                  = "Plan - Laughing Gema"
+plan_grand_dragonslayer             = "Plan - Grand Dragonslayer"
+plan_angel_feather                  = "Plan - Angel Feather"
+plan_magical_twins                  = "Plan - Magical Twins"
+plan_hebi                           = "Plan - Hebi"
+plan_bk_tekken_deity                = "Plan - BK - Tekken Deity"
+## Armor Plans
+plan_time_bangle                    = "Plan - Time Bangle"
 
 ## Ornaments
 
