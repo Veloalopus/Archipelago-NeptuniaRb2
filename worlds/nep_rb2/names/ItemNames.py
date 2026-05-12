@@ -169,6 +169,35 @@ plan_hebi                           = "Plan - Hebi"
 plan_bk_tekken_deity                = "Plan - BK - Tekken Deity"
 ## Armor Plans
 plan_time_bangle                    = "Plan - Time Bangle"
+plan_hades_bangle                   = "Plan - Hades Bangle"
+plan_goddess_bangle                 = "Plan - Goddess Bangle"
+plan_v_crystal                      = "Plan - V Crystal"
+plan_hunters_charm                  = "Plan - Hunter's Charm"
+plan_blaze_emblem                   = "Plan - Blaze Emblem"
+plan_t_force                        = "Plan - T Force"
+plan_monkey_bracelet                = "Plan - Monkey Bracelet"
+plan_white_kitty_strap              = "Plan - White Kitty Strap"
+plan_shiitake_bracelet              = "Plan - Shiitake Bracelet"
+plan_nunchuck_strap                 = "Plan - Nunchuck Strap"
+plan_trapezohedron                  = "Plan - Trapezohedron"
+## Clothing Plans
+plan_swimsuit_trends                = "Plan - Swimsuit Trends"
+plan_christine_chronicles           = "Plan - Christine Chronicles"
+plan_way_of_the_bullets             = "Plan - Way of the Bullets"
+plan_furries_encyclopedia           = "Plan - Furries Encyclopedia"
+plan_digiset                        = "Plan - Digiset"
+plan_kunoichi_set                   = "Plan - Kunoichi Set"
+plan_tekken_set                     = "Plan - Tekken Set"
+plan_nepgears_notes                 = "Plan - Nepgear's Notes"
+plan_unis_improvements              = "Plan - Uni's Improvements"
+plan_roms_selfies                   = "Plan - Rom's Selfies"
+plan_roms_ram_drawings              = "Plan - Rom's Ram Drawings"
+plan_neptune_collection             = "Plan - Neptune Collection"
+plan_noires_notes                   = "Plan - Noire's Notes"
+plan_blancs_shame                   = "Plan - Blanc's Shame"
+plan_4go_works                      = "Plan - 4-GO Works"
+
+
 
 ## Ornaments
 
