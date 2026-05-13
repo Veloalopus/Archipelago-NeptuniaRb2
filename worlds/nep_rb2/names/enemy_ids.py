@@ -356,7 +356,7 @@ enemy_ids = {
     1036: "CFW Brave",
     1037: "CFW Trick",
     1038: "CFW Magic",
-    1039: "Deity Of Sin Arfoire",
+    1039: "Deity Of Sin Arfoire", #Probably Pre-Branch Arfoire?
     1040: "CFW Judge",
     1041: "CFW Trick",
     1042: "CFW Brave",
@@ -372,7 +372,7 @@ enemy_ids = {
     1052: "Blanc",
     1053: "Vert",
     1054: "Underling",
-    1055: "Deity Of Sin Arfoire",
+    1055: "Deity Of Sin Arfoire", # Conquest
     1057: "CFW Judge",
     1058: "CFW Trick",
     1059: "CFW Brave",
