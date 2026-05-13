@@ -1,0 +1,210 @@
+[
+  {
+    "name": "Beam Saber",
+    "description": "Nepgear's favorite weapon. Its high-output concentrated beam blade makes it easy to wield for amateurs and professionals alike.",
+    "obtain": ["Initial Equipment"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 25, "VIT": 0, "INT": 23, "MEN": 0, "AGI": 0, "TEC": 0, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Attack" },
+    "shop_details": { "purchase_price": null, "sell_price": null }
+  },
+  {
+    "name": "Beam Blade",
+    "description": "The Beam Saber prototype. Not only does it cut with searing heat, but its additional weight provides more momentum and power.",
+    "obtain": ["Virtua Forest - Depths: Treasure"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 42, "VIT": 0, "INT": 29, "MEN": 0, "AGI": 0, "TEC": 0, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "L. Slash" },
+    "shop_details": { "purchase_price": null, "sell_price": 30 }
+  },
+  {
+    "name": "Beam Cutlass",
+    "description": "Nepgear's favored weapon while in CPU form. It is a redesigned and streamlined Beam Blade with steel reinforcements. It's very handy.",
+    "obtain": ["Item Development", "Shop after development"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 65, "VIT": 0, "INT": 60, "MEN": 0, "AGI": 0, "TEC": -19, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Attack" },
+    "shop_details": { "purchase_price": 750, "sell_price": 75 }
+  },
+  {
+    "name": "Beam Saber Mk-2",
+    "description": "A upgraded version of the Beam Saber. Its blade is of a higher density than its predecessor, but it sacrificed the cool 'N' logo.",
+    "obtain": ["Shop (Chapter 2 - Mascot Information)"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 84, "VIT": 0, "INT": 63, "MEN": 0, "AGI": 0, "TEC": -25, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Attack" },
+    "shop_details": { "purchase_price": 1500, "sell_price": 150 }
+  },
+  {
+    "name": "Beam Blade Neo",
+    "description": "The second Beam Blade model. It can deliver even higher output than the original.",
+    "obtain": ["Shop (Chapter 2 - Nyu)"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 111, "VIT": 0, "INT": 125, "MEN": 0, "AGI": 0, "TEC": 0, "LUK": 18, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "L. Slash" },
+    "shop_details": { "purchase_price": 4000, "sell_price": 400 }
+  },
+  {
+    "name": "Beam Buster",
+    "description": "An upgraded reimagined Beam Saber. Its greater size lends to its higher output capacity.",
+    "obtain": ["World Labyrinth - 2nd Floor: Treasure"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 125, "VIT": 0, "INT": 110, "MEN": 0, "AGI": 0, "TEC": -33, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "R. Slash" },
+    "shop_details": { "purchase_price": null, "sell_price": 500 }
+  },
+  {
+    "name": "Light Sword",
+    "description": "A streamlined Beam Saber. Despite its feather-light weight, one third of the conventional model, it generates an even more powerful beam.",
+    "obtain": ["Shop (Chapter 2 - Fake Chika Revealed)"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 146, "VIT": 0, "INT": 102, "MEN": 0, "AGI": 0, "TEC": 0, "LUK": 26, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Attack" },
+    "shop_details": { "purchase_price": 7500, "sell_price": 750 }
+  },
+  {
+    "name": "Beam Buster Neo",
+    "description": "An upgraded Beam Buster capable of forming a blade triple the density of the previous model.",
+    "obtain": ["Item Development", "Shop after development"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 162, "VIT": 0, "INT": 115, "MEN": 0, "AGI": 0, "TEC": -48, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "R. Slash" },
+    "shop_details": { "purchase_price": 10000, "sell_price": 1000 }
+  },
+  {
+    "name": "Light Blade",
+    "description": "The third Beam Blade model. It has been streamlined even further with little aesthetic alteration.",
+    "obtain": ["Shop (Chapter 3 - Save Rom and Ram)"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 212, "VIT": 0, "INT": 178, "MEN": 0, "AGI": 0, "TEC": 0, "LUK": 32, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "L. Slash" },
+    "shop_details": { "purchase_price": 25000, "sell_price": 2500 }
+  },
+  {
+    "name": "Rabscuttle",
+    "description": "Nepgear upgraded the basic Beam Cutlass into an anti-air blade, capable of cutting even reinforced terraportation ships.",
+    "obtain": ["Atari Marsh - Depths: Treasure"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 252, "VIT": 0, "INT": 180, "MEN": 0, "AGI": 0, "TEC": -60, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Attack" },
+    "shop_details": { "purchase_price": null, "sell_price": 1500 }
+  },
+  {
+    "name": "Black Clover",
+    "description": "This anti-air sword is unique due to its black hilt and crimson blade. Appearances aside, its output rate has been dramatically upgraded.",
+    "obtain": ["Colosseum Rewards: Metabolic Syndrome"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 367, "VIT": 0, "INT": 260, "MEN": 0, "AGI": 0, "TEC": 0, "LUK": 36, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Attack" },
+    "shop_details": { "purchase_price": null, "sell_price": 2500 }
+  },
+  {
+    "name": "Gramblaze",
+    "description": "This incinerating blade, representing a furious blaze, severs all worldly things.",
+    "obtain": ["Item Development", "Shop after development"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 435, "VIT": 0, "INT": 374, "MEN": 0, "AGI": 0, "TEC": 0, "LUK": 41, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Attack" },
+    "shop_details": { "purchase_price": 45000, "sell_price": 4500 }
+  },
+  {
+    "name": "Laser Sword",
+    "description": "This weapon is the crystallization of Planeptune's technology. It has the ability to easily sever steels and alloys.",
+    "obtain": ["Shop (Chapter 5 - Leanbox in Peril)"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 525, "VIT": 0, "INT": 471, "MEN": 0, "AGI": 0, "TEC": -75, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Attack" },
+    "shop_details": { "purchase_price": 60000, "sell_price": 6000 }
+  },
+  {
+    "name": "Laser Blade",
+    "description": "The fourth model Beam Blade. It is unique because instead of the typical beam, this blade is formed from lasers.",
+    "obtain": ["Shop (Chapter 6 - To the Diety of Sin)"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 603, "VIT": 0, "INT": 429, "MEN": 0, "AGI": 0, "TEC": 57, "LUK": 57, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "R. Slash" },
+    "shop_details": { "purchase_price": 80000, "sell_price": 8000 }
+  },
+  {
+    "name": "Schwertgewehr",
+    "description": "An anti-air blade whose name means 'bayonet.' It is not as accurate as the MPBS line, but its sharpness makes up for that.",
+    "obtain": ["Shop (Chapter 7 - Obligatory Hot Springs)"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 761, "VIT": 0, "INT": 545, "MEN": 0, "AGI": 0, "TEC": -83, "LUK": 57, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Attack" },
+    "shop_details": { "purchase_price": 150000, "sell_price": 15000 }
+  },
+  {
+    "name": "Mega Beam Saber",
+    "description": "A destructive Beam Saber with multiple generators equipped. It's on a whole different level from normal Beam Sabers.",
+    "obtain": ["Shop (Chapter 8 - Defenders)"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 915, "VIT": 0, "INT": 603, "MEN": 0, "AGI": 0, "TEC": -108, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "L. Slash" },
+    "shop_details": { "purchase_price": 250000, "sell_price": 25000 }
+  },
+  {
+    "name": "Heisen Slay",
+    "description": "The ultimate anti-air blade, created using all technological know-how learned through the decades of trial and error.",
+    "obtain": ["Item Development", "Shop after development"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 2150, "VIT": 0, "INT": 1770, "MEN": 0, "AGI": 0, "TEC": 80, "LUK": 80, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Attack" },
+    "shop_details": { "purchase_price": 500000, "sell_price": 50000 }
+  },
+  {
+    "name": "Hyper Beam Saber",
+    "description": "The ultimate Beam Saber, created using cutting-edge Planeptune technology.",
+    "obtain": ["Colosseum Rewards: Planeptune's CPU Candidate"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 1125, "VIT": 0, "INT": 845, "MEN": 0, "AGI": 0, "TEC": -165, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "L. Slash" },
+    "shop_details": { "purchase_price": null, "sell_price": 75000 }
+  },
+  {
+    "name": "Gehaburn",
+    "description": "The final form of the Malice Sword. It has consumed the souls of renegade CPUs.",
+    "obtain": ["Apocalypse - Goodbye... (Conquest Route)"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 1050, "VIT": 35, "INT": 900, "MEN": 35, "AGI": 0, "TEC": -80, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Attack" },
+    "shop_details": { "purchase_price": null, "sell_price": null }
+  },
+  {
+    "name": "Share Blade",
+    "description": "A holy sword made from the destroyed blade of the Gehaburn. The Sharicites of all four nations combined to form this divine weapon.",
+    "obtain": ["Apocalypse - Holy Sword Born (Holy Sword Route)"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 2430, "VIT": 50, "INT": 2000, "MEN": 50, "AGI": 0, "TEC": 150, "LUK": 60, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "L. Slash" },
+    "shop_details": { "purchase_price": null, "sell_price": null }
+  },
+  {
+    "name": "Plasma Sword",
+    "description": "A frighteningly well-developed beam sword that Histoire made for Nepgear to use. When wielded, one can feel warmth emanating from it.",
+    "obtain": ["Quest Rewards: Smoke Signals of Retaliation"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 310, "VIT": 0, "INT": 271, "MEN": 0, "AGI": 0, "TEC": 0, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Attack" },
+    "shop_details": { "purchase_price": null, "sell_price": 1000 }
+  },
+  {
+    "name": "Plasma Blade",
+    "description": "A beam blade with a cutesy pinkish cheery blossom color to it. The energy blade can cut through heavy metals with very little effort.",
+    "obtain": ["Stella's Dungeon: Neptral Tower Clear"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 1675, "VIT": 0, "INT": 1260, "MEN": 0, "AGI": 0, "TEC": -40, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "R. Slash" },
+    "shop_details": { "purchase_price": null, "sell_price": null }
+  },
+  {
+    "name": "Pippin",
+    "description": "An odd green creature with shockingly sexy legs. Is this really a weapon, or is it a strange sentient being...?",
+    "obtain": ["DLC: Believe in Pippin Set"],
+    "base_stats": { "HP": 0, "SP": 200, "STR": 1480, "VIT": 0, "INT": 1160, "MEN": 0, "AGI": 0, "TEC": 130, "LUK": 150, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "L. Slash" },
+    "shop_details": { "purchase_price": null, "sell_price": null }
+  },
+  {
+    "name": "Gehaburn - Anime",
+    "description": "This version of the Gehaburn was seen in the incredibly popular smash-hit anime called Hyperdimension Neptunia. Go buy it!",
+    "obtain": ["DLC: Collaboration Anime Set"],
+    "base_stats": { "HP": 1000, "SP": 0, "STR": 2330, "VIT": 100, "INT": 2200, "MEN": 100, "AGI": 150, "TEC": 0, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Attack" },
+    "shop_details": { "purchase_price": null, "sell_price": null }
+  },
+  {
+    "name": "Beam Zapper ZERO",
+    "description": "Nepgear made this prototype weapon by hand one day when Neptune wasn't giving her enough attention. She wants it to be the next-gen standard.",
+    "obtain": ["DLC: Nepgear's Beam Zapper ZERO"],
+    "base_stats": { "HP": 250, "SP": 0, "STR": 1520, "VIT": 75, "INT": 1260, "MEN": 75, "AGI": 120, "TEC": 150, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "L. Slash" },
+    "shop_details": { "purchase_price": null, "sell_price": null }
+  },
+  {
+    "name": "Callbrand",
+    "description": "The final greatsword. It is so powerful that none could lift it from the ground until technology allowed its weight to be altered.",
+    "obtain": ["DLC: Additional Content 1", "Colosseum Reward: Codename X3"],
+    "base_stats": { "HP": 2000, "SP": 0, "STR": 3650, "VIT": 300, "INT": 3000, "MEN": 0, "AGI": 400, "TEC": 0, "LUK": 150, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "L. Slash" },
+    "shop_details": { "purchase_price": null, "sell_price": 50000 }
+  }
+]

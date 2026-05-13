@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Natural White",
+    "description": "Ram's white staff that looks like a novelty pen.",
+    "obtain": ["Initial Equipment"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 202, "VIT": 0, "INT": 251, "MEN": 0, "AGI": 0, "TEC": 0, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Shine" },
+    "shop_details": { "purchase_price": null, "sell_price": null }
+  },
+  {
+    "name": "White Rod",
+    "description": "A magical rod used in the popular 'Magical Witch Girl Gemini' anime. For some reason, it is effective enough to use in an actual fight.",
+    "obtain": ["CFW Trick (Chapter 3 Atari Marsh Scenario): Enemy Drop"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 253, "VIT": 0, "INT": 286, "MEN": 0, "AGI": -10, "TEC": 0, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Shine" },
+    "shop_details": { "purchase_price": null, "sell_price": 2000 }
+  },
+  {
+    "name": "Aqua Rod",
+    "description": "This pink and red wand is said to enhance its user's magic powers.",
+    "obtain": ["Shop (Chapter 3 - Contact from Kei)"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 268, "VIT": 0, "INT": 272, "MEN": 0, "AGI": -10, "TEC": 0, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Breaker" },
+    "shop_details": { "purchase_price": 30000, "sell_price": 3000 }
+  },
+  {
+    "name": "Green Staff",
+    "description": "This 'clicky top' style pen-wand specializes in support magic and is generally more accepted than the 'twisty bottom' style.",
+    "obtain": ["Item Development", "Shop after Item Development"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 245, "VIT": 0, "INT": 301, "MEN": 0, "AGI": 0, "TEC": 0, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Shine" },
+    "shop_details": { "purchase_price": 30000, "sell_price": 3000 }
+  },
+  {
+    "name": "Yellorange",
+    "description": "This giant pen is light and easy to wield. Therefore, it has been a big hit with giant pen enthusiasts.",
+    "obtain": ["Shop (Chapter 5 - Graveyard Incident)"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 300, "VIT": 0, "INT": 349, "MEN": 0, "AGI": -10, "TEC": 0, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Impulse" },
+    "shop_details": { "purchase_price": 45000, "sell_price": 4500 }
+  },
+  {
+    "name": "Gray Rod",
+    "description": "This sophisticated wand is not above being a useful face whacking tool. Fortunately, it is also quite good at channeling magic powers.",
+    "obtain": ["Shop (Chapter 5 - Graveyard Incident)"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 286, "VIT": 0, "INT": 371, "MEN": 0, "AGI": 0, "TEC": 0, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Shine" },
+    "shop_details": { "purchase_price": 45000, "sell_price": 4500 }
+  },
+  {
+    "name": "Gray Staff",
+    "description": "A new model of the 'clicky top' magic wand that harbors a condensed magic force within itself.",
+    "obtain": ["LAN Castle - Depths: Treasure"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 466, "VIT": 0, "INT": 513, "MEN": 0, "AGI": -10, "TEC": 0, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Impulse" },
+    "shop_details": { "purchase_price": null, "sell_price": 6000 }
+  },
+  {
+    "name": "Dark Silver",
+    "description": "A silver wand that resembles a fancy pen. Its primary element is of course, silver, so it excels at exorcising evil spirits.",
+    "obtain": ["Shop (Chapter 6 - To the Deity of Sin)"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 422, "VIT": 0, "INT": 548, "MEN": 0, "AGI": 0, "TEC": 0, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Breaker" },
+    "shop_details": { "purchase_price": 75000, "sell_price": 7500 }
+  },
+  {
+    "name": "Blue Flower",
+    "description": "This big blue pen has been layered in pretty flower decals.",
+    "obtain": ["Shop (Chapter 7 - Declaration of War)"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 448, "VIT": 0, "INT": 611, "MEN": 48, "AGI": 0, "TEC": 0, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Breaker" },
+    "shop_details": { "purchase_price": 90000, "sell_price": 9000 }
+  },
+  {
+    "name": "Green Rod",
+    "description": "A lot of magic energy is sealed within this luxurious magic wand.",
+    "obtain": ["Shop (Chapter 7 - Declaration of War)"],
+    "base_stats": { "HP": 0, "SP": 300, "STR": 602, "VIT": 0, "INT": 600, "MEN": 0, "AGI": -15, "TEC": 0, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Impulse" },
+    "shop_details": { "purchase_price": 90000, "sell_price": 9000 }
+  },
+  {
+    "name": "Black Rod",
+    "description": "A next generation magic wand. It's still just a prototype, so it still has many functions the mass-produced models will lack.",
+    "obtain": ["Shop (Chapter 8 - Defenders)"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 865, "VIT": 0, "INT": 871, "MEN": 0, "AGI": -15, "TEC": 0, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Breaker" },
+    "shop_details": { "purchase_price": 150000, "sell_price": 15000 }
+  },
+  {
+    "name": "Blue Staff",
+    "description": "A magic wand that loosely replicates the one used by Sakura, heroine of the popular anime 'Card Captor Sakura.'",
+    "obtain": ["Junk Box: Treasure"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 597, "VIT": 0, "INT": 744, "MEN": 0, "AGI": 0, "TEC": 0, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Impulse" },
+    "shop_details": { "purchase_price": null, "sell_price": 15000 }
+  },
+  {
+    "name": "Dogoo Pencil",
+    "description": "A big sharpened pencil with a dogoo on top. Customers complain that the eraser leaves a blue, oozy smudge...",
+    "obtain": ["Item Development", "Shop after Item Development"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 614, "VIT": 0, "INT": 683, "MEN": 57, "AGI": -127, "TEC": 0, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Shine" },
+    "shop_details": { "purchase_price": 250000, "sell_price": 25000 }
+  },
+  {
+    "name": "Lucky Dogoo Pencil",
+    "description": "Note the dots range from one to six. Students use this style of pencil to choose multiple choice answers on exams.",
+    "obtain": ["Colosseum Rewards: Iron Curtain"],
+    "base_stats": { "HP": 0, "SP": 500, "STR": 736, "VIT": 0, "INT": 755, "MEN": 0, "AGI": 0, "TEC": 57, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Breaker" },
+    "shop_details": { "purchase_price": null, "sell_price": 25000 }
+  },
+  {
+    "name": "Yellow Staff",
+    "description": "The ultimate magic wand made through a lot of trial and error by Nepgear and Ram. Its functions exceed that of military-grade weaponry.",
+    "obtain": ["Item Development", "Shop after Item Development"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 872, "VIT": 0, "INT": 827, "MEN": 0, "AGI": -15, "TEC": 0, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Shine" },
+    "shop_details": { "purchase_price": 500000, "sell_price": 50000 }
+  },
+  {
+    "name": "Black Staff",
+    "description": "Nepgear and Ram made this after many experiments that began as a series of escalating dares. It could destroy a city in a single swing.",
+    "obtain": ["Item Development", "Shop after Item Development"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 1040, "VIT": 0, "INT": 1300, "MEN": 65, "AGI": 0, "TEC": 0, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Breaker" },
+    "shop_details": { "purchase_price": 750000, "sell_price": 75000 }
+  },
+  {
+    "name": "Classic Brown",
+    "description": "A wooden staff in the shape of a pen that was made from a branch of an ancient tree.",
+    "obtain": ["Shop (Second Playthrough: Chapter 3 - Contact from Kei)"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 960, "VIT": 0, "INT": 1760, "MEN": 0, "AGI": -176, "TEC": 0, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Shine" },
+    "shop_details": { "purchase_price": 1000000, "sell_price": 100000 }
+  },
+  {
+    "name": "Metal Dogoo Pencil",
+    "description": "Note the numbers 1 through 6. The last ray of hope for students taking exams is sealed within.",
+    "obtain": ["Show Large Medal Z from Legacy's enemy drop, found in Trinity Marsh - Add Enemies, to a man in Planeptune via Information tab."],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 1200, "VIT": 0, "INT": 2200, "MEN": 0, "AGI": -220, "TEC": 0, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Impulse" },
+    "shop_details": { "purchase_price": null, "sell_price": null }
+  },
+  {
+    "name": "Black Staff EXE",
+    "description": "This magic wand is a further augmented version of the Black Staff. This can destroy the world, and you're giving it to a little girl!?",
+    "obtain": ["DLC: Additional Pack 1", "Colosseum Reward: Target: Exe Type"],
+    "base_stats": { "HP": 3000, "SP": 0, "STR": 2475, "VIT": 250, "INT": 3525, "MEN": 0, "AGI": 0, "TEC": 300, "LUK": 200, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Breaker" },
+    "shop_details": { "purchase_price": null, "sell_price": 50000 }
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Rifle",
+    "description": "The most orthodox rifle found in Lastation.",
+    "obtain": ["Initial Equipment"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 62, "VIT": 0, "INT": 43, "MEN": 0, "AGI": 0, "TEC": 0, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Shot" },
+    "shop_details": { "purchase_price": null, "sell_price": null }
+  },
+  {
+    "name": "Heavy Revolver",
+    "description": "A giant revolver that is heavy and hard to use, but contains immense firepower.",
+    "obtain": ["Shop (Chapter 3 - Contact from Kei)"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 298, "VIT": 0, "INT": 241, "MEN": 0, "AGI": 0, "TEC": -5, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Shot" },
+    "shop_details": { "purchase_price": 25000, "sell_price": 2500 }
+  },
+  {
+    "name": "Assault Rifle",
+    "description": "A semi-automatic firearm. When Uni holds it, it appears much larger than it really is.",
+    "obtain": ["CFW Brave (Endless Zone Chapter 3 scenario): Enemy Drop"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 301, "VIT": 0, "INT": 160, "MEN": 0, "AGI": 0, "TEC": 5, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Shot" },
+    "shop_details": { "purchase_price": null, "sell_price": 3000 }
+  },
+  {
+    "name": "Smart Rifle",
+    "description": "The next generation of mass production firearms. It is an upgraded Rifle.",
+    "obtain": ["Shop (Chapter 5 - Graveyard Incident)"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 359, "VIT": 0, "INT": 256, "MEN": 0, "AGI": 0, "TEC": 0, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Shot" },
+    "shop_details": { "purchase_price": 45000, "sell_price": 4500 }
+  },
+  {
+    "name": "Railgun",
+    "description": "This gun fires bullets using electromagnetic induction acceleration.",
+    "obtain": ["Item Development", "Shop after Item Development"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 325, "VIT": 0, "INT": 201, "MEN": 0, "AGI": 0, "TEC": -5, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Snipe Shot" },
+    "shop_details": { "purchase_price": 45000, "sell_price": 4500 }
+  },
+  {
+    "name": "Sniper Rifle",
+    "description": "A rifle with an enhanced scope for accurate long-range firing. It is useful in both distant and close-ranged assaults.",
+    "obtain": ["Item Development", "Shop after Item Development"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 410, "VIT": 0, "INT": 349, "MEN": 0, "AGI": 0, "TEC": 0, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Snipe Shot" },
+    "shop_details": { "purchase_price": 55000, "sell_price": 5500 }
+  },
+  {
+    "name": "Blackrain",
+    "description": "The next generation model of Railgun. The color has changed from white to a more covert black.",
+    "obtain": ["Colosseum Rewards: Will of Justice"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 1180, "VIT": 0, "INT": 1201, "MEN": 0, "AGI": 0, "TEC": -5, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Shot" },
+    "shop_details": { "purchase_price": null, "sell_price": 6000 }
+  },
+  {
+    "name": "Heavy Rifle",
+    "description": "One of several Rifle modifications. This particular customization focuses on firepower over aesthetics.",
+    "obtain": ["Shop (Chapter 6 - To the Deity of Sin)"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 550, "VIT": 0, "INT": 406, "MEN": 0, "AGI": 0, "TEC": 0, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Shot" },
+    "shop_details": { "purchase_price": 75000, "sell_price": 7500 }
+  },
+  {
+    "name": "Revolver Gun",
+    "description": "An upgraded version of the Heavy Revolver. Its focus is on power and accuracy.",
+    "obtain": ["Shop (Chapter 7 - Declaration of War)"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 586, "VIT": 0, "INT": 445, "MEN": 0, "AGI": 0, "TEC": -10, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Shot" },
+    "shop_details": { "purchase_price": 90000, "sell_price": 9000 }
+  },
+  {
+    "name": "Flower",
+    "description": "An assault rifle with a floral motif ripe for parody. Who made this, anyway? Does it have a lot of flower power?",
+    "obtain": ["Colosseum Rewards: Syndicate's Prototype"],
+    "base_stats": { "HP": 0, "SP": 120, "STR": 342, "VIT": 0, "INT": 300, "MEN": 0, "AGI": 0, "TEC": 0, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Snipe Shot" },
+    "shop_details": { "purchase_price": null, "sell_price": 9000 }
+  },
+  {
+    "name": "Vibrant Blue",
+    "description": "Staring down the barrel of this beautiful azure revolver is strangely refreshing.",
+    "obtain": ["Shop (Chapter 7 - Obligatory Hot Springs)"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 712, "VIT": 0, "INT": 555, "MEN": 0, "AGI": 0, "TEC": 0, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Shot" },
+    "shop_details": { "purchase_price": 150000, "sell_price": 1500 }
+  },
+  {
+    "name": "Blood Blaster",
+    "description": "A railgun with crimson accents.",
+    "obtain": ["Infinite Corridor: Treasure"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 875, "VIT": 0, "INT": 584, "MEN": 0, "AGI": 0, "TEC": -10, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Snipe Shot" },
+    "shop_details": { "purchase_price": null, "sell_price": 15000 }
+  },
+  {
+    "name": "Long Range Rifle",
+    "description": "A next generation rifle adjusted for enhanced range accuracy. It is relatively compact and handy in a pinch.",
+    "obtain": ["Shop (Chapter 8 - Defenders)"],
+    "base_stats": { "HP": 0, "SP": -121, "STR": 908, "VIT": 0, "INT": 563, "MEN": 0, "AGI": -121, "TEC": 0, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Snipe Shot" },
+    "shop_details": { "purchase_price": 250000, "sell_price": 25000 }
+  },
+  {
+    "name": "Dandelion",
+    "description": "No matter how sad-I don't care if it's just a pretense-I want to always live under the sun, among the dandelions.",
+    "obtain": ["Colosseum Rewards: Graveyard's Dragon"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 502, "VIT": 0, "INT": 502, "MEN": 0, "AGI": 0, "TEC": 57, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Shotgun" },
+    "shop_details": { "purchase_price": null, "sell_price": 25000 }
+  },
+  {
+    "name": "Vintage Rifle",
+    "description": "A glistening, golden firearm. What is blinding is not just its appearance and functionality, but also its price.",
+    "obtain": ["Item Development", "Shop after Item Development"],
+    "base_stats": { "HP": 0, "SP": -137, "STR": 355, "VIT": 0, "INT": 241, "MEN": 0, "AGI": -137, "TEC": 0, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Shot" },
+    "shop_details": { "purchase_price": 500000, "sell_price": 50000 }
+  },
+  {
+    "name": "Red Radiance",
+    "description": "Quite possibly the most scarlet rifle in existence.",
+    "obtain": ["Shop (Second Playthrough: Chapter 3 - Contact from Kei)"],
+    "base_stats": { "HP": 0, "SP": 0, "STR": 1300, "VIT": 0, "INT": 1170, "MEN": 0, "AGI": 0, "TEC": 65, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Shotgun" },
+    "shop_details": { "purchase_price": 500000, "sell_price": 50000 }
+  },
+  {
+    "name": "Hunting Model",
+    "description": "A luxurious model of Railgun with golden trims. The impact of its power and classy appearance are nearly equal.",
+    "obtain": ["Colosseum Rewards: Lastation's CPU Candidate"],
+    "base_stats": { "HP": 0, "SP": -168, "STR": 1066, "VIT": 0, "INT": 1120, "MEN": 0, "AGI": -168, "TEC": 0, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Snipe Shot" },
+    "shop_details": { "purchase_price": null, "sell_price": 75000 }
+  },
+  {
+    "name": "Linear Railgun",
+    "description": "This is the description of the equipment. It will be replaced soon by a better description.",
+    "obtain": ["Item Development", "Shop after Item Development"],
+    "base_stats": { "HP": 0, "SP": -210, "STR": 2100, "VIT": 0, "INT": 1400, "MEN": 0, "AGI": -210, "TEC": 0, "LUK": 0, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Shot" },
+    "shop_details": { "purchase_price": 900000, "sell_price": 90000 }
+  },
+  {
+    "name": "Gate Keeper",
+    "description": "Lastation has pride in this rifle, which carries the name of their special forces team. Only members of that team may own this masterpiece.",
+    "obtain": ["DLC: Additional Pack 1", "Colosseum Reward: Infiltration! Dev. Facility"],
+    "base_stats": { "HP": 1500, "SP": 1500, "STR": 3375, "VIT": 0, "INT": 2550, "MEN": 300, "AGI": 0, "TEC": 0, "LUK": 300, "MOV": 0 },
+    "parameters": { "range": "N/A", "initial_attack": "Snipe Shot" },
+    "shop_details": { "purchase_price": null, "sell_price": 50000 }
+  }
+]
