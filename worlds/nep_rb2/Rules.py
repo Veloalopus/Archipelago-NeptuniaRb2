@@ -21,7 +21,7 @@ def hasLevel(level:int,state:CollectionState,player:int):
         return True
     return state.has(f"Level {level}",player)
 
-def StartingCharactersStrength(ProgressiveTier:int):   # Neptune, Plutia, Noire
+def StartingCharactersStrength(ProgressiveTier:int):
     if ProgressiveTier == 1:
         return 400
     elif ProgressiveTier == 2:
@@ -36,7 +36,7 @@ def StartingCharactersStrength(ProgressiveTier:int):   # Neptune, Plutia, Noire
         return 2350
     return 50
 
-def MidCharactersStrength(ProgressiveTier:int):     # Blanc, Vert, Nepgear
+def MidCharactersStrength(ProgressiveTier:int):
     if ProgressiveTier == 1:
         return 550
     elif ProgressiveTier == 2:
@@ -49,30 +49,14 @@ def MidCharactersStrength(ProgressiveTier:int):     # Blanc, Vert, Nepgear
         return 2200
     return 275
 
-
-def freakingPeashyStrength(ProgressiveTier:int): #Peashy
-    if ProgressiveTier == 1:
-        return 1200
-    elif ProgressiveTier == 2:
-        return 1450
-    elif ProgressiveTier == 3:
-        return 1800
-    elif ProgressiveTier == 4:
-        return 1800
-    elif ProgressiveTier == 5:
-        return 2200
-    return 1050
-
-def HyperCandidatesStrength(ProgressiveTier:int): # Uni, Rom, Ram
-    if ProgressiveTier == 1:
-        return 1300
-    elif ProgressiveTier == 2:
-        return 1450
-    elif ProgressiveTier == 3:
-        return 2100
-    elif ProgressiveTier == 4:
-        return 2350
-    return 1150
+#def OPCharactersStrength(ProgressiveTier:int): # Histy, Kei, Mina, Chika
+#    if ProgressiveTier == 1:
+#        return 900
+#    elif ProgressiveTier == 2:
+#        return 1150
+#    elif ProgressiveTier == 3:
+#        return 2150
+#    return 700
 
 def ArmorStrength(ProgressiveArmor:int): # All armor
     if ProgressiveArmor == 1:
@@ -92,29 +76,41 @@ def checkDungeonRequirements (PowerRequirement: int, state:CollectionState, play
     characterStrength = []
     armorStrength = []
     if state.has(CharacterNames.neptune, player):
-        characterStrength.append(StartingCharactersStrength(state.count(progressiveGear.neptune_progressive_gear,player)))
-        
+        characterStrength.append(MidCharactersStrength(state.count(progressiveGear.neptune_progressive_gear,player)))
     if state.has(CharacterNames.nepgear, player):
-        characterStrength.append(MidCharactersStrength(state.count(progressiveGear.nepgear_progressive_gear,player)))
-        
+        characterStrength.append(StartingCharactersStrength(state.count(progressiveGear.nepgear_progressive_gear,player)))
+    if state.has(CharacterNames.IF, player):
+        characterStrength.append(StartingCharactersStrength(state.count(progressiveGear.IF_progressive_gear,player)))
+    if state.has(CharacterNames.compa, player):
+        characterStrength.append(StartingCharactersStrength(state.count(progressiveGear.compa_progressive_gear,player)))
+    if state.has(CharacterNames.red, player):
+        characterStrength.append(StartingCharactersStrength(state.count(progressiveGear.red_progressive_gear,player)))
+    if state.has(CharacterNames.broccoli, player):
+        characterStrength.append(StartingCharactersStrength(state.count(progressiveGear.broccoli_progressive_gear,player)))
+    if state.has(CharacterNames.fivepb, player):
+        characterStrength.append(StartingCharactersStrength(state.count(progressiveGear.fivepb_progressive_gear,player)))
+    if state.has(CharacterNames.cave, player):
+        characterStrength.append(StartingCharactersStrength(state.count(progressiveGear.cave_progressive_gear,player)))
+    if state.has(CharacterNames.falcom, player):
+        characterStrength.append(MidCharactersStrength(state.count(progressiveGear.falcom_progressive_gear,player)))
+    if state.has(CharacterNames.cyberconnect2, player):
+        characterStrength.append(MidCharactersStrength(state.count(progressiveGear.cyberconnect2_progressive_gear,player)))
+    if state.has(CharacterNames.tekken, player):
+        characterStrength.append(MidCharactersStrength(state.count(progressiveGear.tekken_progressive_gear,player)))
+    if state.has(CharacterNames.marvy, player):
+        characterStrength.append(MidCharactersStrength(state.count(progressiveGear.marvy_progressive_gear,player)))
     if state.has(CharacterNames.noire, player):
-        characterStrength.append(StartingCharactersStrength(state.count(progressiveGear.noire_progressive_gear,player)))
-        
+        characterStrength.append(MidCharactersStrength(state.count(progressiveGear.noire_progressive_gear,player)))
     if state.has(CharacterNames.blanc,player):
         characterStrength.append(MidCharactersStrength(state.count(progressiveGear.blanc_progressive_gear,player)))
-        
     if state.has(CharacterNames.vert,player):
         characterStrength.append(MidCharactersStrength(state.count(progressiveGear.vert_progressive_gear,player)))
-            
     if state.has(CharacterNames.uni,player):
-        characterStrength.append(HyperCandidatesStrength(state.count(progressiveGear.uni_progressive_gear,player)))
-        
+        characterStrength.append(StartingCharactersStrength(state.count(progressiveGear.uni_progressive_gear,player)))
     if state.has(CharacterNames.rom,player):
-        characterStrength.append(HyperCandidatesStrength(state.count(progressiveGear.rom_progressive_gear,player)))
-        
+        characterStrength.append(MidCharactersStrength(state.count(progressiveGear.rom_progressive_gear,player)))
     if state.has(CharacterNames.ram,player):
-        characterStrength.append(HyperCandidatesStrength(state.count(progressiveGear.ram_progressive_gear,player)))
-        
+        characterStrength.append(MidCharactersStrength(state.count(progressiveGear.ram_progressive_gear,player)))
 
     characterStrength.sort(reverse=True)
     armorTier = state.count(progressiveGear.progressive_armor,player)
@@ -137,10 +133,10 @@ def createDungeonLogic(region:RegionData,player:int):
     return lambda state: dungeonLogic(region,state,player)
 
 def set_win_condition(world: "NepRb2World") -> None:
-    goalLoc = world.multiworld.get_location("Graveyard - Oblivion - True Arfoire", world.player)
+    goalLoc = world.multiworld.get_location("Gamindustri Graveyard - Deity Of Sin Arfoire", world.player)
 
 
     world.multiworld.completion_condition[world.player] = lambda state: state.has("Victory", world.player)
-    world.set_rule(goalLoc, lambda state: checkDungeonRequirements(2050, state, world.player) and hasDungeonUnlocked(state,world.player,DungeonNames.graveyard_oblivion) and state.has(ItemNames.key_old_sword, world.player))
-    world.multiworld.get_location("Graveyard - Oblivion - True Arfoire", world.player).place_locked_item(NepRb2Item("Victory", ItemClassification.progression, None, world.player))
+    world.set_rule(goalLoc, lambda state: checkDungeonRequirements(2050, state, world.player) and hasDungeonUnlocked(state,world.player,DungeonNames.gamindustri_graveyard) and state.has(ItemNames.key_old_sword, world.player))
+    world.multiworld.get_location("Gamindustri Graveyard - Deity Of Sin Arfoire", world.player).place_locked_item(NepRb2Item("Victory", ItemClassification.progression, None, world.player))
 

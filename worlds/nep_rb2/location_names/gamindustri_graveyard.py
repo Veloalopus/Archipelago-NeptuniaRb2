@@ -25,3 +25,10 @@ LocationData("Gamindustri Graveyard","Ms. Inky", 219, "Enemy"),
 LocationData("Gamindustri Graveyard","Disc", 220, "Enemy"),
 LocationData("Gamindustri Graveyard","Plaid Dolphin", 207, "Big Enemy"),
 )
+
+
+
+
+GraveyardGoal: typing.List[LocationData] = (
+LocationData("Gamindustri Graveyard","Deity Of Sin Arfoire",None,0),
+)

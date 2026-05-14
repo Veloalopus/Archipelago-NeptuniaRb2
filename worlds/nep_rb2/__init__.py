@@ -48,8 +48,6 @@ class NepRb2World(World):
 
     def create_items(self) -> None:
         item_pool= []
-        self.multiworld.push_precollected(self.create_item("Dungeon Unlock - Virtua Forest"))
-        self.multiworld.push_precollected(self.create_item("Character - Nepgear"))
         item_pool.append(self.create_item(ItemNames.key_old_sword)) # Old sword doesnt even- OH
         item_pool.append(self.create_item(ItemNames.key_sharicite))
         item_pool.append(self.create_item(ItemNames.key_purple_disc))
@@ -74,20 +72,36 @@ class NepRb2World(World):
             item_pool.append(self.create_item(CharacterName))
             
         for i in range(0,6):
-            item_pool.append(self.create_item(progressiveGear.neptune_progressive_gear))
-        for i in range(0,6):
-            item_pool.append(self.create_item(progressiveGear.noire_progressive_gear))
-        for i in range(0,6):
-#            item_pool.append(self.create_item(progressiveGear.compa_progressive_gear))
-#        for i in range(0,5):
-#            item_pool.append(self.create_item(progressiveGear.blanc_progressive_gear))
-#        for i in range(0,5):
-#            item_pool.append(self.create_item(progressiveGear.vert_progressive_gear))
-#        for i in range(0,5):
             item_pool.append(self.create_item(progressiveGear.nepgear_progressive_gear))
+        for i in range(0,6):
+            item_pool.append(self.create_item(progressiveGear.IF_progressive_gear))
+        for i in range(0,6):
+            item_pool.append(self.create_item(progressiveGear.compa_progressive_gear))
         for i in range(0,5):
-#            item_pool.append(self.create_item(progressiveGear.red_progressive_gear))
-#        for i in range(0,3):
+            item_pool.append(self.create_item(progressiveGear.red_progressive_gear))
+        for i in range(0,5):
+            item_pool.append(self.create_item(progressiveGear.broccoli_progressive_gear))
+        for i in range(0,5):
+            item_pool.append(self.create_item(progressiveGear.fivepb_progressive_gear))
+        for i in range(0,5):
+            item_pool.append(self.create_item(progressiveGear.cave_progressive_gear))
+        for i in range(0,5):
+            item_pool.append(self.create_item(progressiveGear.falcom_progressive_gear))
+        for i in range(0,5):
+            item_pool.append(self.create_item(progressiveGear.neptune_progressive_gear))
+        for i in range(0,5):
+            item_pool.append(self.create_item(progressiveGear.noire_progressive_gear))
+        for i in range(0,5):
+            item_pool.append(self.create_item(progressiveGear.blanc_progressive_gear))
+        for i in range(0,5):
+            item_pool.append(self.create_item(progressiveGear.vert_progressive_gear))
+        for i in range(0,5):
+            item_pool.append(self.create_item(progressiveGear.marvy_progressive_gear))
+        for i in range(0,5):
+            item_pool.append(self.create_item(progressiveGear.cyberconnect2_progressive_gear))
+        for i in range(0,5):
+            item_pool.append(self.create_item(progressiveGear.tekken_progressive_gear))
+        for i in range(0,3):
             item_pool.append(self.create_item(progressiveGear.uni_progressive_gear))
         for i in range(0,4):
             item_pool.append(self.create_item(progressiveGear.rom_progressive_gear))

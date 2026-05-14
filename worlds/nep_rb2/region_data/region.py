@@ -33,7 +33,7 @@ all_dungeon_regions:List[RegionData] = [
     RegionData(lowee_global_expo_west,              300, 1, 10,           lowee_global_expo_east),
     RegionData(midcompany,                          50, 0, 000),
     RegionData(panan_jungle,                        6300, 5, 70),
-    RegionData(powerlevel_island,                   5300, 4, 60),
+    RegionData(powerlevel_island,                   750, 1, 20),
     RegionData(rebeat_resort,                       250, 0, 000),
     RegionData(septent_resort,                      250, 0, 000),
     RegionData(severed_dimension_depths,            1350, 1, 30,           severed_dimension),

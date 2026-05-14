@@ -17,10 +17,17 @@ LocationData("LAN Castle","Treasure 4", 22_4, "Treasure"),
 
 
 LANCastleEnemies: typing.List[LocationData] = (
-LocationData("LAN Castle","Dogoo", 101, "Enemy"),
-LocationData("LAN Castle","Tulip", 103, "Enemy"),
-LocationData("LAN Castle","Radisher", 106, "Enemy"),
-LocationData("LAN Castle","Real Gamer", 104, "Enemy"),
-LocationData("LAN Castle","Grandogoo", 102, "Enemy"),
-LocationData("LAN Castle","Horsebird Leader", 105, "Enemy"),
+LocationData("LAN Castle","Baconvader", 232, "Enemy"),
+LocationData("LAN Castle","Viral Baconvader", 233, "Enemy"),
+LocationData("LAN Castle","Leovader", 236, "Enemy"),
+LocationData("LAN Castle","Viral Leovader", 237, "Enemy"),
+LocationData("LAN Castle","Speedy", 234, "Enemy"),
+LocationData("LAN Castle","Ms. Speedy", 235, "Enemy"),
+LocationData("LAN Castle","Nidhogg", 238, "Big Enemy"),
 )
+
+# How to handle changed enemies
+# Make rule for if "Add Enemies - Lan Castle = True then "Gargoyle" = in logic?
+#LANCastleCHEnemies: typing.List[LocationData] = (
+#LocationData("LAN Castle","Gargoyle",239,"Big Enemy")
+#)

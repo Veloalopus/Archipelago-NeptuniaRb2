@@ -174,7 +174,7 @@ levels: typing.List[LocationData] = (
     LocationData("Lowee Global Expo - West","Grinding",20,"Level"),
     LocationData("Midcompany","Grinding",10,"Level"),
     LocationData("Panan Jungle","Grinding",80,"Level"),
-    LocationData("Powerlevel Island","Grinding",70,"Level"),
+    LocationData("Powerlevel Island","Grinding",30,"Level"),
     LocationData("Rebeat Resort","Grinding",10,"Level"),
     LocationData("Septent Resort","Grinding",10,"Level"),
     LocationData("Severed Dimension Depths","Grinding",30,"Level"),
