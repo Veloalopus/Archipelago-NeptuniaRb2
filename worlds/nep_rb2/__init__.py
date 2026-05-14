@@ -10,22 +10,14 @@ from BaseClasses import CollectionState, Region
 from worlds.AutoWorld import World
 from worlds.LauncherComponents import Component, Type, components, launch_subprocess
 
-def launch_client():
-    """Launch a Rb2 Client"""
-    from .client import launch
-    launch_subprocess(launch, name="NepRb2Client")
 
-components.append(Component(
-    "Hyperdimension Neptunia Re;Birth2 Sisters Generation Client"
-    "NepRb2Client",
-    func=launch_client,
-    component_type=Type.CLIENT
-))
-from .items import NepRb2Item, item_data, allItemData, location_table
+from .items import NepRb2Item, item_data, allItemData,apCharacterItemBaseID
 from .locations import NepRb2Location
 from .options import NepRb2Options
 from .locations import all_locations, gathers, location_table
-from .names import ItemNames
+from .names import ItemNames,progressiveGear
+from .Regions import Nep2RegionDef
+from .Rules import *
 
 
 class NepRb2World(World):
@@ -43,14 +35,66 @@ class NepRb2World(World):
 
     def create_item(self, name:str) -> NepRb2Item:
         return NepRb2Item(name, allItemData[name].type, allItemData[name].code, self.player)
+    
 
     def create_regions(self) -> None:
-        return
+        self.disabled_locations = set()
+        # Create
+        devin = Nep2RegionDef(self.multiworld,self.player,self.options)
+        devin.setup_regions()
+        devin.setup_dungeon_entrace()
+        devin.setup_locations()
+        #set_win_condition(self)
 
     def create_items(self) -> None:
         item_pool= []
-        item_pool.append(self.create_item(ItemNames.healing_grass))
+        self.multiworld.push_precollected(self.create_item("Dungeon Unlock - Virtua Forest"))
+        self.multiworld.push_precollected(self.create_item("Character - Nepgear"))
+        item_pool.append(self.create_item(ItemNames.key_old_sword)) # Old sword doesnt even- OH
+        item_pool.append(self.create_item(ItemNames.key_sharicite))
+        item_pool.append(self.create_item(ItemNames.key_purple_disc))
+        item_pool.append(self.create_item(ItemNames.key_black_disc))
+        item_pool.append(self.create_item(ItemNames.key_white_disc))
+        item_pool.append(self.create_item(ItemNames.key_green_disc))
+        for DungeonName in dungeonItemList.keys():
+            if "Virtua Forest" in DungeonName:
+                self.multiworld.push_precollected(self.create_item(DungeonName)) # nvm i lied
+            else:
+                item_pool.append(self.create_item(DungeonName))
 
+        if self.options.random_character.value > 0:
+            starting_character = self.random.choice(list(characterItemList.keys()))
+        else:
+            starting_character = CharacterNames.nepgear
+        self.multiworld.push_precollected(self.create_item(starting_character))
+        self.starting_character = characterItemList[starting_character].code - apCharacterItemBaseID
+
+        for CharacterName in characterItemList.keys():
+            if starting_character == CharacterName: continue
+            item_pool.append(self.create_item(CharacterName))
+            
+        for i in range(0,6):
+            item_pool.append(self.create_item(progressiveGear.neptune_progressive_gear))
+        for i in range(0,6):
+            item_pool.append(self.create_item(progressiveGear.noire_progressive_gear))
+        for i in range(0,6):
+#            item_pool.append(self.create_item(progressiveGear.compa_progressive_gear))
+#        for i in range(0,5):
+#            item_pool.append(self.create_item(progressiveGear.blanc_progressive_gear))
+#        for i in range(0,5):
+#            item_pool.append(self.create_item(progressiveGear.vert_progressive_gear))
+#        for i in range(0,5):
+            item_pool.append(self.create_item(progressiveGear.nepgear_progressive_gear))
+        for i in range(0,5):
+#            item_pool.append(self.create_item(progressiveGear.red_progressive_gear))
+#        for i in range(0,3):
+            item_pool.append(self.create_item(progressiveGear.uni_progressive_gear))
+        for i in range(0,4):
+            item_pool.append(self.create_item(progressiveGear.rom_progressive_gear))
+        for i in range(0,4):
+            item_pool.append(self.create_item(progressiveGear.ram_progressive_gear))
+        for i in range(0,5):
+            item_pool.append(self.create_item(progressiveGear.progressive_armor))
 
         numbersOfItemsInTheGame = len(self.multiworld.get_unfilled_locations(self.player))
         while numbersOfItemsInTheGame > len(item_pool):
@@ -66,7 +110,11 @@ class NepRb2World(World):
     def set_rules(self) -> None:
 
         return
-    
+    #Its gotten worse somehow lol
 
+    def fill_slot_data(self) -> dict:
+        return {
+            "start_character":self.starting_character
+        }
 
 
