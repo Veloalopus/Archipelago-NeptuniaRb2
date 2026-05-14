@@ -37,6 +37,10 @@ from .virtua_forest import *
 from .world_labyrinth_1st_floor import *
 from .world_labyrinth_2nd_floor import *
 
+goalLocation: typing.List[LocationData] = (
+    GraveyardGoal,
+)
+
 gathers: typing.List[LocationData] = (
     ArfoiresFactory,
     AtariMarshDepths,
@@ -149,12 +153,12 @@ enemies: typing.List[LocationData] = (
 )
 
 levels: typing.List[LocationData] = (
-    LocationData("Arfoire's Factory","Grinding",40,"Level"),
+    LocationData("Arfoire's Factory","Grinding",50,"Level"),
     LocationData("Atari Marsh Depths","Grinding",30,"Level"),
     LocationData("Atari Marsh","Grinding",30,"Level"),
     LocationData("Darkness 60","Grinding",10,"Level"),
     LocationData("Endless Zone","Grinding",10,"Level"),
-    LocationData("Gamindustri Graveyard","Grinding",50,"Level"),
+    LocationData("Gamindustri Graveyard","Grinding",40,"Level"),
     LocationData("Graveyard Depths","Grinding",60,"Level"),
     LocationData("Gapain Field","Grinding",30,"Level"),
     LocationData("Hellfire Hollow","Grinding",80,"Level"),

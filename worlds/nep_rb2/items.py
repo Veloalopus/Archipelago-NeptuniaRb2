@@ -18,6 +18,7 @@ class NepRb2ItemData(NamedTuple):
 
 item_data: dict[str, NepRb2ItemData] = {
 
+    ItemNames.VICTORY:                                      NepRb2ItemData(9999999, ItemClassification.progression),
     ItemNames.healing_grass:                                NepRb2ItemData(1, ItemClassification.useful),
     ItemNames.healing_pod:                                  NepRb2ItemData(2, ItemClassification.useful),
     ItemNames.healing_drink:                                NepRb2ItemData(3, ItemClassification.useful),

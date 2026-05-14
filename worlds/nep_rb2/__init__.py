@@ -44,7 +44,7 @@ class NepRb2World(World):
         devin.setup_regions()
         devin.setup_dungeon_entrace()
         devin.setup_locations()
-        #set_win_condition(self)
+        set_win_condition(self)
 
     def create_items(self) -> None:
         item_pool= []

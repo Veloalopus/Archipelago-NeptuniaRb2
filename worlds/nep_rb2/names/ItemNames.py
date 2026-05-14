@@ -1,3 +1,5 @@
+
+VICTORY                                 ="Victory"
 ## Consumables
 healing_grass                           = "Healing Grass"
 healing_pod                             = "Healing Pod"

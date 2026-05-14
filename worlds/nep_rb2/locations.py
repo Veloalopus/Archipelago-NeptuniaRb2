@@ -2,7 +2,7 @@ import typing
 from BaseClasses import Location
 from .location_names import gathers
 from .location_names import treasures
-#from .location_names import goalLocation
+from .location_names import goalLocation
 from .location_names import enemies
 from .LocationData import LocationData
 
@@ -19,8 +19,8 @@ for map in gathers:
 for map in treasures:
     all_locations += map
 
-#for map in goalLocation:
-    #all_locations += map
+for map in goalLocation:
+    all_locations += map
 
 for map in enemies:
     all_locations += map

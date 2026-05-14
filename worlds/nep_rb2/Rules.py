@@ -136,5 +136,11 @@ def dungeonLogic(region:RegionData,state:CollectionState,player:int):
 def createDungeonLogic(region:RegionData,player:int):
     return lambda state: dungeonLogic(region,state,player)
 
-#def set_win_condition(world: "NepRb2World") -> None:
-#    world.multiworld.completion_condition[world.player] = lambda state: state.can_reach("Graveyard - Oblivion - True Arfoire", world.player)
+def set_win_condition(world: "NepRb2World") -> None:
+    goalLoc = world.multiworld.get_location("Graveyard - Oblivion - True Arfoire", world.player)
+
+
+    world.multiworld.completion_condition[world.player] = lambda state: state.has("Victory", world.player)
+    world.set_rule(goalLoc, lambda state: checkDungeonRequirements(2050, state, world.player) and hasDungeonUnlocked(state,world.player,DungeonNames.graveyard_oblivion) and state.has(ItemNames.key_old_sword, world.player))
+    world.multiworld.get_location("Graveyard - Oblivion - True Arfoire", world.player).place_locked_item(NepRb2Item("Victory", ItemClassification.progression, None, world.player))
+
