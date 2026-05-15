@@ -48,8 +48,7 @@ class NepRb2World(World):
 
     def create_items(self) -> None:
         item_pool= []
-
-        for i in range(0, self.options.goal_total):
+        for i in range(0, max(self.options.goal_total,self.options.goal_required)):
             item_pool.append(self.create_item(ItemNames.key_old_sword)) # Old sword doesnt even- OH
         item_pool.append(self.create_item(ItemNames.key_sharicite))
         item_pool.append(self.create_item(ItemNames.key_purple_disc))
