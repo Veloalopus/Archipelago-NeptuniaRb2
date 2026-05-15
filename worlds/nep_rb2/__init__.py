@@ -75,21 +75,21 @@ class NepRb2World(World):
             
         for i in range(0,6):
             item_pool.append(self.create_item(progressiveGear.nepgear_progressive_gear))
-        for i in range(0,6):
+        for i in range(0,4):
             item_pool.append(self.create_item(progressiveGear.IF_progressive_gear))
-        for i in range(0,6):
+        for i in range(0,4):
             item_pool.append(self.create_item(progressiveGear.compa_progressive_gear))
-        for i in range(0,5):
+        for i in range(0,4):
             item_pool.append(self.create_item(progressiveGear.red_progressive_gear))
-        for i in range(0,5):
+        for i in range(0,4):
             item_pool.append(self.create_item(progressiveGear.broccoli_progressive_gear))
-        for i in range(0,5):
+        for i in range(0,4):
             item_pool.append(self.create_item(progressiveGear.fivepb_progressive_gear))
-        for i in range(0,5):
+        for i in range(0,4):
             item_pool.append(self.create_item(progressiveGear.cave_progressive_gear))
-        for i in range(0,5):
+        for i in range(0,4):
             item_pool.append(self.create_item(progressiveGear.falcom_progressive_gear))
-        for i in range(0,5):
+        for i in range(0,4):
             item_pool.append(self.create_item(progressiveGear.neptune_progressive_gear))
         for i in range(0,5):
             item_pool.append(self.create_item(progressiveGear.noire_progressive_gear))
@@ -97,17 +97,17 @@ class NepRb2World(World):
             item_pool.append(self.create_item(progressiveGear.blanc_progressive_gear))
         for i in range(0,5):
             item_pool.append(self.create_item(progressiveGear.vert_progressive_gear))
-        for i in range(0,5):
+        for i in range(0,4):
             item_pool.append(self.create_item(progressiveGear.marvy_progressive_gear))
-        for i in range(0,5):
+        for i in range(0,4):
             item_pool.append(self.create_item(progressiveGear.cyberconnect2_progressive_gear))
-        for i in range(0,5):
+        for i in range(0,4):
             item_pool.append(self.create_item(progressiveGear.tekken_progressive_gear))
-        for i in range(0,3):
+        for i in range(0,6):
             item_pool.append(self.create_item(progressiveGear.uni_progressive_gear))
-        for i in range(0,4):
+        for i in range(0,6):
             item_pool.append(self.create_item(progressiveGear.rom_progressive_gear))
-        for i in range(0,4):
+        for i in range(0,6):
             item_pool.append(self.create_item(progressiveGear.ram_progressive_gear))
         for i in range(0,5):
             item_pool.append(self.create_item(progressiveGear.progressive_armor))
