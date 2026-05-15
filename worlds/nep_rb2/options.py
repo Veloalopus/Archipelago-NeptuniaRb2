@@ -31,6 +31,7 @@ class NepRb2Options(PerGameCommonOptions):
 
     def get_options(self) -> dict[str]:
         return {
+            "random_character":self.random_character.value,
             "goal_required":self.goal_required.value
         }
 
