@@ -113,11 +113,20 @@ class NepRb2World(World):
             item_pool.append(self.create_item(progressiveGear.progressive_armor))
 
         numbersOfItemsInTheGame = len(self.multiworld.get_unfilled_locations(self.player))
+        itemCreated = []
         while numbersOfItemsInTheGame > len(item_pool):
             if self.random.randrange(0,100) > 55:
-                item_pool.append(self.create_item(useful_items[self.random.randrange(0,len(useful_items))]))
+                item = useful_items[self.random.randrange(0,len(useful_items))]
+                if allItemData[item].unique and item in itemCreated:
+                    continue
+                itemCreated.append(item)
+                item_pool.append(self.create_item(item))
             else:
-                item_pool.append(self.create_item(filler_items[self.random.randrange(0,len(filler_items))]))
+                item = filler_items[self.random.randrange(0,len(useful_items))]
+                if allItemData[item].unique and item in itemCreated:
+                    continue
+                itemCreated.append(item)
+                item_pool.append(self.create_item(item))
         self.multiworld.itempool += item_pool
 
     def get_filler_item_name(self) -> str:
