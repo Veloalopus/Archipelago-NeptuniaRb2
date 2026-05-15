@@ -28,6 +28,12 @@ class NepRb2Options(PerGameCommonOptions):
     random_character:   RandomizedStartCharacter
     goal_required: McguffinCountRequired
     goal_total: McguffinCountTotal
+
+    def get_options(self) -> dict[str]:
+        return {
+            "goal_required":self.goal_required.value
+        }
+
     # DeathLink is always on. Always.
     # death_link: DeathLink
 

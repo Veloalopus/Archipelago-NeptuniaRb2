@@ -130,7 +130,8 @@ class NepRb2World(World):
 
     def fill_slot_data(self) -> dict:
         return {
-            "start_character":self.starting_character
+            "start_character":self.starting_character,
+            "options":self.options.get_options(),
         }
 
 
