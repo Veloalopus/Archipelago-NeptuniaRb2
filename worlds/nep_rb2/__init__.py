@@ -9,7 +9,7 @@ from typing import Set, Dict, Any, Callable, Optional
 from BaseClasses import CollectionState, Region
 from worlds.AutoWorld import World
 from worlds.LauncherComponents import Component, Type, components, launch_subprocess
-
+from Options import Option
 
 from .items import NepRb2Item, item_data, allItemData,apCharacterItemBaseID
 from .locations import NepRb2Location
@@ -24,6 +24,7 @@ class NepRb2World(World):
     """Nep"""
 
     game="Hyperdimension Neptunia Re;Birth2 Sisters Generation"
+    ut_can_gen_without_yaml = True
     options: NepRb2Options
     options_dataclass = NepRb2Options
     location_name_to_id = {loc_data.name: loc_data.id for loc_data in all_locations}
@@ -132,5 +133,23 @@ class NepRb2World(World):
             "start_character":self.starting_character,
             "options":self.options.get_options(),
         }
+    @staticmethod
+    def interpret_slot_data(slot_data: dict[str, Any]) -> dict[str, Any]:
+        # Trigger a regen in UT
+        return slot_data
+    
+    def generate_early(self) -> None:
+        re_gen_passthrough = getattr(self.multiworld, "re_gen_passthrough", {})
+        if re_gen_passthrough and self.game in re_gen_passthrough:
+            # Get the passed through slot data from the real generation
+            slot_data: dict[str, Any] = re_gen_passthrough[self.game]
+
+            slot_options: dict[str, Any] = slot_data.get("options", {})
+            # Set all your options here instead of getting them from the yaml
+            for key, value in slot_options.items():
+                opt: Optional[Option] = getattr(self.options, key, None)
+                if opt is not None:
+                    # You can also set .value directly but that won't work if you have OptionSets
+                    setattr(self.options, key, opt.from_any(value))
 
 

@@ -31,8 +31,10 @@ class NepRb2Options(PerGameCommonOptions):
 
     def get_options(self) -> dict[str]:
         return {
+            "start_inventory_from_pool": self.start_inventory_from_pool.value,
             "random_character":self.random_character.value,
-            "goal_required":self.goal_required.value
+            "goal_required":self.goal_required.value,
+            "goal_total":self.goal_total.value
         }
 
     # DeathLink is always on. Always.
