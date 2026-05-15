@@ -633,7 +633,7 @@ item_data: dict[str, NepRb2ItemData] = {
     ItemNames.material_light_blue_pigment:                           NepRb2ItemData(1038, ItemClassification.filler),
     ItemNames.material_yellow_pigment:                               NepRb2ItemData(1039, ItemClassification.filler),
     ItemNames.material_gold_makin_staff:                             NepRb2ItemData(1062, ItemClassification.filler),
-    ItemNames.weapon_beam_saber:                                   NepRb2ItemData(1101, ItemClassification.useful),
+    ItemNames.weapon_beam_saber:                                   NepRb2ItemData(1101, ItemClassification.useful), # Nepgear Starter
     ItemNames.weapon_beam_blade:                                   NepRb2ItemData(1102, ItemClassification.useful),
     ItemNames.weapon_beam_cutlass:                                 NepRb2ItemData(1103, ItemClassification.useful),
     ItemNames.weapon_beam_saber_mk_2:                              NepRb2ItemData(1104, ItemClassification.useful),
@@ -655,7 +655,7 @@ item_data: dict[str, NepRb2ItemData] = {
     ItemNames.weapon_share_blade:                                  NepRb2ItemData(1120, ItemClassification.useful),
     ItemNames.weapon_plasma_sword:                                 NepRb2ItemData(1121, ItemClassification.useful),
     ItemNames.weapon_plasma_blade:                                 NepRb2ItemData(1122, ItemClassification.useful),
-    ItemNames.weapon_rifle:                                        NepRb2ItemData(1123, ItemClassification.useful),
+    ItemNames.weapon_rifle:                                        NepRb2ItemData(1123, ItemClassification.useful), # Uni Starter
     ItemNames.weapon_heavy_revolver:                               NepRb2ItemData(1124, ItemClassification.useful),
     ItemNames.weapon_assault_rifle:                                NepRb2ItemData(1125, ItemClassification.useful),
     ItemNames.weapon_smart_rifle:                                  NepRb2ItemData(1126, ItemClassification.useful),
@@ -673,7 +673,7 @@ item_data: dict[str, NepRb2ItemData] = {
     ItemNames.weapon_red_radiance:                                 NepRb2ItemData(1138, ItemClassification.useful),
     ItemNames.weapon_hunting_model:                                NepRb2ItemData(1139, ItemClassification.useful),
     ItemNames.weapon_linear_railgun:                               NepRb2ItemData(1140, ItemClassification.useful),
-    ItemNames.weapon_white:                                        NepRb2ItemData(1143, ItemClassification.useful),
+    ItemNames.weapon_white:                                        NepRb2ItemData(1143, ItemClassification.useful), # Rom Starter
     ItemNames.weapon_white_wand:                                   NepRb2ItemData(1144, ItemClassification.useful),
     ItemNames.weapon_posie_wand:                                   NepRb2ItemData(1145, ItemClassification.useful),
     ItemNames.weapon_green_wand:                                   NepRb2ItemData(1146, ItemClassification.useful),
@@ -691,7 +691,7 @@ item_data: dict[str, NepRb2ItemData] = {
     ItemNames.weapon_black_wand:                                   NepRb2ItemData(1158, ItemClassification.useful),
     ItemNames.weapon_brown:                                        NepRb2ItemData(1159, ItemClassification.useful),
     ItemNames.weapon_melee_pencil_g:                               NepRb2ItemData(1160, ItemClassification.useful),
-    ItemNames.weapon_natural_white:                                NepRb2ItemData(1161, ItemClassification.useful),
+    ItemNames.weapon_natural_white:                                NepRb2ItemData(1161, ItemClassification.useful), # Ram Starter
     ItemNames.weapon_white_rod:                                    NepRb2ItemData(1162, ItemClassification.useful),
     ItemNames.weapon_aqua_rod:                                     NepRb2ItemData(1163, ItemClassification.useful),
     ItemNames.weapon_green_staff:                                  NepRb2ItemData(1164, ItemClassification.useful),
@@ -709,7 +709,7 @@ item_data: dict[str, NepRb2ItemData] = {
     ItemNames.weapon_black_staff:                                  NepRb2ItemData(1176, ItemClassification.useful),
     ItemNames.weapon_classic_brown:                                NepRb2ItemData(1177, ItemClassification.useful),
     ItemNames.weapon_metal_dogoo_pencil:                           NepRb2ItemData(1178, ItemClassification.useful),
-    ItemNames.weapon_wooden_sword:                                 NepRb2ItemData(1179, ItemClassification.useful),
+    ItemNames.weapon_wooden_sword:                                 NepRb2ItemData(1179, ItemClassification.useful), # Neptune Starter
     ItemNames.weapon_bamboo_sword:                                 NepRb2ItemData(1180, ItemClassification.useful),
     ItemNames.weapon_hunting_sword:                                NepRb2ItemData(1181, ItemClassification.useful),
     ItemNames.weapon_tachi:                                        NepRb2ItemData(1182, ItemClassification.useful),
@@ -726,7 +726,7 @@ item_data: dict[str, NepRb2ItemData] = {
     ItemNames.weapon_laevateinn:                                   NepRb2ItemData(1193, ItemClassification.useful),
     ItemNames.weapon_kiryu_sword:                                  NepRb2ItemData(1194, ItemClassification.useful),
     ItemNames.weapon_paper_fan:                                    NepRb2ItemData(1195, ItemClassification.useful),
-    ItemNames.weapon_short_sword:                                  NepRb2ItemData(1196, ItemClassification.useful),
+    ItemNames.weapon_short_sword:                                  NepRb2ItemData(1196, ItemClassification.useful), # Noire Starter
     ItemNames.weapon_rapier:                                       NepRb2ItemData(1197, ItemClassification.useful),
     ItemNames.weapon_silver_sword:                                 NepRb2ItemData(1198, ItemClassification.useful),
     ItemNames.weapon_bronze_sword:                                 NepRb2ItemData(1199, ItemClassification.useful),
@@ -737,7 +737,7 @@ item_data: dict[str, NepRb2ItemData] = {
     ItemNames.weapon_caliburn:                                     NepRb2ItemData(1204, ItemClassification.useful),
     ItemNames.weapon_phantom_blade:                                NepRb2ItemData(1205, ItemClassification.useful),
     ItemNames.weapon_durandal:                                     NepRb2ItemData(1206, ItemClassification.useful),
-    ItemNames.weapon_pike:                                         NepRb2ItemData(1207, ItemClassification.useful),
+    ItemNames.weapon_pike:                                         NepRb2ItemData(1207, ItemClassification.useful), # Vert Starter
     ItemNames.weapon_silver_spear:                                 NepRb2ItemData(1208, ItemClassification.useful),
     ItemNames.weapon_javelin:                                      NepRb2ItemData(1209, ItemClassification.useful),
     ItemNames.weapon_iron_lance:                                   NepRb2ItemData(1210, ItemClassification.useful),
@@ -747,8 +747,8 @@ item_data: dict[str, NepRb2ItemData] = {
     ItemNames.weapon_gae_bolg:                                     NepRb2ItemData(1214, ItemClassification.useful),
     ItemNames.weapon_sword_lance:                                  NepRb2ItemData(1215, ItemClassification.useful),
     ItemNames.weapon_areadbhar:                                    NepRb2ItemData(1216, ItemClassification.useful),
-    ItemNames.weapon_gungnir:                                      NepRb2ItemData(1217, ItemClassification.useful),
-    ItemNames.weapon_hammer:                                       NepRb2ItemData(1218, ItemClassification.useful),
+    ItemNames.weapon_gungnir:                                      NepRb2ItemData(1217, ItemClassification.useful), 
+    ItemNames.weapon_hammer:                                       NepRb2ItemData(1218, ItemClassification.useful), # Blanc Starter
     ItemNames.weapon_heavy_hammer:                                 NepRb2ItemData(1219, ItemClassification.useful),
     ItemNames.weapon_bladed_hammer:                                NepRb2ItemData(1220, ItemClassification.useful),
     ItemNames.weapon_feather_hammer:                               NepRb2ItemData(1221, ItemClassification.useful),
@@ -758,8 +758,8 @@ item_data: dict[str, NepRb2ItemData] = {
     ItemNames.weapon_mjollnir:                                     NepRb2ItemData(1225, ItemClassification.useful),
     ItemNames.weapon_steel_hammer:                                 NepRb2ItemData(1226, ItemClassification.useful),
     ItemNames.weapon_the_mediator:                                 NepRb2ItemData(1227, ItemClassification.useful),
-    ItemNames.weapon_cpu_crusher:                                  NepRb2ItemData(1228, ItemClassification.useful),
-    ItemNames.weapon_test_potion:                                  NepRb2ItemData(1229, ItemClassification.useful),
+    ItemNames.weapon_cpu_crusher:                                  NepRb2ItemData(1228, ItemClassification.useful), 
+    ItemNames.weapon_test_potion:                                  NepRb2ItemData(1229, ItemClassification.useful), # Compa Starter
     ItemNames.weapon_expired_liquid:                               NepRb2ItemData(1230, ItemClassification.useful),
     ItemNames.weapon_soda:                                         NepRb2ItemData(1231, ItemClassification.useful),
     ItemNames.weapon_megatoxin:                                    NepRb2ItemData(1232, ItemClassification.useful),
@@ -772,7 +772,7 @@ item_data: dict[str, NepRb2ItemData] = {
     ItemNames.weapon_diethyl_ether:                                NepRb2ItemData(1239, ItemClassification.useful),
     ItemNames.weapon_mysterious_liquid:                            NepRb2ItemData(1240, ItemClassification.useful),
     ItemNames.weapon_mutant_blood:                                 NepRb2ItemData(1241, ItemClassification.useful),
-    ItemNames.weapon_qatar:                                        NepRb2ItemData(1242, ItemClassification.useful),
+    ItemNames.weapon_qatar:                                        NepRb2ItemData(1242, ItemClassification.useful), # IF starter
     ItemNames.weapon_claw:                                         NepRb2ItemData(1243, ItemClassification.useful),
     ItemNames.weapon_venom_claw:                                   NepRb2ItemData(1244, ItemClassification.useful),
     ItemNames.weapon_brisk_qatar:                                  NepRb2ItemData(1245, ItemClassification.useful),
@@ -788,7 +788,7 @@ item_data: dict[str, NepRb2ItemData] = {
     ItemNames.weapon_true_freak_diamond:                           NepRb2ItemData(1255, ItemClassification.useful),
     ItemNames.weapon_dual_blade_neptune:                           NepRb2ItemData(1256, ItemClassification.useful),
     ItemNames.weapon_kings_claw:                                   NepRb2ItemData(1257, ItemClassification.useful),
-    ItemNames.weapon_toy_set:                                      NepRb2ItemData(1258, ItemClassification.useful),
+    ItemNames.weapon_toy_set:                                      NepRb2ItemData(1258, ItemClassification.useful), # Red Starter
     ItemNames.weapon_light_toy_set:                                NepRb2ItemData(1259, ItemClassification.useful),
     ItemNames.weapon_sharp_toy_set:                                NepRb2ItemData(1260, ItemClassification.useful),
     ItemNames.weapon_lead_toy_set:                                 NepRb2ItemData(1261, ItemClassification.useful),
@@ -801,7 +801,7 @@ item_data: dict[str, NepRb2ItemData] = {
     ItemNames.weapon_blessed_toy_set:                              NepRb2ItemData(1268, ItemClassification.useful),
     ItemNames.weapon_gold_toy_set:                                 NepRb2ItemData(1269, ItemClassification.useful),
     ItemNames.weapon_royal_toy_set:                                NepRb2ItemData(1270, ItemClassification.useful),
-    ItemNames.weapon_gema:                                         NepRb2ItemData(1271, ItemClassification.useful),
+    ItemNames.weapon_gema:                                         NepRb2ItemData(1271, ItemClassification.useful), # Broccoli Starter
     ItemNames.weapon_majin_gapps:                                  NepRb2ItemData(1272, ItemClassification.useful),
     ItemNames.weapon_happy_gema:                                   NepRb2ItemData(1273, ItemClassification.useful),
     ItemNames.weapon_happy_majin_gapps:                            NepRb2ItemData(1274, ItemClassification.useful),
@@ -811,7 +811,7 @@ item_data: dict[str, NepRb2ItemData] = {
     ItemNames.weapon_sad_majin_gapps:                              NepRb2ItemData(1278, ItemClassification.useful),
     ItemNames.weapon_crying_majin_gapps:                           NepRb2ItemData(1279, ItemClassification.useful),
     ItemNames.weapon_laughing_gema:                                NepRb2ItemData(1280, ItemClassification.useful),
-    ItemNames.weapon_dragonslayer:                                 NepRb2ItemData(1281, ItemClassification.useful),
+    ItemNames.weapon_dragonslayer:                                 NepRb2ItemData(1281, ItemClassification.useful), # Falcom Starter
     ItemNames.weapon_true_dragonslayer:                            NepRb2ItemData(1282, ItemClassification.useful),
     ItemNames.weapon_bastard_blade:                                NepRb2ItemData(1283, ItemClassification.useful),
     ItemNames.weapon_emerus_sword:                                 NepRb2ItemData(1284, ItemClassification.useful),
@@ -827,7 +827,7 @@ item_data: dict[str, NepRb2ItemData] = {
     ItemNames.weapon_grand_dragonslayer:                           NepRb2ItemData(1294, ItemClassification.useful),
     ItemNames.weapon_tyrant_sword:                                 NepRb2ItemData(1295, ItemClassification.useful),
     ItemNames.weapon_death_dragonslayer:                           NepRb2ItemData(1296, ItemClassification.useful),
-    ItemNames.weapon_scissors:                                     NepRb2ItemData(1297, ItemClassification.useful),
+    ItemNames.weapon_scissors:                                     NepRb2ItemData(1297, ItemClassification.useful), # Cave Starter
     ItemNames.weapon_wind_sword:                                   NepRb2ItemData(1298, ItemClassification.useful),
     ItemNames.weapon_scissor_blade:                                NepRb2ItemData(1299, ItemClassification.useful),
     ItemNames.weapon_feather_sword:                                NepRb2ItemData(1300, ItemClassification.useful),
@@ -843,7 +843,7 @@ item_data: dict[str, NepRb2ItemData] = {
     ItemNames.weapon_angel_feather:                                NepRb2ItemData(1310, ItemClassification.useful),
     ItemNames.weapon_jilbalard:                                    NepRb2ItemData(1311, ItemClassification.useful),
     ItemNames.weapon_blackwind:                                    NepRb2ItemData(1312, ItemClassification.useful),
-    ItemNames.weapon_pla_01_sl:                                    NepRb2ItemData(1313, ItemClassification.useful),
+    ItemNames.weapon_pla_01_sl:                                    NepRb2ItemData(1313, ItemClassification.useful), # 5pb Starter
     ItemNames.weapon_pb_500_br:                                    NepRb2ItemData(1314, ItemClassification.useful),
     ItemNames.weapon_ras_01_gr:                                    NepRb2ItemData(1315, ItemClassification.useful),
     ItemNames.weapon_v_001_pk:                                     NepRb2ItemData(1316, ItemClassification.useful),
@@ -853,7 +853,7 @@ item_data: dict[str, NepRb2ItemData] = {
     ItemNames.weapon_ras_02_pl:                                    NepRb2ItemData(1320, ItemClassification.useful),
     ItemNames.weapon_broom:                                        NepRb2ItemData(1321, ItemClassification.useful),
     ItemNames.weapon_v_000_bl:                                     NepRb2ItemData(1322, ItemClassification.useful),
-    ItemNames.weapon_cyber_edge:                                   NepRb2ItemData(1323, ItemClassification.useful),
+    ItemNames.weapon_cyber_edge:                                   NepRb2ItemData(1323, ItemClassification.useful), # CC2 Starter
     ItemNames.weapon_twin_bone_crusher:                            NepRb2ItemData(1324, ItemClassification.useful),
     ItemNames.weapon_twin_azures:                                  NepRb2ItemData(1325, ItemClassification.useful),
     ItemNames.weapon_cyber_edge_2:                                 NepRb2ItemData(1326, ItemClassification.useful),
@@ -863,7 +863,7 @@ item_data: dict[str, NepRb2ItemData] = {
     ItemNames.weapon_twin_light_fangs:                             NepRb2ItemData(1330, ItemClassification.useful),
     ItemNames.weapon_magical_twins:                                NepRb2ItemData(1331, ItemClassification.useful),
     ItemNames.weapon_magic_blood_twins:                            NepRb2ItemData(1332, ItemClassification.useful),
-    ItemNames.weapon_ninja_sword:                                  NepRb2ItemData(1333, ItemClassification.useful),
+    ItemNames.weapon_ninja_sword:                                  NepRb2ItemData(1333, ItemClassification.useful), # Marvy Starter
     ItemNames.weapon_shinobi_blade:                                NepRb2ItemData(1334, ItemClassification.useful),
     ItemNames.weapon_kura:                                         NepRb2ItemData(1335, ItemClassification.useful),
     ItemNames.weapon_hishou:                                       NepRb2ItemData(1336, ItemClassification.useful),
@@ -873,7 +873,7 @@ item_data: dict[str, NepRb2ItemData] = {
     ItemNames.weapon_nadare:                                       NepRb2ItemData(1340, ItemClassification.useful),
     ItemNames.weapon_hebi:                                         NepRb2ItemData(1341, ItemClassification.useful),
     ItemNames.weapon_yuuga:                                        NepRb2ItemData(1342, ItemClassification.useful),
-    ItemNames.weapon_brawl_karate:                                 NepRb2ItemData(1343, ItemClassification.useful),
+    ItemNames.weapon_brawl_karate:                                 NepRb2ItemData(1343, ItemClassification.useful), # Tekken Starter
     ItemNames.weapon_b_k_1st_dan:                                  NepRb2ItemData(1344, ItemClassification.useful),
     ItemNames.weapon_b_k_2nd_dan:                                  NepRb2ItemData(1345, ItemClassification.useful),
     ItemNames.weapon_b_k_3rd_dan:                                  NepRb2ItemData(1346, ItemClassification.useful),
@@ -883,25 +883,25 @@ item_data: dict[str, NepRb2ItemData] = {
     ItemNames.weapon_b_k_emperor:                                  NepRb2ItemData(1350, ItemClassification.useful),
     ItemNames.weapon_b_k_tekken_deity:                             NepRb2ItemData(1351, ItemClassification.useful),
     ItemNames.weapon_b_k_true_deity:                               NepRb2ItemData(1352, ItemClassification.useful),
-    ItemNames.weapon_short_blade:                                  NepRb2ItemData(1363, ItemClassification.useful),
+    ItemNames.weapon_short_blade:                                  NepRb2ItemData(1363, ItemClassification.useful), # Kei Starter
     ItemNames.weapon_metal_blade:                                  NepRb2ItemData(1364, ItemClassification.useful),
     ItemNames.weapon_jewel_sword:                                  NepRb2ItemData(1365, ItemClassification.useful),
     ItemNames.weapon_gate_keeper_beta:                             NepRb2ItemData(1366, ItemClassification.useful),
     ItemNames.weapon_superior_blade:                               NepRb2ItemData(1367, ItemClassification.useful),
     ItemNames.weapon_gate_keeper_alpha:                            NepRb2ItemData(1368, ItemClassification.useful),
-    ItemNames.weapon_light_staff:                                  NepRb2ItemData(1369, ItemClassification.useful),
+    ItemNames.weapon_light_staff:                                  NepRb2ItemData(1369, ItemClassification.useful), # Mina Starter
     ItemNames.weapon_apprentice_staff:                             NepRb2ItemData(1370, ItemClassification.useful),
     ItemNames.weapon_compact_wand:                                 NepRb2ItemData(1371, ItemClassification.useful),
     ItemNames.weapon_magical_staff:                                NepRb2ItemData(1372, ItemClassification.useful),
     ItemNames.weapon_three_d_wand:                                 NepRb2ItemData(1373, ItemClassification.useful),
     ItemNames.weapon_star_rod:                                     NepRb2ItemData(1374, ItemClassification.useful),
-    ItemNames.weapon_light_spear:                                  NepRb2ItemData(1375, ItemClassification.useful),
+    ItemNames.weapon_light_spear:                                  NepRb2ItemData(1375, ItemClassification.useful), # Chika Starter
     ItemNames.weapon_hunting_spear:                                NepRb2ItemData(1376, ItemClassification.useful),
     ItemNames.weapon_glorious_spear:                               NepRb2ItemData(1377, ItemClassification.useful),
     ItemNames.weapon_core_spear:                                   NepRb2ItemData(1378, ItemClassification.useful),
     ItemNames.weapon_arcade_spear:                                 NepRb2ItemData(1379, ItemClassification.useful),
     ItemNames.weapon_elite_spear:                                  NepRb2ItemData(1380, ItemClassification.useful),
-    ItemNames.weapon_history_tome:                                 NepRb2ItemData(1381, ItemClassification.useful),
+    ItemNames.weapon_history_tome:                                 NepRb2ItemData(1381, ItemClassification.useful), # Histy Starter
     ItemNames.weapon_strategy_guide:                               NepRb2ItemData(1382, ItemClassification.useful),
     ItemNames.weapon_poem_notes:                                   NepRb2ItemData(1383, ItemClassification.useful),
     ItemNames.weapon_hard_cover:                                   NepRb2ItemData(1384, ItemClassification.useful),
@@ -2252,11 +2252,15 @@ characterItemList: dict[str, NepRb2ItemData] = {
     CharacterNames.marvy:            NepRb2ItemData(apCharacterItemBaseID + 17, ItemClassification.progression),
     CharacterNames.cyberconnect2:    NepRb2ItemData(apCharacterItemBaseID + 15, ItemClassification.progression),
     CharacterNames.tekken:           NepRb2ItemData(apCharacterItemBaseID + 18, ItemClassification.progression),
+    CharacterNames.histoire:         NepRb2ItemData(apCharacterItemBaseID + 19, ItemClassification.progression),
+    CharacterNames.kei:              NepRb2ItemData(apCharacterItemBaseID + 23, ItemClassification.progression),
+    CharacterNames.mina:             NepRb2ItemData(apCharacterItemBaseID + 24, ItemClassification.progression),
+    CharacterNames.chika:            NepRb2ItemData(apCharacterItemBaseID + 25, ItemClassification.progression),
 }
-#   CharacterNames.histoire:         NepRb2ItemData(apCharacterItemBaseID + 19, ItemClassification.progression), # OP Characters
-#   CharacterNames.kei:              NepRb2ItemData(apCharacterItemBaseID + 23, ItemClassification.progression),
-#   CharacterNames.mina:             NepRb2ItemData(apCharacterItemBaseID + 24, ItemClassification.progression),
-#   CharacterNames.chika:            NepRb2ItemData(apCharacterItemBaseID + 25, ItemClassification.progression),
+    # OP Characters
+   
+   
+   
 
 progressiveGearItemList: dict[str, NepRb2ItemData] = {
     progressiveGear.nepgear_progressive_gear:          NepRb2ItemData(progressiveGearBaseID + 6, ItemClassification.progression),
@@ -2277,6 +2281,10 @@ progressiveGearItemList: dict[str, NepRb2ItemData] = {
     progressiveGear.marvy_progressive_gear:            NepRb2ItemData(progressiveGearBaseID + 17, ItemClassification.progression),
     progressiveGear.cyberconnect2_progressive_gear:    NepRb2ItemData(progressiveGearBaseID + 15, ItemClassification.progression),
     progressiveGear.tekken_progressive_gear:           NepRb2ItemData(progressiveGearBaseID + 18, ItemClassification.progression),
+    progressiveGear.histoire_progressive_gear:         NepRb2ItemData(progressiveGearBaseID + 19, ItemClassification.progression),
+    progressiveGear.kei_progressive_gear:              NepRb2ItemData(progressiveGearBaseID + 23, ItemClassification.progression),
+    progressiveGear.mina_progressive_gear:             NepRb2ItemData(progressiveGearBaseID + 24, ItemClassification.progression),
+    progressiveGear.chika_progressive_gear:            NepRb2ItemData(progressiveGearBaseID + 25, ItemClassification.progression),
     progressiveGear.progressive_armor:                 NepRb2ItemData(progressiveGearBaseID + 26, ItemClassification.progression),
 }
 

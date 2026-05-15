@@ -57,7 +57,7 @@ class NepRb2World(World):
         item_pool.append(self.create_item(ItemNames.key_white_disc))
         item_pool.append(self.create_item(ItemNames.key_green_disc))
         for DungeonName in dungeonItemList.keys():
-            if "Virtua Forest" in DungeonName:
+            if DungeonName == "Dungeon Unlock - Virtua Forest":
                 self.multiworld.push_precollected(self.create_item(DungeonName)) # nvm i lied
             else:
                 item_pool.append(self.create_item(DungeonName))

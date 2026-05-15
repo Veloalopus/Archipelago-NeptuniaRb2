@@ -1,22 +1,22 @@
-nepgear: 1
-IF: 2
-compa: 3
-uni: 4
-rom: 5
-ram: 6
-red: 7
-broccoli: 8
-fivepb: 9
-cave: 10
-falcom: 11
-neptune: 12
-noire: 13
-blanc: 14
-vert:15
-cyberconnect2:16
+nepgear: 6
+IF: 11
+compa: 12
+uni: 8
+rom: 9
+ram: 10
+red: 20
+broccoli: 16
+fivepb: 22
+cave: 21
+falcom: 13
+neptune: 1
+noire: 3
+blanc: 4
+vert:5
+cyberconnect2:15
 marvy:17
 tekken:18
-mina:19
-kei:20
-chika:21
-histoire:22
+mina:24
+kei:23
+chika:25
+histoire:19

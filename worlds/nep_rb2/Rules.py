@@ -30,9 +30,9 @@ def StartingCharactersStrength(ProgressiveTier:int):
     elif ProgressiveTier == 3:
         return 1050
     elif ProgressiveTier == 4:
-        return 1450
+        return 1250
     elif ProgressiveTier == 5:
-        return 2150
+        return 1950
     elif ProgressiveTier == 6:
         return 2350
     return 50
@@ -50,14 +50,26 @@ def MidCharactersStrength(ProgressiveTier:int):
         return 2200
     return 275
 
-#def OPCharactersStrength(ProgressiveTier:int): # Histy, Kei, Mina, Chika
-#    if ProgressiveTier == 1:
-#        return 900
-#    elif ProgressiveTier == 2:
-#        return 1150
-#    elif ProgressiveTier == 3:
-#        return 2150
-#    return 700
+
+def MakerCharactersStrength(ProgressiveTier:int):
+    if ProgressiveTier ==1:
+        return 400
+    elif ProgressiveTier ==2:
+        return 750
+    elif ProgressiveTier ==3:
+        return 1250
+    elif ProgressiveTier ==4:
+        return 2250
+    return 200
+
+def OPCharactersStrength(ProgressiveTier:int): # Histy, Kei, Mina, Chika
+    if ProgressiveTier == 1:
+        return 900
+    elif ProgressiveTier == 2:
+        return 1250
+    elif ProgressiveTier == 3:
+        return 2250
+    return 550
 
 def ArmorStrength(ProgressiveArmor:int): # All armor
     if ProgressiveArmor == 1:
@@ -81,25 +93,25 @@ def checkDungeonRequirements (PowerRequirement: int, state:CollectionState, play
     if state.has(CharacterNames.nepgear, player):
         characterStrength.append(StartingCharactersStrength(state.count(progressiveGear.nepgear_progressive_gear,player)))
     if state.has(CharacterNames.IF, player):
-        characterStrength.append(StartingCharactersStrength(state.count(progressiveGear.IF_progressive_gear,player)))
+        characterStrength.append(MakerCharactersStrength(state.count(progressiveGear.IF_progressive_gear,player)))
     if state.has(CharacterNames.compa, player):
-        characterStrength.append(StartingCharactersStrength(state.count(progressiveGear.compa_progressive_gear,player)))
+        characterStrength.append(MakerCharactersStrength(state.count(progressiveGear.compa_progressive_gear,player)))
     if state.has(CharacterNames.red, player):
-        characterStrength.append(StartingCharactersStrength(state.count(progressiveGear.red_progressive_gear,player)))
+        characterStrength.append(MakerCharactersStrength(state.count(progressiveGear.red_progressive_gear,player)))
     if state.has(CharacterNames.broccoli, player):
-        characterStrength.append(StartingCharactersStrength(state.count(progressiveGear.broccoli_progressive_gear,player)))
+        characterStrength.append(MakerCharactersStrength(state.count(progressiveGear.broccoli_progressive_gear,player)))
     if state.has(CharacterNames.fivepb, player):
-        characterStrength.append(StartingCharactersStrength(state.count(progressiveGear.fivepb_progressive_gear,player)))
+        characterStrength.append(MakerCharactersStrength(state.count(progressiveGear.fivepb_progressive_gear,player)))
     if state.has(CharacterNames.cave, player):
-        characterStrength.append(StartingCharactersStrength(state.count(progressiveGear.cave_progressive_gear,player)))
+        characterStrength.append(MakerCharactersStrength(state.count(progressiveGear.cave_progressive_gear,player)))
     if state.has(CharacterNames.falcom, player):
-        characterStrength.append(MidCharactersStrength(state.count(progressiveGear.falcom_progressive_gear,player)))
+        characterStrength.append(MakerCharactersStrength(state.count(progressiveGear.falcom_progressive_gear,player)))
     if state.has(CharacterNames.cyberconnect2, player):
-        characterStrength.append(MidCharactersStrength(state.count(progressiveGear.cyberconnect2_progressive_gear,player)))
+        characterStrength.append(MakerCharactersStrength(state.count(progressiveGear.cyberconnect2_progressive_gear,player)))
     if state.has(CharacterNames.tekken, player):
-        characterStrength.append(MidCharactersStrength(state.count(progressiveGear.tekken_progressive_gear,player)))
+        characterStrength.append(MakerCharactersStrength(state.count(progressiveGear.tekken_progressive_gear,player)))
     if state.has(CharacterNames.marvy, player):
-        characterStrength.append(MidCharactersStrength(state.count(progressiveGear.marvy_progressive_gear,player)))
+        characterStrength.append(MakerCharactersStrength(state.count(progressiveGear.marvy_progressive_gear,player)))
     if state.has(CharacterNames.noire, player):
         characterStrength.append(MidCharactersStrength(state.count(progressiveGear.noire_progressive_gear,player)))
     if state.has(CharacterNames.blanc,player):
@@ -109,9 +121,17 @@ def checkDungeonRequirements (PowerRequirement: int, state:CollectionState, play
     if state.has(CharacterNames.uni,player):
         characterStrength.append(StartingCharactersStrength(state.count(progressiveGear.uni_progressive_gear,player)))
     if state.has(CharacterNames.rom,player):
-        characterStrength.append(MidCharactersStrength(state.count(progressiveGear.rom_progressive_gear,player)))
+        characterStrength.append(StartingCharactersStrength(state.count(progressiveGear.rom_progressive_gear,player)))
     if state.has(CharacterNames.ram,player):
-        characterStrength.append(MidCharactersStrength(state.count(progressiveGear.ram_progressive_gear,player)))
+        characterStrength.append(StartingCharactersStrength(state.count(progressiveGear.ram_progressive_gear,player)))
+    if state.has(CharacterNames.kei,player):
+        characterStrength.append(OPCharactersStrength(state.count(progressiveGear.kei_progressive_gear,player)))
+    if state.has(CharacterNames.mina,player):
+        characterStrength.append(OPCharactersStrength(state.count(progressiveGear.mina_progressive_gear,player)))
+    if state.has(CharacterNames.chika,player):
+        characterStrength.append(OPCharactersStrength(state.count(progressiveGear.chika_progressive_gear,player)))
+    if state.has(CharacterNames.histoire,player):
+        characterStrength.append(OPCharactersStrength(state.count(progressiveGear.histoire_progressive_gear,player)))
 
     characterStrength.sort(reverse=True)
     armorTier = state.count(progressiveGear.progressive_armor,player)
