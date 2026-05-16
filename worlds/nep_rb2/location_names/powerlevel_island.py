@@ -11,9 +11,9 @@ LocationData("Powerlevel Island","Gather 5", 30_5, "Gather"),
 
 
 PowerlevelIslandTreasures: typing.List[LocationData] = (
-LocationData("Powerlevel Island","Treasure 1", 30_1, "Treasure"),
-LocationData("Powerlevel Island","Treasure 2", 30_2, "Treasure"),
-LocationData("Powerlevel Island","Treasure 3", 30_3, "Treasure"),
+LocationData("Powerlevel Island","Treasure 1", 29_1, "Treasure"),
+LocationData("Powerlevel Island","Treasure 2", 29_2, "Treasure"),
+LocationData("Powerlevel Island","Treasure 3", 29_3, "Treasure"),
 )
 
 

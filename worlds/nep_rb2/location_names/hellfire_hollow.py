@@ -11,10 +11,10 @@ LocationData("Hellfire Hollow","Gather 5", 33_5, "Gather"),
 
 
 HellfireHollowTreasures: typing.List[LocationData] = (
-LocationData("Hellfire Hollow","Treasure 1", 33_1, "Treasure"),
-LocationData("Hellfire Hollow","Treasure 2", 33_2, "Treasure"),
-LocationData("Hellfire Hollow","Treasure 3", 33_3, "Treasure"),
-LocationData("Hellfire Hollow","Treasure 4", 33_4, "Treasure"),
+LocationData("Hellfire Hollow","Treasure 1", 32_1, "Treasure"),
+LocationData("Hellfire Hollow","Treasure 2", 32_2, "Treasure"),
+LocationData("Hellfire Hollow","Treasure 3", 32_3, "Treasure"),
+LocationData("Hellfire Hollow","Treasure 4", 32_4, "Treasure"),
 )
 
 

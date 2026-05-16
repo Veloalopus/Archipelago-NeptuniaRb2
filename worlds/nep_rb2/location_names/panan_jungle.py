@@ -11,10 +11,10 @@ LocationData("Panan Jungle","Gather 5", 31_5, "Gather"),
 
 
 PananJungleTreasures: typing.List[LocationData] = (
-LocationData("Panan Jungle","Treasure 1", 31_1, "Treasure"),
-LocationData("Panan Jungle","Treasure 2", 31_2, "Treasure"),
-LocationData("Panan Jungle","Treasure 3", 31_3, "Treasure"),
-LocationData("Panan Jungle","Treasure 4", 31_4, "Treasure"),
+LocationData("Panan Jungle","Treasure 1", 30_1, "Treasure"),
+LocationData("Panan Jungle","Treasure 2", 30_2, "Treasure"),
+LocationData("Panan Jungle","Treasure 3", 30_3, "Treasure"),
+LocationData("Panan Jungle","Treasure 4", 30_4, "Treasure"),
 )
 
 

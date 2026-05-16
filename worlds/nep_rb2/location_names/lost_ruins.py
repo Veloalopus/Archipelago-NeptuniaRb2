@@ -11,9 +11,9 @@ LocationData("Lost Ruins","Gather 5", 32_5, "Gather"),
 
 
 LostRuinsTreasures: typing.List[LocationData] = (
-LocationData("Lost Ruins","Treasure 1", 32_1, "Treasure"),
-LocationData("Lost Ruins","Treasure 2", 32_2, "Treasure"),
-LocationData("Lost Ruins","Treasure 3", 32_3, "Treasure"),
+LocationData("Lost Ruins","Treasure 1", 31_1, "Treasure"),
+LocationData("Lost Ruins","Treasure 2", 31_2, "Treasure"),
+LocationData("Lost Ruins","Treasure 3", 31_3, "Treasure"),
 )
 
 

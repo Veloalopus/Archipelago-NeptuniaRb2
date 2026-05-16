@@ -11,10 +11,10 @@ LocationData("Trinity Marsh","Gather 5", 35_5, "Gather"),
 
 
 TrinityMarshTreasures: typing.List[LocationData] = (
-LocationData("Trinity Marsh","Treasure 1", 35_1, "Treasure"),
-LocationData("Trinity Marsh","Treasure 2", 35_2, "Treasure"),
-LocationData("Trinity Marsh","Treasure 3", 35_3, "Treasure"),
-LocationData("Trinity Marsh","Treasure 4", 35_4, "Treasure"),
+LocationData("Trinity Marsh","Treasure 1", 34_1, "Treasure"),
+LocationData("Trinity Marsh","Treasure 2", 34_2, "Treasure"),
+LocationData("Trinity Marsh","Treasure 3", 34_3, "Treasure"),
+LocationData("Trinity Marsh","Treasure 4", 34_4, "Treasure"),
 )
 
 

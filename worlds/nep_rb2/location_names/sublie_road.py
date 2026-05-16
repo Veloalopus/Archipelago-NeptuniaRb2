@@ -12,9 +12,9 @@ LocationData("Sublie Road","Gather 6", 34_6, "Gather"),
 
 
 SublieRoadTreasures: typing.List[LocationData] = (
-LocationData("Sublie Road","Treasure 1", 34_1, "Treasure"),
-LocationData("Sublie Road","Treasure 2", 34_2, "Treasure"),
-LocationData("Sublie Road","Treasure 3", 34_3, "Treasure"),
+LocationData("Sublie Road","Treasure 1", 33_1, "Treasure"),
+LocationData("Sublie Road","Treasure 2", 33_2, "Treasure"),
+LocationData("Sublie Road","Treasure 3", 33_3, "Treasure"),
 )
 
 
