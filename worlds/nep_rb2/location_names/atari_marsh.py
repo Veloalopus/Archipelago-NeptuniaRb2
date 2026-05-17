@@ -19,8 +19,8 @@ LocationData("Atari Marsh","Treasure 4", 18_4, "Treasure"),
 
 
 AtariMarshEnemies: typing.List[LocationData] = (
-LocationData("Atari Marsh","Harevader", 210, "Enemy"),
-LocationData("Atari Marsh","Viral Harevader", 211, "Enemy"),
+LocationData("Atari Marsh","Meowvader", 202, "Enemy"),
+LocationData("Atari Marsh","Viral Meowvader", 203, "Enemy"),
 LocationData("Atari Marsh","Met Froggy", 204, "Enemy"),
 LocationData("Atari Marsh","Matango", 205, "Enemy"),
 LocationData("Atari Marsh","Viral Matango", 206, "Enemy"),
