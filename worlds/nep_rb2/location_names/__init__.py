@@ -39,6 +39,7 @@ from .world_labyrinth_2nd_floor import *
 
 goalLocation: typing.List[LocationData] = (
     GraveyardGoal,
+    CpuFights
 )
 
 gathers: typing.List[LocationData] = (

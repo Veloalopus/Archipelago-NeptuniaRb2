@@ -30,3 +30,10 @@ LocationData("Virtua Forest","Horsebird Leader", 105, "Enemy"),
 #LocationData("Virtua Forest","Dogoo S", 1001, "Scripted"),
 #LocationData("Virtua Forest","Grandogoo S", 1002, "Scripted"),
 )
+
+
+CpuFights: typing.List[LocationData] = (
+LocationData("Virtua Forest","Laststation Fight",None,0),
+LocationData("Virtua Forest","Leanbox Fight",None,0),
+LocationData("Virtua Forest","Lowee Fight",None,0),
+)

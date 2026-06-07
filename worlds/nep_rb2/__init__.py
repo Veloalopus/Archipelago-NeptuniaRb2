@@ -11,7 +11,7 @@ from worlds.AutoWorld import World
 from worlds.LauncherComponents import Component, Type, components, launch_subprocess
 from Options import Option
 
-from .items import NepRb2Item, item_data, allItemData,apCharacterItemBaseID
+from .items import NepRb2Item, item_data, allItemData,apCharacterItemBaseID,eventItemList
 from .locations import NepRb2Location
 from .options import NepRb2Options
 from .locations import all_locations, gathers, location_table
@@ -61,7 +61,9 @@ class NepRb2World(World):
                 self.multiworld.push_precollected(self.create_item(DungeonName)) # nvm i lied
             else:
                 item_pool.append(self.create_item(DungeonName))
-
+        for cg in eventItemList.keys():
+            item_pool.append(self.create_item(cg))
+            
         if self.options.random_character.value > 0:
             starting_character = self.random.choice(list(characterItemList.keys()))
         else:
