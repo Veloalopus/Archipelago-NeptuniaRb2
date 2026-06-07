@@ -49,13 +49,7 @@ class NepRb2World(World):
 
     def create_items(self) -> None:
         item_pool= []
-        for i in range(0, max(self.options.goal_total,self.options.goal_required)):
-            item_pool.append(self.create_item(ItemNames.key_old_sword)) # Old sword doesnt even- OH
-        item_pool.append(self.create_item(ItemNames.key_sharicite))
-        item_pool.append(self.create_item(ItemNames.key_purple_disc))
-        item_pool.append(self.create_item(ItemNames.key_black_disc))
-        item_pool.append(self.create_item(ItemNames.key_white_disc))
-        item_pool.append(self.create_item(ItemNames.key_green_disc))
+        item_pool.append(self.create_item(ItemNames.key_old_sword))
         for DungeonName in dungeonItemList.keys():
             if DungeonName == "Dungeon Unlock - Virtua Forest":
                 self.multiworld.push_precollected(self.create_item(DungeonName)) # nvm i lied

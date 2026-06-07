@@ -158,10 +158,10 @@ def set_win_condition(world: "NepRb2World") -> None:
     cpuFight = world.multiworld.get_location("Virtua Forest - Laststation Fight", world.player)
     cpuFight1 = world.multiworld.get_location("Virtua Forest - Leanbox Fight", world.player)
     cpuFight2 = world.multiworld.get_location("Virtua Forest - Lowee Fight", world.player)
-    world.set_rule(cpuFight, lambda state: checkDungeonRequirements(2050, state, world.player, 4)and state.has(ItemNames.lastation_kill_event, world.player))
-    world.set_rule(cpuFight1, lambda state: checkDungeonRequirements(2050, state, world.player, 4)and state.has(ItemNames.leanbox_kill_event, world.player))
-    world.set_rule(cpuFight2, lambda state: checkDungeonRequirements(2050, state, world.player, 4) and state.has(ItemNames.lowee_kill_event, world.player))
-    world.set_rule(goalLoc, lambda state: checkDungeonRequirements(2050, state, world.player, 4) and state.has(ItemNames.key_old_sword, world.player) and state.can_reach(cpuFight) and state.can_reach(cpuFight1) and state.can_reach(cpuFight2))
+    world.set_rule(cpuFight, lambda state: checkDungeonRequirements(3550, state, world.player, 4)and state.has(ItemNames.lastation_kill_event, world.player))
+    world.set_rule(cpuFight1, lambda state: checkDungeonRequirements(3550, state, world.player, 4)and state.has(ItemNames.leanbox_kill_event, world.player))
+    world.set_rule(cpuFight2, lambda state: checkDungeonRequirements(3550, state, world.player, 4) and state.has(ItemNames.lowee_kill_event, world.player))
+    world.set_rule(goalLoc, lambda state: checkDungeonRequirements(3550, state, world.player, 4) and state.has(ItemNames.key_old_sword, world.player) and state.can_reach(cpuFight) and state.can_reach(cpuFight1) and state.can_reach(cpuFight2))
     
     world.multiworld.get_location("Gamindustri Graveyard - Deity Of Sin Arfoire", world.player).place_locked_item(NepRb2Item("Victory", ItemClassification.progression, None, world.player))
 
