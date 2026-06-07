@@ -2222,3 +2222,10 @@ dungeon_unlock_33                             ="Dungeon Unlock - Hellfire Hollow
 dungeon_unlock_34                             ="Dungeon Unlock - Sublie Road"
 dungeon_unlock_35                             ="Dungeon Unlock - Trinity Marsh"
 #dungeon_unlock_36                             ="Dungeon Unlock - Colosseum" #???
+
+
+#Event Items
+
+lastation_kill_event              ="Conquest - Kill Uni & Noire" # Trigger for Uni and Noire conquest fight
+lowee_kill_event                  ="Conquest - Kill Blanc & Rom & Ram" # Trigger for Lowee Sisters fight
+leanbox_kill_event                ="Conquest - Kill Vert & Linda" # Trigger for Vert & Linda fights

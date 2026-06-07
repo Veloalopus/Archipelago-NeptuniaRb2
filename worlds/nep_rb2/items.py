@@ -3,10 +3,10 @@ from typing import NamedTuple, Optional
 
 from BaseClasses import Item, ItemClassification
 from .names import ItemNames, DungeonIDs, CharacterNames, progressiveGear
-
 apDungeonItemBaseID = 2_000_000
 apCharacterItemBaseID = 3_000_000
 progressiveGearBaseID = 3_500_000
+apEventItemBaseID = 4_000_000
 class NepRb2Item(Item):
     game = "Hyperdimension Neptunia Re;Birth 2 Sisters Generation"
 
@@ -2232,6 +2232,12 @@ dungeonItemList: dict[str, NepRb2ItemData] = {
     ItemNames.dungeon_unlock_34: NepRb2ItemData(apDungeonItemBaseID + 34,  ItemClassification.progression),
     ItemNames.dungeon_unlock_35: NepRb2ItemData(apDungeonItemBaseID + 35,  ItemClassification.progression),
     #ItemNames.dungeon_unlock_36: NepRb2ItemData(apDungeonItemBaseID + 36,  ItemClassification.progression),
+}
+
+eventItemList: dict[str, NepRb2ItemData] = {
+    ItemNames.lastation_kill_event:         NepRb2ItemData(apEventItemBaseID + 513, ItemClassification.progression),
+    ItemNames.lowee_kill_event:             NepRb2ItemData(apEventItemBaseID + 516, ItemClassification.progression),
+    ItemNames.leanbox_kill_event:           NepRb2ItemData(apEventItemBaseID + 519, ItemClassification.progression),
 }
 
 characterItemList: dict[str, NepRb2ItemData] = {
