@@ -36,11 +36,14 @@ from .virtua_forest_depths import *
 from .virtua_forest import *
 from .world_labyrinth_1st_floor import *
 from .world_labyrinth_2nd_floor import *
+from .quests import Quests
 
 goalLocation: typing.List[LocationData] = (
     GraveyardGoal,
     CpuFights
 )
+
+questLocation: typing.List[LocationData] = Quests
 
 gathers: typing.List[LocationData] = (
     ArfoiresFactory,

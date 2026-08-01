@@ -44,6 +44,9 @@ class Nep2RegionDef:
 
     def setup_locations(self):
         for loc in self.locations:
+            if "Quest" in loc.itemType:
+                self.create_quest_location(loc)
+                continue
             region = self.regions[loc.region]
             if "Enemy" in loc.itemType:
                 if loc.id in self.monsterRegion:
@@ -57,6 +60,15 @@ class Nep2RegionDef:
         # handle all enemies
         self.create_monster_regions_and_connect()
         self.create_level_events()
+
+    def create_quest_location(self,location:LocationData):
+        newRegion = self.create_region(location.name)
+        self.multiworld.regions.append(newRegion)
+        
+        for region in location.region:
+            self.regions[region].add_exits([newRegion.name],{newRegion.name:lambda _:True})
+        newLocation = self.create_location(location,newRegion)
+        newRegion.locations.append(newLocation)
 
     def create_monster_regions_and_connect(self):
         for monsters in self.monsterRegion.values():

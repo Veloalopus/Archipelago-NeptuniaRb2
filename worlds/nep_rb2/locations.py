@@ -1,9 +1,6 @@
 import typing
 from BaseClasses import Location
-from .location_names import gathers
-from .location_names import treasures
-from .location_names import goalLocation
-from .location_names import enemies
+from .location_names import gathers,treasures,goalLocation,enemies,questLocation
 from .LocationData import LocationData
 
 ap_location_base_id = 696969
@@ -24,6 +21,8 @@ for map in goalLocation:
 
 for map in enemies:
     all_locations += map
+
+all_locations += questLocation
 
 location_table: typing.Dict[str, int] = {location.name: location.id for location in all_locations}
 

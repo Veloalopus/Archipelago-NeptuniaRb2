@@ -1,6 +1,7 @@
 location_base_id = 7489397493
 treasure_base_id = 1000000
 enemy_base_id = 2000000
+quest_base_id = 4_500_000
 
 class LocationData:
     def __init__(self,region, name, id_, itemType):
@@ -19,4 +20,7 @@ class LocationData:
             self.name = self.objectiven_name
         if itemType =="Big Enemy":
             self.id = self.id + enemy_base_id
+            self.name = self.objectiven_name
+        if itemType == "Quest":
+            self.id = self.id+quest_base_id
             self.name = self.objectiven_name
