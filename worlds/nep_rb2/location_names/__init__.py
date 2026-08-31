@@ -37,6 +37,7 @@ from .virtua_forest import *
 from .world_labyrinth_1st_floor import *
 from .world_labyrinth_2nd_floor import *
 from .quests import Quests
+#from .colosseum import Colosseum
 
 goalLocation: typing.List[LocationData] = (
     GraveyardGoal,
@@ -44,6 +45,8 @@ goalLocation: typing.List[LocationData] = (
 )
 
 questLocation: typing.List[LocationData] = Quests
+
+#colosseumLocation: typing.List[LocationData] = Colosseum
 
 gathers: typing.List[LocationData] = (
     ArfoiresFactory,

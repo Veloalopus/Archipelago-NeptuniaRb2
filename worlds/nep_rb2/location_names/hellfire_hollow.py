@@ -23,5 +23,4 @@ LocationData("Hellfire Hollow","Magma Boy", 301, "Enemy"),
 LocationData("Hellfire Hollow","Magma Girl", 302, "Enemy"),
 LocationData("Hellfire Hollow","Floristan", 303, "Enemy"),
 LocationData("Hellfire Hollow","Bushidama", 304, "Enemy"),
-LocationData("Hellfire Hollow","Phoenix 2", 305, "Big Enemy"),
 )
