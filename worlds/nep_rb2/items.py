@@ -259,17 +259,17 @@ item_data: dict[str, NepRb2ItemData] = {
     #ItemNames.add_dungeon_hellfire_hollow:                  NepRb2ItemData(565, ItemClassification.useful),
     #ItemNames.add_dungeon_sublie_road:                      NepRb2ItemData(566, ItemClassification.useful),
     #ItemNames.add_dungeon_trinity_marsh:                    NepRb2ItemData(567, ItemClassification.useful),
-    ItemNames.change_dungeon_darkness_60:                   NepRb2ItemData(568, ItemClassification.progression, unique=True),
-    ItemNames.change_dungeon_powerlevel_island:             NepRb2ItemData(569, ItemClassification.progression, unique=True),
-    ItemNames.change_dungeon_virtua_forest_depths:          NepRb2ItemData(570, ItemClassification.progression, unique=True),
-    ItemNames.change_dungeon_midcompany:                    NepRb2ItemData(571, ItemClassification.progression, unique=True),
-    ItemNames.change_dungeon_lowee_global_expo:             NepRb2ItemData(572, ItemClassification.progression, unique=True),
-    ItemNames.change_dungeon_severed_dimension:             NepRb2ItemData(573, ItemClassification.progression, unique=True),
-    ItemNames.change_dungeon_underverse:                    NepRb2ItemData(574, ItemClassification.progression, unique=True),
-    ItemNames.change_dungeon_gapain_field:                  NepRb2ItemData(575, ItemClassification.progression, unique=True),
-    ItemNames.change_dungeon_lan_castle:                    NepRb2ItemData(576, ItemClassification.progression, unique=True),
-    ItemNames.change_dungeon_septent_resort:                NepRb2ItemData(577, ItemClassification.progression, unique=True),
-    ItemNames.change_dungeon_world_labyrinth:               NepRb2ItemData(578, ItemClassification.progression, unique=True),
+    ItemNames.plan_change_dungeon_darkness_60:                   NepRb2ItemData(568, ItemClassification.progression, unique=True),
+    ItemNames.plan_change_dungeon_powerlevel_island:             NepRb2ItemData(569, ItemClassification.progression, unique=True),
+    ItemNames.plan_change_dungeon_virtua_forest_depths:          NepRb2ItemData(570, ItemClassification.progression, unique=True),
+    ItemNames.plan_change_dungeon_midcompany:                    NepRb2ItemData(571, ItemClassification.progression, unique=True),
+    ItemNames.plan_change_dungeon_lowee_global_expo:             NepRb2ItemData(572, ItemClassification.progression, unique=True),
+    ItemNames.plan_change_dungeon_severed_dimension:             NepRb2ItemData(573, ItemClassification.progression, unique=True),
+    ItemNames.plan_change_dungeon_underverse:                    NepRb2ItemData(574, ItemClassification.progression, unique=True),
+    ItemNames.plan_change_dungeon_gapain_field:                  NepRb2ItemData(575, ItemClassification.progression, unique=True),
+    ItemNames.plan_change_dungeon_lan_castle:                    NepRb2ItemData(576, ItemClassification.progression, unique=True),
+    ItemNames.plan_change_dungeon_septent_resort:                NepRb2ItemData(577, ItemClassification.progression, unique=True),
+    ItemNames.plan_change_dungeon_world_labyrinth:               NepRb2ItemData(578, ItemClassification.progression, unique=True),
     ItemNames.plan_add_enemies_rebeat_resort:                    NepRb2ItemData(579, ItemClassification.progression, unique=True),
     ItemNames.plan_add_enemies_endless_zone:                     NepRb2ItemData(580, ItemClassification.progression, unique=True),
     ItemNames.plan_add_enemies_midcompany:                       NepRb2ItemData(581, ItemClassification.progression, unique=True),
@@ -278,7 +278,7 @@ item_data: dict[str, NepRb2ItemData] = {
     ItemNames.plan_add_enemies_world_labyrinth:                  NepRb2ItemData(584, ItemClassification.progression, unique=True),
     ItemNames.plan_add_enemies_gapain_field:                     NepRb2ItemData(585, ItemClassification.progression, unique=True),
     ItemNames.plan_add_enemies_underverse:                       NepRb2ItemData(586, ItemClassification.progression, unique=True),
-    ItemNames.plan_add_enemies_severed_dimensions:               NepRb2ItemData(587, ItemClassification.progression, unique=True),
+    ItemNames.plan_add_enemies_severed_dimension:                NepRb2ItemData(587, ItemClassification.progression, unique=True),
     ItemNames.plan_add_enemies_iris_field:                       NepRb2ItemData(588, ItemClassification.progression, unique=True),
     ItemNames.plan_add_enemies_atari_marsh:                      NepRb2ItemData(589, ItemClassification.progression, unique=True),
     ItemNames.plan_add_enemies_gamindustri_graveyard:            NepRb2ItemData(590, ItemClassification.progression, unique=True),
@@ -2232,6 +2232,16 @@ dungeonItemList: dict[str, NepRb2ItemData] = {
     ItemNames.dungeon_unlock_34: NepRb2ItemData(apDungeonItemBaseID + 34,  ItemClassification.progression),
     ItemNames.dungeon_unlock_35: NepRb2ItemData(apDungeonItemBaseID + 35,  ItemClassification.progression),
     #ItemNames.dungeon_unlock_36: NepRb2ItemData(apDungeonItemBaseID + 36,  ItemClassification.progression),
+}
+
+addEnemiesList: dict[str, NepRb2ItemData] = {
+
+
+}
+
+changeDungeonList: dict[str, NepRb2ItemData] = {
+
+
 }
 
 eventItemList: dict[str, NepRb2ItemData] = {
