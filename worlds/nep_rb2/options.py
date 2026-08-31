@@ -21,7 +21,8 @@ class RandomQuests(Toggle):
 class NepRb2Options(PerGameCommonOptions):
     start_inventory_from_pool: StartInventoryPool
     random_character:   RandomizedStartCharacter
-
+    random_quest: RandomQuests
+    
     def get_options(self) -> dict[str]:
         return {
             "start_inventory_from_pool": self.start_inventory_from_pool.value,

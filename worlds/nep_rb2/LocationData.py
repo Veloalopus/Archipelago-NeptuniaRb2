@@ -30,11 +30,11 @@ class LocationData:
             for reg in region:
                 reg = all_dungeon_regions_dict[reg]
                 if dungeonChange == 1:
-                    self.plans.append(reg.changeDungeon)
+                    self.plans.append(reg.addEnemy)
                 if dungeonChange == 2:
-                    self.plans.append(reg.bigChangeDungeon)
+                    self.plans.append(reg.changeDungeon)
         else:
             if dungeonChange == 1:
-                self.plans.append(region.changeDungeon)
+                self.plans.append(region.addEnemy)
             if dungeonChange == 2:
-                self.plans.append(region.bigChangeDungeon)
+                self.plans.append(region.changeDungeon)

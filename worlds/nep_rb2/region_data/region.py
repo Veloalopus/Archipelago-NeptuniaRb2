@@ -51,3 +51,4 @@ all_dungeon_regions:List[RegionData] = [
     RegionData(world_labyrinth_2nd_floor,           1150, 1, 20, world_labyrinth_1st_floor, addEnemy=plan_add_enemies_world_labyrinth, changeDungeon=plan_change_dungeon_world_labyrinth),
 ]
 
+all_dungeon_regions_dict ={ k.name:k for k in all_dungeon_regions}
