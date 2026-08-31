@@ -7,6 +7,7 @@ from .region_data.region import RegionData
 from .options import NepRb2Options
 from .names import ItemNames
 from .locations import NepRb2Location
+from .LocationData import LocationData
 from BaseClasses import ItemClassification
 if TYPE_CHECKING:
     from . import NepRb2World
@@ -167,3 +168,5 @@ def set_win_condition(world: "NepRb2World") -> None:
 
     world.multiworld.completion_condition[world.player] = lambda state: state.has("Victory", world.player)
 
+def changeDungeon(region:RegionData,state:CollectionState,player:int,location:LocationData):
+    return state.has_all(location.plans,player)

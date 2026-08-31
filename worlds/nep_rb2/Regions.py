@@ -8,7 +8,7 @@ from .options import NepRb2Options
 from .items import item_id_to_name,apDungeonItemBaseID,NepRb2Item,DungeonUnlockExists
 from .names import DungeonIDs
 from .region_data.region import all_dungeon_regions
-from .Rules import createDungeonLogic
+from .Rules import createDungeonLogic,changeDungeon
 if TYPE_CHECKING:
     from . import NepRb2World
 
@@ -108,6 +108,7 @@ class Nep2RegionDef:
 
     def create_location(self,location_data: LocationData, region: Region) -> Location:
         location = Rb2Location(self.player, location_data.name, location_data.id, region)
+        location.access_rule = lambda state: changeDungeon(region,state,self.player,location_data)
         #create rule for location?
         return location
 
