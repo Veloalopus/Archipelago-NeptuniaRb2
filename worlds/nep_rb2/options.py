@@ -10,6 +10,13 @@ class RandomizedStartCharacter(Toggle):
     """If enabled, starting character is randomized."""
     display_name = "Randomized Start Character"
 
+class RandomQuests(Toggle):
+    """If enabled, Quest are included as Checks.
+    Increases the average clear time by X-Y hours.
+    """
+    display_name = "Randomized Quest Rewards"
+
+
 @dataclass
 class NepRb2Options(PerGameCommonOptions):
     start_inventory_from_pool: StartInventoryPool
@@ -19,6 +26,7 @@ class NepRb2Options(PerGameCommonOptions):
         return {
             "start_inventory_from_pool": self.start_inventory_from_pool.value,
             "random_character":self.random_character.value,
+            "random_quest": self.random_quest.value,
         }
 
     # DeathLink is always on. Always.
