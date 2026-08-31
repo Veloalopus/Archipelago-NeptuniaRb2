@@ -2300,7 +2300,7 @@ progressiveGearItemList: dict[str, NepRb2ItemData] = {
 }
 
 
-allItemData = item_data|dungeonItemList|characterItemList|progressiveGearItemList|eventItemList
+allItemData = item_data|dungeonItemList|characterItemList|progressiveGearItemList|eventItemList|questList
 filler_items = [name for name,data in item_data.items() if data.type == ItemClassification.filler]
 useful_items = [name for name,data in item_data.items() if data.type == ItemClassification.useful]
 
