@@ -120,7 +120,7 @@ class NepRb2World(World):
                 itemCreated.append(item)
                 item_pool.append(self.create_item(item))
             else:
-                item = filler_items[self.random.randrange(0,len(useful_items))]
+                item = filler_items[self.random.randrange(0,len(filler_items))]
                 if allItemData[item].unique and item in itemCreated:
                     continue
                 itemCreated.append(item)
