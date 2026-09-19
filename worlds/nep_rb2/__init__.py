@@ -3,7 +3,7 @@ import os
 import pkgutil
 import typing
 import settings
-from .items import dungeonItemList, filler_items, useful_items,characterItemList, questList
+from .items import dungeonItemList, filler_items, useful_items,characterItemList, enemyDungeonList
 from typing import Set, Dict, Any, Callable, Optional
 
 from BaseClasses import CollectionState, Region
@@ -50,8 +50,8 @@ class NepRb2World(World):
     def create_items(self) -> None:
         item_pool= []
         item_pool.append(self.create_item(ItemNames.key_old_sword))
-        for questName in questList.keys():
-            item_pool.append(self.create_item(questName))
+        for QuestName in enemyDungeonList.keys():
+            item_pool.append(self.create_item(QuestName))
         for DungeonName in dungeonItemList.keys():
             if DungeonName == "Dungeon Unlock - Virtua Forest":
                 self.multiworld.push_precollected(self.create_item(DungeonName)) # nvm i lied

@@ -2199,7 +2199,7 @@ dungeonItemList: dict[str, NepRb2ItemData] = {
     #ItemNames.dungeon_unlock_36: NepRb2ItemData(apDungeonItemBaseID + 36,  ItemClassification.progression),
 }
 
-questList: dict[str, NepRb2ItemData] = {
+enemyDungeonList: dict[str, NepRb2ItemData] = {
     ItemNames.plan_add_enemies_rebeat_resort:                    NepRb2ItemData(579, ItemClassification.progression),
     ItemNames.plan_add_enemies_endless_zone:                     NepRb2ItemData(580, ItemClassification.progression),
     ItemNames.plan_add_enemies_midcompany:                       NepRb2ItemData(581, ItemClassification.progression),
