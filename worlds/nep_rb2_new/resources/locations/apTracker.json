@@ -1,0 +1,432 @@
+[
+    
+    {
+        "Item": "",
+        "LocationName": "Gamindustri Graveyard - Deity Of Sin Arfoire",
+        "Region": [
+            "Gamindustri Graveyard"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Virtua Forest - Laststation Fight",
+        "Region": [
+            "Virtua Forest"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Virtua Forest - Leanbox Fight",
+        "Region": [
+            "Virtua Forest"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Virtua Forest - Lowee Fight",
+        "Region": [
+            "Virtua Forest"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Super FX Professor",
+        "Region": [
+            "World Labyrinth - 2nd Floor"
+        ],
+        "Requirement": [],
+        "LocationID": 163,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Arfoire's Factory - Grinding Level 50",
+        "Region": [
+            "Arfoire's Factory"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Atari Marsh Depths - Grinding Level 30",
+        "Region": [
+            "Atari Marsh Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Atari Marsh - Grinding Level 30",
+        "Region": [
+            "Atari Marsh"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Darkness 60 - Grinding Level 10",
+        "Region": [
+            "Darkness 60"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Endless Zone - Grinding Level 10",
+        "Region": [
+            "Endless Zone"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Gamindustri Graveyard - Grinding Level 40",
+        "Region": [
+            "Gamindustri Graveyard"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Graveyard Depths - Grinding Level 60",
+        "Region": [
+            "Graveyard Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Gapain Field - Grinding Level 30",
+        "Region": [
+            "Gapain Field"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Hellfire Hollow - Grinding Level 80",
+        "Region": [
+            "Hellfire Hollow"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Icicle Pathway - Grinding Level 70",
+        "Region": [
+            "Icicle Pathway"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Infinite Corridor - Grinding Level 70",
+        "Region": [
+            "Infinite Corridor"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Iris Field - Grinding Level 40",
+        "Region": [
+            "Iris Field"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Junk Box - Grinding Level 70",
+        "Region": [
+            "Junk Box"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "LAN Castle Depths - Grinding Level 40",
+        "Region": [
+            "LAN Castle Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "LAN Castle - Grinding Level 40",
+        "Region": [
+            "LAN Castle"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "LAN Castle - Depths - Grinding Level 40",
+        "Region": [
+            "LAN Castle - Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Lost Ruins - Grinding Level 80",
+        "Region": [
+            "Lost Ruins"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Lowee Global Expo - East - Grinding Level 20",
+        "Region": [
+            "Lowee Global Expo - East"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Lowee Global Expo - West - Grinding Level 20",
+        "Region": [
+            "Lowee Global Expo - West"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Midcompany - Grinding Level 10",
+        "Region": [
+            "Midcompany"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Panan Jungle - Grinding Level 80",
+        "Region": [
+            "Panan Jungle"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Powerlevel Island - Grinding Level 30",
+        "Region": [
+            "Powerlevel Island"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Rebeat Resort - Grinding Level 10",
+        "Region": [
+            "Rebeat Resort"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Septent Resort - Grinding Level 10",
+        "Region": [
+            "Septent Resort"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Severed Dimension Depths - Grinding Level 30",
+        "Region": [
+            "Severed Dimension Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Severed Dimension - Grinding Level 30",
+        "Region": [
+            "Severed Dimension"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Sublie Road - Grinding Level 70",
+        "Region": [
+            "Sublie Road"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Trinity Marsh - Grinding Level 80",
+        "Region": [
+            "Trinity Marsh"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Underverse Depths - Grinding Level 30",
+        "Region": [
+            "Underverse Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Underverse - Grinding Level 30",
+        "Region": [
+            "Underverse"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Virtua Forest - Depths - Grinding Level 10",
+        "Region": [
+            "Virtua Forest - Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Virtua Forest - Grinding Level 10",
+        "Region": [
+            "Virtua Forest"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "World Labyrinth - 1st Floor - Grinding Level 20",
+        "Region": [
+            "World Labyrinth - 1st Floor"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "World Labyrinth - 2nd Floor - Grinding Level 20",
+        "Region": [
+            "World Labyrinth - 2nd Floor"
+        ],
+        "Requirement": [],
+        "LocationID": 0,
+        "Type": "AP Tracker",
+        "DLC": 0
+    }
+]

@@ -1,0 +1,163 @@
+[
+        {
+        "Item": "",
+        "LocationName": "[Hunt] Defeating Dogoos",
+        "Region": [
+            "Quest"
+        ],
+        "Requirement": [
+            {
+                "Method":"Dungeon 1 0",
+                "Difficulty":0
+            }
+        ],
+        "LocationID": 1,
+        "Type": "Quest",
+        "DLC": 0
+    },
+        {
+        "Item": "",
+        "LocationName": "Seeking Nep Bull",
+        "Region": [
+            "Quest"
+        ],
+        "Requirement": [
+            {
+                "Method":"Item NEP_BULL",
+                "Difficulty":0
+            }
+        ],
+        "LocationID": 5,
+        "Type": "Quest",
+        "DLC": 0
+    },
+        {
+        "Item": "",
+        "LocationName": "Idling My Start",
+        "Region": [
+            "Quest"
+        ],
+        "Requirement": [
+            {
+                "Method":"",
+                "Difficulty":0
+            }
+        ],
+        "LocationID": 1,
+        "Type": "Quest",
+        "DLC": 0
+    },
+        {
+        "Item": "",
+        "LocationName": "Template Quest",
+        "Region": [
+            "Quest"
+        ],
+        "Requirement": [
+            {
+                "Method":"",
+                "Difficulty":0
+            }
+        ],
+        "LocationID": 1,
+        "Type": "Quest",
+        "DLC": 0
+    },
+        {
+        "Item": "",
+        "LocationName": "Template Quest",
+        "Region": [
+            "Quest"
+        ],
+        "Requirement": [
+            {
+                "Method":"",
+                "Difficulty":0
+            }
+        ],
+        "LocationID": 1,
+        "Type": "Quest",
+        "DLC": 0
+    },
+        {
+        "Item": "",
+        "LocationName": "Template Quest",
+        "Region": [
+            "Quest"
+        ],
+        "Requirement": [
+            {
+                "Method":"",
+                "Difficulty":0
+            }
+        ],
+        "LocationID": 1,
+        "Type": "Quest",
+        "DLC": 0
+    },
+        {
+        "Item": "",
+        "LocationName": "Template Quest",
+        "Region": [
+            "Quest"
+        ],
+        "Requirement": [
+            {
+                "Method":"",
+                "Difficulty":0
+            }
+        ],
+        "LocationID": 1,
+        "Type": "Quest",
+        "DLC": 0
+    },
+        {
+        "Item": "",
+        "LocationName": "Template Quest",
+        "Region": [
+            "Quest"
+        ],
+        "Requirement": [
+            {
+                "Method":"",
+                "Difficulty":0
+            }
+        ],
+        "LocationID": 1,
+        "Type": "Quest",
+        "DLC": 0
+    },
+        {
+        "Item": "",
+        "LocationName": "Template Quest",
+        "Region": [
+            "Quest"
+        ],
+        "Requirement": [
+            {
+                "Method":"",
+                "Difficulty":0
+            }
+        ],
+        "LocationID": 1,
+        "Type": "Quest",
+        "DLC": 0
+    },
+        {
+        "Item": "",
+        "LocationName": "Template Quest",
+        "Region": [
+            "Quest"
+        ],
+        "Requirement": [
+            {
+                "Method":"",
+                "Difficulty":0
+            }
+        ],
+        "LocationID": 1,
+        "Type": "Quest",
+        "DLC": 0
+    }
+
+]

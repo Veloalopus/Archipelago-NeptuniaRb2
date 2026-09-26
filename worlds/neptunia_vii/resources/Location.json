@@ -1,0 +1,23 @@
+[
+    {
+        "Itemname": "HEALING_GRASS",
+        "Region": "Nameless Ruins",
+        "LocationName": "Nameless Ruins - Chest 104",
+          "slotId": 1,
+        "Requirement": [
+            {
+                "Method": "POWER_BRACELET || HYPER_BRACELET",
+                "Difficulty": 0
+            }
+        ],
+        "LocationRegion": [
+            {
+                "Area": 0,
+                "X": 0,
+                "Y": 0
+            }
+        ],
+        "LocationID": 104,
+        "DLC": 0
+    }
+]

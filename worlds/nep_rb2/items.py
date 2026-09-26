@@ -19,7 +19,7 @@ class NepRb2ItemData(NamedTuple):
 
 item_data: dict[str, NepRb2ItemData] = {
 
-    ItemNames.VICTORY:                                      NepRb2ItemData(9999999, ItemClassification.progression),
+    ItemNames.VICTORY:                                      NepRb2ItemData(999999, ItemClassification.progression),
     ItemNames.healing_grass:                                NepRb2ItemData(1, ItemClassification.useful),
     ItemNames.healing_pod:                                  NepRb2ItemData(2, ItemClassification.useful),
     ItemNames.healing_drink:                                NepRb2ItemData(3, ItemClassification.useful),
@@ -2300,7 +2300,7 @@ progressiveGearItemList: dict[str, NepRb2ItemData] = {
 }
 
 
-allItemData = item_data|dungeonItemList|characterItemList|progressiveGearItemList|eventItemList|questList
+allItemData = item_data|dungeonItemList|characterItemList|progressiveGearItemList|eventItemList|enemyDungeonList
 filler_items = [name for name,data in item_data.items() if data.type == ItemClassification.filler]
 useful_items = [name for name,data in item_data.items() if data.type == ItemClassification.useful]
 

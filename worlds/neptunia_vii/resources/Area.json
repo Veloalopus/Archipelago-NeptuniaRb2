@@ -1,0 +1,93 @@
+[
+{
+            "Name": "Zero Dimension",
+            "Connections": [
+                {
+                    "Exit": "Nameless Ruins",
+                    "Method": "Level 0"
+                },
+              {
+                    "Exit": "Coral Station",
+                    "Method": "Level 5"
+                },
+              {
+                    "Exit": "Jingu Sakura Park",
+                    "Method": "Level 5"
+                }
+            ]
+            
+ 
+},
+{
+            "Name": "Nameless Ruins",
+            "Connections": [
+                {
+                    "Exit": "Zero Dimension",
+                    "Method": ""
+                }
+            ]
+ 
+},
+{
+            "Name": "Coral Station",
+            "Connections": [
+                {
+                    "Exit": "Zero Dimension",
+                    "Method": ""
+                },
+                {
+                    "Exit": "Coral Station - Area 2",
+                    "Method": "Level 5"
+                },
+                {
+                    "Exit": "Coral Station - Area 3",
+                    "Method": "Level 5"
+                },
+                {
+                    "Exit": "Coral Station - Area 4",
+                    "Method": "Level 5"
+                }
+            ]
+ 
+},
+{
+            "Name": "Coral Station - Area 2",
+            "Connections": [
+                {
+                    "Exit": "Coral Station - Area 3",
+                    "Method": ""
+                },
+                {
+                    "Exit": "Coral Station - Area 4",
+                    "Method": ""
+                }
+            ]
+            
+ 
+},
+
+{
+            "Name": "Jingu Sakura Park",
+            "Connections": [
+                {
+                    "Exit": "Zero Dimension",
+                    "Method": ""
+                },
+                {
+                    "Exit": "Jingu Sakura Park - Inner",
+                    "Method": "Level 5"
+                }
+            ]
+ 
+},
+{
+            "Name": "Jingu Sakura Park - Inner",
+            "Connections": [
+                {
+                    "Exit": "Jingu Sakura Park",
+                    "Method": "Level 5"
+                }
+            ]
+ 
+}
+]

@@ -1,0 +1,1833 @@
+[
+    
+    {
+        "Item": "",
+        "LocationName": "Calicovader",
+        "Region": [
+            "Arfoire's Factory"
+        ],
+        "Requirement": [],
+        "LocationID": 223,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Viral Calicovader",
+        "Region": [
+            "Arfoire's Factory"
+        ],
+        "Requirement": [],
+        "LocationID": 224,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Aimable",
+        "Region": [
+            "Arfoire's Factory"
+        ],
+        "Requirement": [],
+        "LocationID": 225,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Ganglord Panther",
+        "Region": [
+            "Arfoire's Factory"
+        ],
+        "Requirement": [],
+        "LocationID": 226,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Lady Sun",
+        "Region": [
+            "Arfoire's Factory"
+        ],
+        "Requirement": [],
+        "LocationID": 227,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Viral Lady Sun",
+        "Region": [
+            "Arfoire's Factory"
+        ],
+        "Requirement": [],
+        "LocationID": 228,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Self-Defense System",
+        "Region": [
+            "Arfoire's Factory"
+        ],
+        "Requirement": [],
+        "LocationID": 229,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Harevader",
+        "Region": [
+            "Atari Marsh Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 210,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Viral Harevader",
+        "Region": [
+            "Atari Marsh Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 211,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Eggplanter",
+        "Region": [
+            "Atari Marsh Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 212,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Tarantula",
+        "Region": [
+            "Atari Marsh Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 213,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Fat Horsebird",
+        "Region": [
+            "Atari Marsh Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 214,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Poison Horsebird",
+        "Region": [
+            "Atari Marsh Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 215,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Plaid Dolphin",
+        "Region": [
+            "Gamindustri Graveyard",
+            "Atari Marsh",
+            "Atari Marsh Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 207,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Meowvader",
+        "Region": [
+            "Atari Marsh"
+        ],
+        "Requirement": [],
+        "LocationID": 202,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Viral Meowvader",
+        "Region": [
+            "Atari Marsh"
+        ],
+        "Requirement": [],
+        "LocationID": 203,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Met Froggy",
+        "Region": [
+            "Atari Marsh"
+        ],
+        "Requirement": [],
+        "LocationID": 204,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Matango",
+        "Region": [
+            "Atari Marsh"
+        ],
+        "Requirement": [],
+        "LocationID": 205,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Viral Matango",
+        "Region": [
+            "Atari Marsh"
+        ],
+        "Requirement": [],
+        "LocationID": 206,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Pixelvader",
+        "Region": [
+            "Darkness 60"
+        ],
+        "Requirement": [],
+        "LocationID": 107,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Clyde",
+        "Region": [
+            "Darkness 60"
+        ],
+        "Requirement": [],
+        "LocationID": 108,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Ms. Clyde",
+        "Region": [
+            "Darkness 60"
+        ],
+        "Requirement": [],
+        "LocationID": 109,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "M-3",
+        "Region": [
+            "Darkness 60"
+        ],
+        "Requirement": [],
+        "LocationID": 110,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Bit",
+        "Region": [
+            "Midcompany",
+            "Endless Zone"
+        ],
+        "Requirement": [],
+        "LocationID": 125,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Delinquent Cat",
+        "Region": [
+            "Rebeat Resort",
+            "Endless Zone"
+        ],
+        "Requirement": [],
+        "LocationID": 118,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Bomb-omburai",
+        "Region": [
+            "Endless Zone"
+        ],
+        "Requirement": [],
+        "LocationID": 126,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Fenrisulfr",
+        "Region": [
+            "Virtua Forest - Depths",
+            "Endless Zone"
+        ],
+        "Requirement": [],
+        "LocationID": 116,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Swinevader",
+        "Region": [
+            "Gamindustri Graveyard"
+        ],
+        "Requirement": [],
+        "LocationID": 216,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Viral Swinevader",
+        "Region": [
+            "Gamindustri Graveyard"
+        ],
+        "Requirement": [],
+        "LocationID": 217,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Inky",
+        "Region": [
+            "Gamindustri Graveyard"
+        ],
+        "Requirement": [],
+        "LocationID": 218,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Ms. Inky",
+        "Region": [
+            "Gamindustri Graveyard"
+        ],
+        "Requirement": [],
+        "LocationID": 219,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Disc",
+        "Region": [
+            "Gamindustri Graveyard"
+        ],
+        "Requirement": [],
+        "LocationID": 220,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Cardbird",
+        "Region": [
+            "Gapain Field"
+        ],
+        "Requirement": [],
+        "LocationID": 164,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Sunflowery",
+        "Region": [
+            "Gapain Field"
+        ],
+        "Requirement": [],
+        "LocationID": 165,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Viral Sunflowery",
+        "Region": [
+            "Gapain Field"
+        ],
+        "Requirement": [],
+        "LocationID": 166,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Pumpkimon",
+        "Region": [
+            "Gapain Field"
+        ],
+        "Requirement": [],
+        "LocationID": 167,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Viral Pumpkimon",
+        "Region": [
+            "Gapain Field"
+        ],
+        "Requirement": [],
+        "LocationID": 168,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Elemental Dragon",
+        "Region": [
+            "Gapain Field"
+        ],
+        "Requirement": [],
+        "LocationID": 169,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Prince Cardbird",
+        "Region": [
+            "Graveyard Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 245,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Dark Disc",
+        "Region": [
+            "Graveyard Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 246,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Spotted Plum-met",
+        "Region": [
+            "Graveyard Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 247,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Dolichorhynchops",
+        "Region": [
+            "LAN Castle - Depths",
+            "Graveyard Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 248,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Magma Boy",
+        "Region": [
+            "Hellfire Hollow"
+        ],
+        "Requirement": [],
+        "LocationID": 301,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Magma Girl",
+        "Region": [
+            "Hellfire Hollow"
+        ],
+        "Requirement": [],
+        "LocationID": 302,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Floristan",
+        "Region": [
+            "Hellfire Hollow"
+        ],
+        "Requirement": [],
+        "LocationID": 303,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Bushidama",
+        "Region": [
+            "Hellfire Hollow"
+        ],
+        "Requirement": [],
+        "LocationID": 304,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "King Cardbird",
+        "Region": [
+            "Icicle Pathway"
+        ],
+        "Requirement": [],
+        "LocationID": 256,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Shrotamon",
+        "Region": [
+            "Icicle Pathway"
+        ],
+        "Requirement": [],
+        "LocationID": 257,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Viral Shirotamon",
+        "Region": [
+            "Icicle Pathway"
+        ],
+        "Requirement": [],
+        "LocationID": 258,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Monkey Balancer",
+        "Region": [
+            "Icicle Pathway"
+        ],
+        "Requirement": [],
+        "LocationID": 259,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Vanargandr",
+        "Region": [
+            "Icicle Pathway"
+        ],
+        "Requirement": [],
+        "LocationID": 260,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Betavader",
+        "Region": [
+            "Infinite Corridor"
+        ],
+        "Requirement": [],
+        "LocationID": 263,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Tesrit",
+        "Region": [
+            "Infinite Corridor"
+        ],
+        "Requirement": [],
+        "LocationID": 264,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Plom-met",
+        "Region": [
+            "Infinite Corridor"
+        ],
+        "Requirement": [],
+        "LocationID": 265,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Guardragon",
+        "Region": [
+            "Infinite Corridor"
+        ],
+        "Requirement": [],
+        "LocationID": 266,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Rabbit Balancer",
+        "Region": [
+            "Iris Field"
+        ],
+        "Requirement": [],
+        "LocationID": 195,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Moulin Rouge",
+        "Region": [
+            "Iris Field"
+        ],
+        "Requirement": [],
+        "LocationID": 196,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Viral Moulin Rouge",
+        "Region": [
+            "Iris Field"
+        ],
+        "Requirement": [],
+        "LocationID": 197,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Meow",
+        "Region": [
+            "Iris Field"
+        ],
+        "Requirement": [],
+        "LocationID": 198,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Forest Turtle",
+        "Region": [
+            "Iris Field"
+        ],
+        "Requirement": [],
+        "LocationID": 199,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Nanovader",
+        "Region": [
+            "Junk Box"
+        ],
+        "Requirement": [],
+        "LocationID": 269,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Testri",
+        "Region": [
+            "Junk Box"
+        ],
+        "Requirement": [],
+        "LocationID": 272,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Plam-met",
+        "Region": [
+            "Junk Box"
+        ],
+        "Requirement": [],
+        "LocationID": 271,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Stalking Sister",
+        "Region": [
+            "Junk Box"
+        ],
+        "Requirement": [],
+        "LocationID": 270,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Dagon",
+        "Region": [
+            "Junk Box"
+        ],
+        "Requirement": [],
+        "LocationID": 273,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Blue Sun",
+        "Region": [
+            "LAN Castle Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 241,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Viral Blue Sun",
+        "Region": [
+            "LAN Castle Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 242,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Numbing Spider",
+        "Region": [
+            "LAN Castle Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 243,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Metal Dogoo",
+        "Region": [
+            "LAN Castle Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 244,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Deadly Spider",
+        "Region": [
+            "LAN Castle - Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 251,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Pinky",
+        "Region": [
+            "LAN Castle - Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 252,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Ms. Pinky",
+        "Region": [
+            "LAN Castle - Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 253,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Baconvader",
+        "Region": [
+            "LAN Castle"
+        ],
+        "Requirement": [],
+        "LocationID": 232,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Viral Baconvader",
+        "Region": [
+            "LAN Castle"
+        ],
+        "Requirement": [],
+        "LocationID": 233,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Leovader",
+        "Region": [
+            "LAN Castle"
+        ],
+        "Requirement": [],
+        "LocationID": 236,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Viral Leovader",
+        "Region": [
+            "LAN Castle"
+        ],
+        "Requirement": [],
+        "LocationID": 237,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Speedy",
+        "Region": [
+            "LAN Castle"
+        ],
+        "Requirement": [],
+        "LocationID": 234,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Ms. Speedy",
+        "Region": [
+            "LAN Castle"
+        ],
+        "Requirement": [],
+        "LocationID": 235,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Nidhogg",
+        "Region": [
+            "LAN Castle"
+        ],
+        "Requirement": [],
+        "LocationID": 238,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Custom Bit",
+        "Region": [
+            "Lost Ruins"
+        ],
+        "Requirement": [],
+        "LocationID": 294,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Malvader",
+        "Region": [
+            "Lost Ruins"
+        ],
+        "Requirement": [],
+        "LocationID": 295,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Killer Spider",
+        "Region": [
+            "Lost Ruins"
+        ],
+        "Requirement": [],
+        "LocationID": 296,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Boxer Cat",
+        "Region": [
+            "Lost Ruins"
+        ],
+        "Requirement": [],
+        "LocationID": 297,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Heavy Tank",
+        "Region": [
+            "Lost Ruins"
+        ],
+        "Requirement": [],
+        "LocationID": 298,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Bunnyvader",
+        "Region": [
+            "Lowee Global Expo - East"
+        ],
+        "Requirement": [],
+        "LocationID": 144,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Viral Bunnyvader",
+        "Region": [
+            "Lowee Global Expo - East"
+        ],
+        "Requirement": [],
+        "LocationID": 145,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Kupokitty",
+        "Region": [
+            "Lowee Global Expo - East"
+        ],
+        "Requirement": [],
+        "LocationID": 143,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Terits",
+        "Region": [
+            "Lowee Global Expo - East"
+        ],
+        "Requirement": [],
+        "LocationID": 146,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Ice Fenrir",
+        "Region": [
+            "Powerlevel Island",
+            "Lowee Global Expo - West",
+            "Lowee Global Expo - East"
+        ],
+        "Requirement": [],
+        "LocationID": 147,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Minivader",
+        "Region": [
+            "Lowee Global Expo - West"
+        ],
+        "Requirement": [],
+        "LocationID": 150,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Bear Balancer",
+        "Region": [
+            "Lowee Global Expo - West"
+        ],
+        "Requirement": [],
+        "LocationID": 151,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "DSTT",
+        "Region": [
+            "Lowee Global Expo - West"
+        ],
+        "Requirement": [],
+        "LocationID": 152,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Red Dogoo",
+        "Region": [
+            "Midcompany"
+        ],
+        "Requirement": [],
+        "LocationID": 129,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Elephantvader",
+        "Region": [
+            "Midcompany"
+        ],
+        "Requirement": [],
+        "LocationID": 130,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Viral Elephantvader",
+        "Region": [
+            "Midcompany"
+        ],
+        "Requirement": [],
+        "LocationID": 131,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "R-4",
+        "Region": [
+            "Midcompany"
+        ],
+        "Requirement": [],
+        "LocationID": 132,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "R4i-SDHC",
+        "Region": [
+            "Midcompany"
+        ],
+        "Requirement": [],
+        "LocationID": 133,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Carroteer",
+        "Region": [
+            "Panan Jungle"
+        ],
+        "Requirement": [],
+        "LocationID": 286,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Spacevader",
+        "Region": [
+            "Panan Jungle"
+        ],
+        "Requirement": [],
+        "LocationID": 287,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Armor Shell",
+        "Region": [
+            "Panan Jungle"
+        ],
+        "Requirement": [],
+        "LocationID": 290,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Tricky Horsebird",
+        "Region": [
+            "Panan Jungle"
+        ],
+        "Requirement": [],
+        "LocationID": 288,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Blazing Horsebird",
+        "Region": [
+            "Panan Jungle"
+        ],
+        "Requirement": [],
+        "LocationID": 289,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Forest Crab",
+        "Region": [
+            "Panan Jungle"
+        ],
+        "Requirement": [],
+        "LocationID": 291,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Skeleton",
+        "Region": [
+            "Powerlevel Island"
+        ],
+        "Requirement": [],
+        "LocationID": 417,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Child Wolf",
+        "Region": [
+            "Powerlevel Island"
+        ],
+        "Requirement": [],
+        "LocationID": 418,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Viral Child Wolf",
+        "Region": [
+            "Powerlevel Island"
+        ],
+        "Requirement": [],
+        "LocationID": 419,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Boomerang",
+        "Region": [
+            "Powerlevel Island"
+        ],
+        "Requirement": [],
+        "LocationID": 420,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Strange Person",
+        "Region": [
+            "Powerlevel Island"
+        ],
+        "Requirement": [],
+        "LocationID": 421,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Babyvader",
+        "Region": [
+            "Rebeat Resort"
+        ],
+        "Requirement": [],
+        "LocationID": 117,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Frog-in-the-box",
+        "Region": [
+            "Rebeat Resort"
+        ],
+        "Requirement": [],
+        "LocationID": 119,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Fish Zombie",
+        "Region": [
+            "Rebeat Resort",
+            "Septent Resort",
+            "Rebeat Resort"
+        ],
+        "Requirement": [],
+        "LocationID": 120,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Viral Fish Zombie",
+        "Region": [
+            "Septent Resort",
+            "Rebeat Resort"
+        ],
+        "Requirement": [],
+        "LocationID": 121,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "King Crab",
+        "Region": [
+            "Rebeat Resort"
+        ],
+        "Requirement": [],
+        "LocationID": 122,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "West Point",
+        "Region": [
+            "Septent Resort"
+        ],
+        "Requirement": [],
+        "LocationID": 136,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Viral West Point",
+        "Region": [
+            "Septent Resort"
+        ],
+        "Requirement": [],
+        "LocationID": 137,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Bashful",
+        "Region": [
+            "Septent Resort"
+        ],
+        "Requirement": [],
+        "LocationID": 138,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Ms. Bashful",
+        "Region": [
+            "Septent Resort"
+        ],
+        "Requirement": [],
+        "LocationID": 139,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Dolphin",
+        "Region": [
+            "Septent Resort"
+        ],
+        "Requirement": [],
+        "LocationID": 140,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Heretical Dogoo",
+        "Region": [
+            "Severed Dimension Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 191,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Super FX Doctor",
+        "Region": [
+            "Severed Dimension",
+            "Severed Dimension Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 187,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Ruffian Cat",
+        "Region": [
+            "Severed Dimension Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 193,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "EDGE",
+        "Region": [
+            "Severed Dimension Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 194,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Demonic Fenrir",
+        "Region": [
+            "Severed Dimension",
+            "Severed Dimension Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 188,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Weirdo Shadow",
+        "Region": [
+            "Severed Dimension"
+        ],
+        "Requirement": [],
+        "LocationID": 183,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Sicko Shadow",
+        "Region": [
+            "Severed Dimension"
+        ],
+        "Requirement": [],
+        "LocationID": 184,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Greedy Shadow",
+        "Region": [
+            "Severed Dimension"
+        ],
+        "Requirement": [],
+        "LocationID": 185,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "ASCII Orchestra",
+        "Region": [
+            "Severed Dimension"
+        ],
+        "Requirement": [],
+        "LocationID": 186,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Dogoo France",
+        "Region": [
+            "Sublie Road"
+        ],
+        "Requirement": [],
+        "LocationID": 308,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "R-4 Custom",
+        "Region": [
+            "Sublie Road"
+        ],
+        "Requirement": [],
+        "LocationID": 310,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Nemesis Spider",
+        "Region": [
+            "Sublie Road"
+        ],
+        "Requirement": [],
+        "LocationID": 309,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Tortoise",
+        "Region": [
+            "Sublie Road"
+        ],
+        "Requirement": [],
+        "LocationID": 311,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Tote",
+        "Region": [
+            "Trinity Marsh"
+        ],
+        "Requirement": [],
+        "LocationID": 314,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Tempo",
+        "Region": [
+            "Trinity Marsh"
+        ],
+        "Requirement": [],
+        "LocationID": 315,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Empole",
+        "Region": [
+            "Trinity Marsh"
+        ],
+        "Requirement": [],
+        "LocationID": 316,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Pole",
+        "Region": [
+            "Trinity Marsh"
+        ],
+        "Requirement": [],
+        "LocationID": 317,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Totempole",
+        "Region": [
+            "Trinity Marsh"
+        ],
+        "Requirement": [],
+        "LocationID": 318,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Royal Dragon",
+        "Region": [
+            "Trinity Marsh"
+        ],
+        "Requirement": [],
+        "LocationID": 319,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Ms. Bomb-omburai",
+        "Region": [
+            "Underverse Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 179,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Apeldoom",
+        "Region": [
+            "Underverse Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 180,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Viral Apeldoom",
+        "Region": [
+            "Underverse Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 181,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Pal Shell",
+        "Region": [
+            "Underverse Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 182,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Plumindigo",
+        "Region": [
+            "Underverse"
+        ],
+        "Requirement": [],
+        "LocationID": 172,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Red Babyvader",
+        "Region": [
+            "Underverse"
+        ],
+        "Requirement": [],
+        "LocationID": 173,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Blinky",
+        "Region": [
+            "Underverse"
+        ],
+        "Requirement": [],
+        "LocationID": 174,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Ms. Blinky",
+        "Region": [
+            "Underverse"
+        ],
+        "Requirement": [],
+        "LocationID": 175,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Flame Fenrir",
+        "Region": [
+            "Underverse"
+        ],
+        "Requirement": [],
+        "LocationID": 176,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Fungus",
+        "Region": [
+            "Virtua Forest - Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 111,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Viral Fungus",
+        "Region": [
+            "Virtua Forest - Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 112,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Piranha Flower",
+        "Region": [
+            "Virtua Forest - Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 114,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Spider",
+        "Region": [
+            "Virtua Forest - Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 115,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Hoinin",
+        "Region": [
+            "Virtua Forest - Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 113,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Dogoo",
+        "Region": [
+            "Virtua Forest"
+        ],
+        "Requirement": [],
+        "LocationID": 101,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Tulip",
+        "Region": [
+            "Virtua Forest"
+        ],
+        "Requirement": [],
+        "LocationID": 103,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Radisher",
+        "Region": [
+            "Virtua Forest"
+        ],
+        "Requirement": [],
+        "LocationID": 106,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Real Gamer",
+        "Region": [
+            "Virtua Forest"
+        ],
+        "Requirement": [],
+        "LocationID": 104,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Grandogoo",
+        "Region": [
+            "Virtua Forest"
+        ],
+        "Requirement": [],
+        "LocationID": 102,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Horsebird Leader",
+        "Region": [
+            "Virtua Forest"
+        ],
+        "Requirement": [],
+        "LocationID": 105,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Poxvader",
+        "Region": [
+            "World Labyrinth - 1st Floor"
+        ],
+        "Requirement": [],
+        "LocationID": 153,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Tetsri",
+        "Region": [
+            "World Labyrinth - 1st Floor"
+        ],
+        "Requirement": [],
+        "LocationID": 154,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    
+    {
+        "Item": "",
+        "LocationName": "Tokimeki Sister",
+        "Region": [
+            "World Labyrinth - 1st Floor"
+        ],
+        "Requirement": [],
+        "LocationID": 155,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Phoenix",
+        "Region": [
+            "World Labyrinth - 2nd Floor",
+            "World Labyrinth - 1st Floor"
+        ],
+        "Requirement": [],
+        "LocationID": 156,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Lionvader",
+        "Region": [
+            "World Labyrinth - 2nd Floor"
+        ],
+        "Requirement": [],
+        "LocationID": 159,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Viral Lionvader",
+        "Region": [
+            "World Labyrinth - 2nd Floor"
+        ],
+        "Requirement": [],
+        "LocationID": 160,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Terist",
+        "Region": [
+            "World Labyrinth - 2nd Floor"
+        ],
+        "Requirement": [],
+        "LocationID": 161,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Plum-met",
+        "Region": [
+            "World Labyrinth - 2nd Floor"
+        ],
+        "Requirement": [],
+        "LocationID": 162,
+        "Type": "Enemy",
+        "DLC": 0
+    }
+]

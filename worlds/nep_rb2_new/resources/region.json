@@ -1,0 +1,489 @@
+[
+    {
+        "Name": "Menu",
+        "DungeonID": 0,
+        "Connections": [
+            {
+                "Exit": "Quest",
+                "Method": ""
+            },
+            {
+                "Exit": "Arfoire's Factory",
+                "Method": "Level 40 && Power 2050 && Defense 2"
+            },
+            {
+                "Exit": "Atari Marsh",
+                "Method": "Level 20 && Power 1450 && Defense 1"
+            },
+            {
+                "Exit": "Darkness 60",
+                "Method": "Level 0 && Power 150 && Defense 0"
+            },
+            {
+                "Exit": "Endless Zone",
+                "Method": "Level 0 && Power 250 && Defense 0"
+            },
+            {
+                "Exit": "Gamindustri Graveyard",
+                "Method": "Level 50 && Power 2850 && Defense 3"
+            },
+            {
+                "Exit": "Gapain Field",
+                "Method": "Level 20 && Power 1250 && Defense 2"
+            },
+            {
+                "Exit": "Graveyard - Oblivion",
+                "Method": "Level 60 && Power 4500 && Defense 4"
+            },
+            {
+                "Exit": "Hellfire Hollow",
+                "Method": "Level 70 && Power 6360 && Defense 5"
+            },
+            {
+                "Exit": "Icicle Pathway",
+                "Method": "Level 60 && Power 4350 && Defense 4"
+            },
+            {
+                "Exit": "Infinite Corridor",
+                "Method": "Level 70 && Power 4350 && Defense 4"
+            },
+            {
+                "Exit": "Iris Field",
+                "Method": "Level 30 && Power 1750 && Defense 3"
+            },
+            {
+                "Exit": "Junk Box",
+                "Method": "Level 60 && Power 4950 && Defense 4"
+            },
+            {
+                "Exit": "LAN Castle - Depths",
+                "Method": "Level 30 && Power 3550 && Defense 3"
+            },
+            {
+                "Exit": "LAN Castle",
+                "Method": "Level 40 && Power 2950 && Defense 3"
+            },
+            {
+                "Exit": "Lost Ruins",
+                "Method": "Level 70 && Power 6300 && Defense 5"
+            },
+            {
+                "Exit": "Lowee Global Expo - East",
+                "Method": "Level 10 && Power 950 && Defense 1"
+            },
+            {
+                "Exit": "Midcompany",
+                "Method": "Level 0 && Power 450 && Defense 0"
+            },
+            {
+                "Exit": "Panan Jungle",
+                "Method": "Level 70 && Power 6300 && Defense 5"
+            },
+            {
+                "Exit": "Powerlevel Island",
+                "Method": "Level 20 && Power 1250 && Defense 1"
+            },
+            {
+                "Exit": "Rebeat Resort",
+                "Method": "Level 0 && Power 400 && Defense 0"
+            },
+            {
+                "Exit": "Septent Resort",
+                "Method": "Level 0 && Power 400 && Defense 0"
+            },
+            {
+                "Exit": "Severed Dimension",
+                "Method": "Level 30 && Power 1950 && Defense 2"
+            },
+            {
+                "Exit": "Sublie Road",
+                "Method": "Level 60 && Power 6300 && Defense 4"
+            },
+            {
+                "Exit": "Trinity Marsh",
+                "Method": "Level 70 && Power 6300 && Defense 5"
+            },
+            {
+                "Exit": "Underverse Depths",
+                "Method": "Level 20 && Power 1350 && Defense 1"
+            },
+            {
+                "Exit": "Underverse",
+                "Method": "Level 20 && Power 1350 && Defense 1"
+            },
+            {
+                "Exit": "Virtua Forest - Depths",
+                "Method": "Level 0 && Power 50 && Defense 0"
+            },
+            {
+                "Exit": "Virtua Forest",
+                "Method": "Level 0 && Power 50 && Defense 0"
+            },
+            {
+                "Exit": "World Labyrinth - 1st Floor",
+                "Method": "Level 20 && Power 1150 && Defense 1"
+            }
+        ],
+        "DLC": 0,
+        "ChangeDungeon": 0,
+        "AddEnemies": 0
+    },
+    {
+        "Name": "Quest",
+        "DungeonID": 0,
+        "Connections": [],
+        "DLC": 0,
+        "ChangeDungeon": null,
+        "AddEnemies": null
+    },
+    {
+        "Name": "Arfoire's Factory",
+        "DungeonID": 21,
+        "Connections": [],
+        "DLC": 0,
+        "ChangeDungeon": null,
+        "AddEnemies": "Plan - Add Enemies: Arfoire's Factory"
+    },
+    {
+        "Name": "Atari Marsh Depths",
+        "DungeonID": 19,
+        "Connections": [
+            {
+                "Exit": "Atari Marsh",
+                "Method": "Level 20 && Power 1450 && Defense 1"
+            }
+        ],
+        "DLC": 0,
+        "ChangeDungeon": null,
+        "AddEnemies": "Plan - Add Enemies: Atari Marsh"
+    },
+    {
+        "Name": "Atari Marsh",
+        "DungeonID": 18,
+        "Connections": [
+            {
+                "Exit": "Atari Marsh Depths",
+                "Method": "Level 20 && Power 1450 && Defense 1"
+            }
+        ],
+        "DLC": 0,
+        "ChangeDungeon": null,
+        "AddEnemies": "Plan - Add Enemies: Atari Marsh"
+    },
+    {
+        "Name": "Darkness 60",
+        "DungeonID": 2,
+        "Connections": [],
+        "DLC": 0,
+        "ChangeDungeon": "Plan - Change Dungeon: Darkness 60",
+        "AddEnemies": null
+    },
+    {
+        "Name": "Endless Zone",
+        "DungeonID": 5,
+        "Connections": [],
+        "DLC": 0,
+        "ChangeDungeon": null,
+        "AddEnemies": "Plan - Add Enemies: Endless Zone"
+    },
+    {
+        "Name": "Gamindustri Graveyard",
+        "DungeonID": 20,
+        "Connections": [
+            {
+                "Exit": "Graveyard Depths",
+                "Method": "Level 50 && Power 2850 && Defense 4"
+            }
+        ],
+        "DLC": 0,
+        "ChangeDungeon": null,
+        "AddEnemies": "Plan - Add Enemies: Gamindustri Graveyard"
+    },
+    {
+        "Name": "Gapain Field",
+        "DungeonID": 12,
+        "Connections": [],
+        "DLC": 0,
+        "ChangeDungeon": null,
+        "AddEnemies": "Plan - Add Enemies: Gapain Field"
+    },
+    {
+        "Name": "Graveyard Depths",
+        "DungeonID": 24,
+        "Connections": [
+            {
+                "Exit": "Gamindustri Graveyard",
+                "Method": "Level 50 && Power 2850 && Defense 3"
+            }
+        ],
+        "DLC": 0,
+        "ChangeDungeon": null,
+        "AddEnemies": null
+    },
+    {
+        "Name": "Graveyard - Oblivion",
+        "DungeonID": 29,
+        "Connections": [],
+        "DLC": 0,
+        "ChangeDungeon": null,
+        "AddEnemies": null
+    },
+    {
+        "Name": "Hellfire Hollow",
+        "DungeonID": 33,
+        "Connections": [],
+        "DLC": 0,
+        "ChangeDungeon": null,
+        "AddEnemies": "Plan - Add Enemies: Hellfire Hollow"
+    },
+    {
+        "Name": "Icicle Pathway",
+        "DungeonID": 26,
+        "Connections": [],
+        "DLC": 0,
+        "ChangeDungeon": null,
+        "AddEnemies": "Plan - Add Enemies: Icicle Pathway"
+    },
+    {
+        "Name": "Infinite Corridor",
+        "DungeonID": 27,
+        "Connections": [],
+        "DLC": 0,
+        "ChangeDungeon": null,
+        "AddEnemies": "Plan - Add Enemies: Infinite Corridor"
+    },
+    {
+        "Name": "Iris Field",
+        "DungeonID": 17,
+        "Connections": [],
+        "DLC": 0,
+        "ChangeDungeon": null,
+        "AddEnemies": "Plan - Add Enemies: Iris Field"
+    },
+    {
+        "Name": "Junk Box",
+        "DungeonID": 28,
+        "Connections": [],
+        "DLC": 0,
+        "ChangeDungeon": null,
+        "AddEnemies": "Plan - Add Enemies: Junk Box"
+    },
+    {
+        "Name": "LAN Castle Depths",
+        "DungeonID": 23,
+        "Connections": [
+            {
+                "Exit": "LAN Castle",
+                "Method": "Level 40 && Power 2950 && Defense 3"
+            }
+        ],
+        "DLC": 0,
+        "ChangeDungeon": "Plan - Change Dungeon: LAN Castle",
+        "AddEnemies": "Plan - Add Enemies: LAN Castle"
+    },
+    {
+        "Name": "LAN Castle - Depths",
+        "DungeonID": 25,
+        "Connections": [],
+        "DLC": 0,
+        "ChangeDungeon": null,
+        "AddEnemies": "Plan - Add Enemies: LAN Castle - Underground"
+    },
+    {
+        "Name": "LAN Castle",
+        "DungeonID": 22,
+        "Connections": [
+            {
+                "Exit": "LAN Castle Depths",
+                "Method": "Level 40 && Power 2950 && Defense 3"
+            }
+        ],
+        "DLC": 0,
+        "ChangeDungeon": "Plan - Change Dungeon: LAN Castle",
+        "AddEnemies": "Plan - Add Enemies: LAN Castle"
+    },
+    {
+        "Name": "Lost Ruins",
+        "DungeonID": 32,
+        "Connections": [],
+        "DLC": 0,
+        "ChangeDungeon": null,
+        "AddEnemies": "Plan - Add Enemies: Lost Ruins"
+    },
+    {
+        "Name": "Lowee Global Expo - East",
+        "DungeonID": 8,
+        "Connections": [
+            {
+                "Exit": "Lowee Global Expo - West",
+                "Method": "Level 10 && Power 950 && Defense 1"
+            }
+        ],
+        "DLC": 0,
+        "ChangeDungeon": "Plan - Change Dungeon: Lowee Global Expo",
+        "AddEnemies": "Plan - Add Enemies: Lowee Global Expo"
+    },
+    {
+        "Name": "Lowee Global Expo - West",
+        "DungeonID": 9,
+        "Connections": [
+            {
+                "Exit": "Lowee Global Expo - East",
+                "Method": "Level 10 && Power 950 && Defense 1"
+            }
+        ],
+        "DLC": 0,
+        "ChangeDungeon": "Plan - Change Dungeon: Lowee Global Expo",
+        "AddEnemies": "Plan - Add Enemies: Lowee Global Expo"
+    },
+    {
+        "Name": "Midcompany",
+        "DungeonID": 6,
+        "Connections": [],
+        "DLC": 0,
+        "ChangeDungeon": "Plan - Change Dungeon: Midcompany",
+        "AddEnemies": "Plan - Add Enemies: Midcompany"
+    },
+    {
+        "Name": "Panan Jungle",
+        "DungeonID": 31,
+        "Connections": [],
+        "DLC": 0,
+        "ChangeDungeon": null,
+        "AddEnemies": "Plan - Add Enemies: Panan Jungle"
+    },
+    {
+        "Name": "Powerlevel Island",
+        "DungeonID": 30,
+        "Connections": [],
+        "DLC": 0,
+        "ChangeDungeon": "Plan - Change Dungeon: Powerlevel Island",
+        "AddEnemies": "Plan - Add Enemies: Powerlevel Island"
+    },
+    {
+        "Name": "Rebeat Resort",
+        "DungeonID": 4,
+        "Connections": [],
+        "DLC": 0,
+        "ChangeDungeon": null,
+        "AddEnemies": "Plan - Add Enemies: Rebeat Resort"
+    },
+    {
+        "Name": "Septent Resort",
+        "DungeonID": 7,
+        "Connections": [],
+        "DLC": 0,
+        "ChangeDungeon": "Plan - Change Dungeon: Septent Resort",
+        "AddEnemies": "Plan - Add Enemies: Septent Resort"
+    },
+    {
+        "Name": "Severed Dimension Depths",
+        "DungeonID": 16,
+        "Connections": [
+            {
+                "Exit": "Severed Dimension",
+                "Method": "Level 30 && Power 1950 && Defense 2"
+            }
+        ],
+        "DLC": 0,
+        "ChangeDungeon": "Plan - Change Dungeon: Severed Dimension",
+        "AddEnemies": "Plan - Add Enemies: Severed Dimensions"
+    },
+    {
+        "Name": "Severed Dimension",
+        "DungeonID": 15,
+        "Connections": [
+            {
+                "Exit": "Severed Dimension Depths",
+                "Method": "Level 30 && Power 1950 && Defense 2"
+            }
+        ],
+        "DLC": 0,
+        "ChangeDungeon": "Plan - Change Dungeon: Severed Dimension",
+        "AddEnemies": "Plan - Add Enemies: Severed Dimensions"
+    },
+    {
+        "Name": "Sublie Road",
+        "DungeonID": 34,
+        "Connections": [],
+        "DLC": 0,
+        "ChangeDungeon": null,
+        "AddEnemies": "Plan - Add Enemies: Sublie Road"
+    },
+    {
+        "Name": "Trinity Marsh",
+        "DungeonID": 35,
+        "Connections": [],
+        "DLC": 0,
+        "ChangeDungeon": null,
+        "AddEnemies": "Plan - Add Enemies: Trinity Marsh"
+    },
+    {
+        "Name": "Underverse Depths",
+        "DungeonID": 14,
+        "Connections": [
+            {
+                "Exit": "Underverse",
+                "Method": "Level 20 && Power 1350 && Defense 1"
+            }
+        ],
+        "DLC": 0,
+        "ChangeDungeon": "Plan - Change Dungeon: Underverse",
+        "AddEnemies": "Plan - Add Enemies: Underverse"
+    },
+    {
+        "Name": "Underverse",
+        "DungeonID": 13,
+        "Connections": [
+            {
+                "Exit": "Underverse Depths",
+                "Method": "Level 20 && Power 1350 && Defense 1"
+            }
+        ],
+        "DLC": 0,
+        "ChangeDungeon": "Plan - Change Dungeon: Underverse",
+        "AddEnemies": "Plan - Add Enemies: Underverse"
+    },
+    {
+        "Name": "Virtua Forest - Depths",
+        "DungeonID": 3,
+        "Connections": [],
+        "DLC": 0,
+        "ChangeDungeon": "Plan - Change Dungeon: Virtua Forest - Depths",
+        "AddEnemies": null
+    },
+    {
+        "Name": "Virtua Forest",
+        "DungeonID": 1,
+        "Connections": [],
+        "DLC": 0,
+        "ChangeDungeon": null,
+        "AddEnemies": null
+    },
+    {
+        "Name": "World Labyrinth - 1st Floor",
+        "DungeonID": 10,
+        "Connections": [
+            {
+                "Exit": "World Labyrinth - 2nd Floor",
+                "Method": "Level 20 && Power 1150 && Defense 1"
+            }
+        ],
+        "DLC": 0,
+        "ChangeDungeon": "Plan - Change Dungeon: World Labyrinth",
+        "AddEnemies": "Plan - Add Enemies: World Labyrinth"
+    },
+    {
+        "Name": "World Labyrinth - 2nd Floor",
+        "DungeonID": 11,
+        "Connections": [
+            {
+                "Exit": "World Labyrinth - 1st Floor",
+                "Method": "Level 20 && Power 1150 && Defense 1"
+            }
+        ],
+        "DLC": 0,
+        "ChangeDungeon": "Plan - Change Dungeon: World Labyrinth",
+        "AddEnemies": "Plan - Add Enemies: World Labyrinth"
+    }
+]
