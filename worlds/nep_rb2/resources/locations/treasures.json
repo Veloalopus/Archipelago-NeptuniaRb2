@@ -1,0 +1,1333 @@
+[
+    {
+        "Item": "",
+        "LocationName": "Arfoire's Factory - Treasure 1",
+        "Region": [
+            "Arfoire's Factory"
+        ],
+        "Requirement": [],
+        "LocationID": 211,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Arfoire's Factory - Treasure 2",
+        "Region": [
+            "Arfoire's Factory"
+        ],
+        "Requirement": [],
+        "LocationID": 212,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Arfoire's Factory - Treasure 3",
+        "Region": [
+            "Arfoire's Factory"
+        ],
+        "Requirement": [],
+        "LocationID": 213,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Atari Marsh Depths - Treasure 1",
+        "Region": [
+            "Atari Marsh Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 191,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Atari Marsh Depths - Treasure 2",
+        "Region": [
+            "Atari Marsh Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 192,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Atari Marsh Depths - Treasure 3",
+        "Region": [
+            "Atari Marsh Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 193,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Atari Marsh Depths - Treasure 4",
+        "Region": [
+            "Atari Marsh Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 194,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Atari Marsh - Treasure 1",
+        "Region": [
+            "Atari Marsh"
+        ],
+        "Requirement": [],
+        "LocationID": 181,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Atari Marsh - Treasure 2",
+        "Region": [
+            "Atari Marsh"
+        ],
+        "Requirement": [],
+        "LocationID": 182,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Atari Marsh - Treasure 3",
+        "Region": [
+            "Atari Marsh"
+        ],
+        "Requirement": [],
+        "LocationID": 183,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Atari Marsh - Treasure 4",
+        "Region": [
+            "Atari Marsh"
+        ],
+        "Requirement": [],
+        "LocationID": 184,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Darkness 60 - Treasure 1",
+        "Region": [
+            "Darkness 60"
+        ],
+        "Requirement": [],
+        "LocationID": 21,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Darkness 60 - Treasure 2",
+        "Region": [
+            "Darkness 60"
+        ],
+        "Requirement": [],
+        "LocationID": 22,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Darkness 60 - Treasure 3",
+        "Region": [
+            "Darkness 60"
+        ],
+        "Requirement": [],
+        "LocationID": 23,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Endless Zone - Treasure 1",
+        "Region": [
+            "Endless Zone"
+        ],
+        "Requirement": [],
+        "LocationID": 51,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Endless Zone - Treasure 2",
+        "Region": [
+            "Endless Zone"
+        ],
+        "Requirement": [],
+        "LocationID": 52,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Endless Zone - Treasure 3",
+        "Region": [
+            "Endless Zone"
+        ],
+        "Requirement": [],
+        "LocationID": 53,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Endless Zone - Treasure 4",
+        "Region": [
+            "Endless Zone"
+        ],
+        "Requirement": [],
+        "LocationID": 54,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Gamindustri Graveyard - Treasure 1",
+        "Region": [
+            "Gamindustri Graveyard"
+        ],
+        "Requirement": [],
+        "LocationID": 201,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Gamindustri Graveyard - Treasure 2",
+        "Region": [
+            "Gamindustri Graveyard"
+        ],
+        "Requirement": [],
+        "LocationID": 202,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Gamindustri Graveyard - Treasure 3",
+        "Region": [
+            "Gamindustri Graveyard"
+        ],
+        "Requirement": [],
+        "LocationID": 203,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Gapain Field - Treasure 1",
+        "Region": [
+            "Gapain Field"
+        ],
+        "Requirement": [],
+        "LocationID": 121,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Gapain Field - Treasure 2",
+        "Region": [
+            "Gapain Field"
+        ],
+        "Requirement": [],
+        "LocationID": 122,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Gapain Field - Treasure 3",
+        "Region": [
+            "Gapain Field"
+        ],
+        "Requirement": [],
+        "LocationID": 123,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Graveyard Depths - Treasure 1",
+        "Region": [
+            "Graveyard Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 241,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Graveyard Depths - Treasure 2",
+        "Region": [
+            "Graveyard Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 242,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Graveyard Depths - Treasure 3",
+        "Region": [
+            "Graveyard Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 243,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Graveyard Depths - Treasure 4",
+        "Region": [
+            "Graveyard Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 244,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Hellfire Hollow - Treasure 1",
+        "Region": [
+            "Hellfire Hollow"
+        ],
+        "Requirement": [],
+        "LocationID": 321,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Hellfire Hollow - Treasure 2",
+        "Region": [
+            "Hellfire Hollow"
+        ],
+        "Requirement": [],
+        "LocationID": 322,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Hellfire Hollow - Treasure 3",
+        "Region": [
+            "Hellfire Hollow"
+        ],
+        "Requirement": [],
+        "LocationID": 323,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Hellfire Hollow - Treasure 4",
+        "Region": [
+            "Hellfire Hollow"
+        ],
+        "Requirement": [],
+        "LocationID": 324,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Icicle Pathway - Treasure 1",
+        "Region": [
+            "Icicle Pathway"
+        ],
+        "Requirement": [],
+        "LocationID": 261,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Icicle Pathway - Treasure 2",
+        "Region": [
+            "Icicle Pathway"
+        ],
+        "Requirement": [],
+        "LocationID": 262,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Icicle Pathway - Treasure 3",
+        "Region": [
+            "Icicle Pathway"
+        ],
+        "Requirement": [],
+        "LocationID": 263,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Icicle Pathway - Treasure 4",
+        "Region": [
+            "Icicle Pathway"
+        ],
+        "Requirement": [],
+        "LocationID": 264,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Infinite Corridor - Treasure 1",
+        "Region": [
+            "Infinite Corridor"
+        ],
+        "Requirement": [],
+        "LocationID": 271,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Infinite Corridor - Treasure 2",
+        "Region": [
+            "Infinite Corridor"
+        ],
+        "Requirement": [],
+        "LocationID": 272,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Infinite Corridor - Treasure 3",
+        "Region": [
+            "Infinite Corridor"
+        ],
+        "Requirement": [],
+        "LocationID": 273,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Infinite Corridor - Treasure 4",
+        "Region": [
+            "Infinite Corridor"
+        ],
+        "Requirement": [],
+        "LocationID": 274,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Iris Field - Treasure 1",
+        "Region": [
+            "Iris Field"
+        ],
+        "Requirement": [],
+        "LocationID": 171,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Iris Field - Treasure 2",
+        "Region": [
+            "Iris Field"
+        ],
+        "Requirement": [],
+        "LocationID": 172,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Iris Field - Treasure 3",
+        "Region": [
+            "Iris Field"
+        ],
+        "Requirement": [],
+        "LocationID": 173,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Junk Box - Treasure 1",
+        "Region": [
+            "Junk Box"
+        ],
+        "Requirement": [],
+        "LocationID": 281,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Junk Box - Treasure 2",
+        "Region": [
+            "Junk Box"
+        ],
+        "Requirement": [],
+        "LocationID": 282,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Junk Box - Treasure 3",
+        "Region": [
+            "Junk Box"
+        ],
+        "Requirement": [],
+        "LocationID": 283,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Junk Box - Treasure 4",
+        "Region": [
+            "Junk Box"
+        ],
+        "Requirement": [],
+        "LocationID": 284,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "LAN Castle Depths - Treasure 1",
+        "Region": [
+            "LAN Castle Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 231,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "LAN Castle Depths - Treasure 2",
+        "Region": [
+            "LAN Castle Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 232,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "LAN Castle Depths - Treasure 3",
+        "Region": [
+            "LAN Castle Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 233,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "LAN Castle - Depths - Treasure 1",
+        "Region": [
+            "LAN Castle - Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 251,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "LAN Castle - Depths - Treasure 2",
+        "Region": [
+            "LAN Castle - Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 252,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "LAN Castle - Depths - Treasure 3",
+        "Region": [
+            "LAN Castle - Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 253,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "LAN Castle - Treasure 1",
+        "Region": [
+            "LAN Castle"
+        ],
+        "Requirement": [],
+        "LocationID": 221,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "LAN Castle - Treasure 2",
+        "Region": [
+            "LAN Castle"
+        ],
+        "Requirement": [],
+        "LocationID": 222,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "LAN Castle - Treasure 3",
+        "Region": [
+            "LAN Castle"
+        ],
+        "Requirement": [],
+        "LocationID": 223,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "LAN Castle - Treasure 4",
+        "Region": [
+            "LAN Castle"
+        ],
+        "Requirement": [],
+        "LocationID": 224,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Lost Ruins - Treasure 1",
+        "Region": [
+            "Lost Ruins"
+        ],
+        "Requirement": [],
+        "LocationID": 311,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Lost Ruins - Treasure 2",
+        "Region": [
+            "Lost Ruins"
+        ],
+        "Requirement": [],
+        "LocationID": 312,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Lost Ruins - Treasure 3",
+        "Region": [
+            "Lost Ruins"
+        ],
+        "Requirement": [],
+        "LocationID": 313,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Lowee Global Expo - East - Treasure 1",
+        "Region": [
+            "Lowee Global Expo - East"
+        ],
+        "Requirement": [],
+        "LocationID": 81,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Lowee Global Expo - East - Treasure 2",
+        "Region": [
+            "Lowee Global Expo - East"
+        ],
+        "Requirement": [],
+        "LocationID": 82,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Lowee Global Expo - East - Treasure 3",
+        "Region": [
+            "Lowee Global Expo - East"
+        ],
+        "Requirement": [],
+        "LocationID": 83,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Lowee Global Expo - West - Treasure 1",
+        "Region": [
+            "Lowee Global Expo - West"
+        ],
+        "Requirement": [],
+        "LocationID": 91,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Lowee Global Expo - West - Treasure 2",
+        "Region": [
+            "Lowee Global Expo - West"
+        ],
+        "Requirement": [],
+        "LocationID": 92,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Lowee Global Expo - West - Treasure 3",
+        "Region": [
+            "Lowee Global Expo - West"
+        ],
+        "Requirement": [],
+        "LocationID": 93,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Midcompany - Treasure 1",
+        "Region": [
+            "Midcompany"
+        ],
+        "Requirement": [],
+        "LocationID": 61,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Midcompany - Treasure 2",
+        "Region": [
+            "Midcompany"
+        ],
+        "Requirement": [],
+        "LocationID": 62,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Midcompany - Treasure 3",
+        "Region": [
+            "Midcompany"
+        ],
+        "Requirement": [],
+        "LocationID": 63,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Panan Jungle - Treasure 1",
+        "Region": [
+            "Panan Jungle"
+        ],
+        "Requirement": [],
+        "LocationID": 301,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Panan Jungle - Treasure 2",
+        "Region": [
+            "Panan Jungle"
+        ],
+        "Requirement": [],
+        "LocationID": 302,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Panan Jungle - Treasure 3",
+        "Region": [
+            "Panan Jungle"
+        ],
+        "Requirement": [],
+        "LocationID": 303,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Panan Jungle - Treasure 4",
+        "Region": [
+            "Panan Jungle"
+        ],
+        "Requirement": [],
+        "LocationID": 304,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Powerlevel Island - Treasure 1",
+        "Region": [
+            "Powerlevel Island"
+        ],
+        "Requirement": [],
+        "LocationID": 291,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Powerlevel Island - Treasure 2",
+        "Region": [
+            "Powerlevel Island"
+        ],
+        "Requirement": [],
+        "LocationID": 292,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Powerlevel Island - Treasure 3",
+        "Region": [
+            "Powerlevel Island"
+        ],
+        "Requirement": [],
+        "LocationID": 293,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Rebeat Resort - Treasure 1",
+        "Region": [
+            "Rebeat Resort"
+        ],
+        "Requirement": [],
+        "LocationID": 41,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Rebeat Resort - Treasure 2",
+        "Region": [
+            "Rebeat Resort"
+        ],
+        "Requirement": [],
+        "LocationID": 42,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Rebeat Resort - Treasure 3",
+        "Region": [
+            "Rebeat Resort"
+        ],
+        "Requirement": [],
+        "LocationID": 43,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Rebeat Resort - Treasure 4",
+        "Region": [
+            "Rebeat Resort"
+        ],
+        "Requirement": [],
+        "LocationID": 44,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Septent Resort - Treasure 1",
+        "Region": [
+            "Septent Resort"
+        ],
+        "Requirement": [],
+        "LocationID": 71,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Septent Resort - Treasure 2",
+        "Region": [
+            "Septent Resort"
+        ],
+        "Requirement": [],
+        "LocationID": 72,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Septent Resort - Treasure 3",
+        "Region": [
+            "Septent Resort"
+        ],
+        "Requirement": [],
+        "LocationID": 73,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Septent Resort - Treasure 4",
+        "Region": [
+            "Septent Resort"
+        ],
+        "Requirement": [],
+        "LocationID": 74,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Septent Resort - Treasure 5",
+        "Region": [
+            "Septent Resort"
+        ],
+        "Requirement": [],
+        "LocationID": 75,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Severed Dimension Depths - Treasure 1",
+        "Region": [
+            "Severed Dimension Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 161,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Severed Dimension Depths - Treasure 2",
+        "Region": [
+            "Severed Dimension Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 162,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Severed Dimension Depths - Treasure 3",
+        "Region": [
+            "Severed Dimension Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 163,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Severed Dimension Depths - Treasure 4",
+        "Region": [
+            "Severed Dimension Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 164,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Severed Dimension - Treasure 1",
+        "Region": [
+            "Severed Dimension"
+        ],
+        "Requirement": [],
+        "LocationID": 151,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Severed Dimension - Treasure 2",
+        "Region": [
+            "Severed Dimension"
+        ],
+        "Requirement": [],
+        "LocationID": 152,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Severed Dimension - Treasure 3",
+        "Region": [
+            "Severed Dimension"
+        ],
+        "Requirement": [],
+        "LocationID": 153,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Severed Dimension - Treasure 4",
+        "Region": [
+            "Severed Dimension"
+        ],
+        "Requirement": [],
+        "LocationID": 154,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Sublie Road - Treasure 1",
+        "Region": [
+            "Sublie Road"
+        ],
+        "Requirement": [],
+        "LocationID": 331,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Sublie Road - Treasure 2",
+        "Region": [
+            "Sublie Road"
+        ],
+        "Requirement": [],
+        "LocationID": 332,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Sublie Road - Treasure 3",
+        "Region": [
+            "Sublie Road"
+        ],
+        "Requirement": [],
+        "LocationID": 333,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Trinity Marsh - Treasure 1",
+        "Region": [
+            "Trinity Marsh"
+        ],
+        "Requirement": [],
+        "LocationID": 341,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Trinity Marsh - Treasure 2",
+        "Region": [
+            "Trinity Marsh"
+        ],
+        "Requirement": [],
+        "LocationID": 342,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Trinity Marsh - Treasure 3",
+        "Region": [
+            "Trinity Marsh"
+        ],
+        "Requirement": [],
+        "LocationID": 343,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Trinity Marsh - Treasure 4",
+        "Region": [
+            "Trinity Marsh"
+        ],
+        "Requirement": [],
+        "LocationID": 344,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Underverse Depths - Treasure 1",
+        "Region": [
+            "Underverse Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 141,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Underverse Depths - Treasure 2",
+        "Region": [
+            "Underverse Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 142,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Underverse - Treasure 1",
+        "Region": [
+            "Underverse"
+        ],
+        "Requirement": [],
+        "LocationID": 131,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Underverse - Treasure 2",
+        "Region": [
+            "Underverse"
+        ],
+        "Requirement": [],
+        "LocationID": 132,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Underverse - Treasure 3",
+        "Region": [
+            "Underverse"
+        ],
+        "Requirement": [],
+        "LocationID": 133,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Virtua Forest - Depths - Treasure 1",
+        "Region": [
+            "Virtua Forest - Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 31,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Virtua Forest - Depths - Treasure 2",
+        "Region": [
+            "Virtua Forest - Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 32,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Virtua Forest - Depths - Treasure 3",
+        "Region": [
+            "Virtua Forest - Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 33,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Virtua Forest - Depths - Treasure 4",
+        "Region": [
+            "Virtua Forest - Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 34,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Virtua Forest - Treasure 1",
+        "Region": [
+            "Virtua Forest"
+        ],
+        "Requirement": [],
+        "LocationID": 11,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Virtua Forest - Treasure 2",
+        "Region": [
+            "Virtua Forest"
+        ],
+        "Requirement": [],
+        "LocationID": 12,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Virtua Forest - Treasure 3",
+        "Region": [
+            "Virtua Forest"
+        ],
+        "Requirement": [],
+        "LocationID": 13,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "World Labyrinth - 1st Floor - Treasure 1",
+        "Region": [
+            "World Labyrinth - 1st Floor"
+        ],
+        "Requirement": [],
+        "LocationID": 101,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "World Labyrinth - 1st Floor - Treasure 2",
+        "Region": [
+            "World Labyrinth - 1st Floor"
+        ],
+        "Requirement": [],
+        "LocationID": 102,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "World Labyrinth - 1st Floor - Treasure 3",
+        "Region": [
+            "World Labyrinth - 1st Floor"
+        ],
+        "Requirement": [],
+        "LocationID": 103,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "World Labyrinth - 1st Floor - Treasure 4",
+        "Region": [
+            "World Labyrinth - 1st Floor"
+        ],
+        "Requirement": [],
+        "LocationID": 104,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "World Labyrinth - 2nd Floor - Treasure 1",
+        "Region": [
+            "World Labyrinth - 2nd Floor"
+        ],
+        "Requirement": [],
+        "LocationID": 111,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "World Labyrinth - 2nd Floor - Treasure 2",
+        "Region": [
+            "World Labyrinth - 2nd Floor"
+        ],
+        "Requirement": [],
+        "LocationID": 112,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "World Labyrinth - 2nd Floor - Treasure 3",
+        "Region": [
+            "World Labyrinth - 2nd Floor"
+        ],
+        "Requirement": [],
+        "LocationID": 113,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "World Labyrinth - 2nd Floor - Treasure 4",
+        "Region": [
+            "World Labyrinth - 2nd Floor"
+        ],
+        "Requirement": [],
+        "LocationID": 114,
+        "Type": "Treasure",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "World Labyrinth - 2nd Floor - Treasure 5",
+        "Region": [
+            "World Labyrinth - 2nd Floor"
+        ],
+        "Requirement": [],
+        "LocationID": 115,
+        "Type": "Treasure",
+        "DLC": 0
+    }
+]

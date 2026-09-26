@@ -1,0 +1,1674 @@
+[
+    {
+        "Item": "",
+        "LocationName": "Arfoire's Factory - Gather 1",
+        "Region": [
+            "Arfoire's Factory"
+        ],
+        "Requirement": [],
+        "LocationID": 211,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Arfoire's Factory - Gather 2",
+        "Region": [
+            "Arfoire's Factory"
+        ],
+        "Requirement": [],
+        "LocationID": 212,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Arfoire's Factory - Gather 3",
+        "Region": [
+            "Arfoire's Factory"
+        ],
+        "Requirement": [],
+        "LocationID": 213,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Arfoire's Factory - Gather 4",
+        "Region": [
+            "Arfoire's Factory"
+        ],
+        "Requirement": [],
+        "LocationID": 214,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Arfoire's Factory - Gather 5",
+        "Region": [
+            "Arfoire's Factory"
+        ],
+        "Requirement": [],
+        "LocationID": 215,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Atari Marsh Depths - Gather 1",
+        "Region": [
+            "Atari Marsh Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 191,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Atari Marsh Depths - Gather 2",
+        "Region": [
+            "Atari Marsh Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 192,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Atari Marsh Depths - Gather 3",
+        "Region": [
+            "Atari Marsh Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 193,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Atari Marsh Depths - Gather 4",
+        "Region": [
+            "Atari Marsh Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 194,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Atari Marsh Depths - Gather 5",
+        "Region": [
+            "Atari Marsh Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 195,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Atari Marsh - Gather 1",
+        "Region": [
+            "Atari Marsh"
+        ],
+        "Requirement": [],
+        "LocationID": 181,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Atari Marsh - Gather 2",
+        "Region": [
+            "Atari Marsh"
+        ],
+        "Requirement": [],
+        "LocationID": 182,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Atari Marsh - Gather 3",
+        "Region": [
+            "Atari Marsh"
+        ],
+        "Requirement": [],
+        "LocationID": 183,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Atari Marsh - Gather 4",
+        "Region": [
+            "Atari Marsh"
+        ],
+        "Requirement": [],
+        "LocationID": 184,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Atari Marsh - Gather 5",
+        "Region": [
+            "Atari Marsh"
+        ],
+        "Requirement": [],
+        "LocationID": 185,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Darkness 60 - Gather 1",
+        "Region": [
+            "Darkness 60"
+        ],
+        "Requirement": [],
+        "LocationID": 21,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Darkness 60 - Gather 2",
+        "Region": [
+            "Darkness 60"
+        ],
+        "Requirement": [],
+        "LocationID": 22,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Darkness 60 - Gather 3",
+        "Region": [
+            "Darkness 60"
+        ],
+        "Requirement": [],
+        "LocationID": 23,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Darkness 60 - Gather 4",
+        "Region": [
+            "Darkness 60"
+        ],
+        "Requirement": [],
+        "LocationID": 24,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Endless Zone - Gather 1",
+        "Region": [
+            "Endless Zone"
+        ],
+        "Requirement": [],
+        "LocationID": 51,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Endless Zone - Gather 2",
+        "Region": [
+            "Endless Zone"
+        ],
+        "Requirement": [],
+        "LocationID": 52,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Endless Zone - Gather 3",
+        "Region": [
+            "Endless Zone"
+        ],
+        "Requirement": [],
+        "LocationID": 53,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Endless Zone - Gather 4",
+        "Region": [
+            "Endless Zone"
+        ],
+        "Requirement": [],
+        "LocationID": 54,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Endless Zone - Gather 5",
+        "Region": [
+            "Endless Zone"
+        ],
+        "Requirement": [],
+        "LocationID": 55,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Gamindustri Graveyard - Gather 1",
+        "Region": [
+            "Gamindustri Graveyard"
+        ],
+        "Requirement": [],
+        "LocationID": 201,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Gamindustri Graveyard - Gather 2",
+        "Region": [
+            "Gamindustri Graveyard"
+        ],
+        "Requirement": [],
+        "LocationID": 202,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Gamindustri Graveyard - Gather 3",
+        "Region": [
+            "Gamindustri Graveyard"
+        ],
+        "Requirement": [],
+        "LocationID": 203,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Gamindustri Graveyard - Gather 4",
+        "Region": [
+            "Gamindustri Graveyard"
+        ],
+        "Requirement": [],
+        "LocationID": 204,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Gamindustri Graveyard - Gather 5",
+        "Region": [
+            "Gamindustri Graveyard"
+        ],
+        "Requirement": [],
+        "LocationID": 205,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Gapain Field - Gather 1",
+        "Region": [
+            "Gapain Field"
+        ],
+        "Requirement": [],
+        "LocationID": 121,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Gapain Field - Gather 2",
+        "Region": [
+            "Gapain Field"
+        ],
+        "Requirement": [],
+        "LocationID": 122,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Gapain Field - Gather 3",
+        "Region": [
+            "Gapain Field"
+        ],
+        "Requirement": [],
+        "LocationID": 123,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Gapain Field - Gather 4",
+        "Region": [
+            "Gapain Field"
+        ],
+        "Requirement": [],
+        "LocationID": 124,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Gapain Field - Gather 5",
+        "Region": [
+            "Gapain Field"
+        ],
+        "Requirement": [],
+        "LocationID": 125,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Graveyard Depths - Gather 1",
+        "Region": [
+            "Graveyard Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 241,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Graveyard Depths - Gather 2",
+        "Region": [
+            "Graveyard Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 242,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Graveyard Depths - Gather 3",
+        "Region": [
+            "Graveyard Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 243,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Hellfire Hollow - Gather 1",
+        "Region": [
+            "Hellfire Hollow"
+        ],
+        "Requirement": [],
+        "LocationID": 331,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Hellfire Hollow - Gather 2",
+        "Region": [
+            "Hellfire Hollow"
+        ],
+        "Requirement": [],
+        "LocationID": 332,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Hellfire Hollow - Gather 3",
+        "Region": [
+            "Hellfire Hollow"
+        ],
+        "Requirement": [],
+        "LocationID": 333,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Hellfire Hollow - Gather 4",
+        "Region": [
+            "Hellfire Hollow"
+        ],
+        "Requirement": [],
+        "LocationID": 334,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Hellfire Hollow - Gather 5",
+        "Region": [
+            "Hellfire Hollow"
+        ],
+        "Requirement": [],
+        "LocationID": 335,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Icicle Pathway - Gather 1",
+        "Region": [
+            "Icicle Pathway"
+        ],
+        "Requirement": [],
+        "LocationID": 261,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Icicle Pathway - Gather 2",
+        "Region": [
+            "Icicle Pathway"
+        ],
+        "Requirement": [],
+        "LocationID": 262,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Icicle Pathway - Gather 3",
+        "Region": [
+            "Icicle Pathway"
+        ],
+        "Requirement": [],
+        "LocationID": 263,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Icicle Pathway - Gather 4",
+        "Region": [
+            "Icicle Pathway"
+        ],
+        "Requirement": [],
+        "LocationID": 264,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Infinite Corridor - Gather 1",
+        "Region": [
+            "Infinite Corridor"
+        ],
+        "Requirement": [],
+        "LocationID": 271,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Infinite Corridor - Gather 2",
+        "Region": [
+            "Infinite Corridor"
+        ],
+        "Requirement": [],
+        "LocationID": 272,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Infinite Corridor - Gather 3",
+        "Region": [
+            "Infinite Corridor"
+        ],
+        "Requirement": [],
+        "LocationID": 273,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Infinite Corridor - Gather 4",
+        "Region": [
+            "Infinite Corridor"
+        ],
+        "Requirement": [],
+        "LocationID": 274,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Infinite Corridor - Gather 5",
+        "Region": [
+            "Infinite Corridor"
+        ],
+        "Requirement": [],
+        "LocationID": 275,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Iris Field - Gather 1",
+        "Region": [
+            "Iris Field"
+        ],
+        "Requirement": [],
+        "LocationID": 171,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Iris Field - Gather 2",
+        "Region": [
+            "Iris Field"
+        ],
+        "Requirement": [],
+        "LocationID": 172,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Iris Field - Gather 3",
+        "Region": [
+            "Iris Field"
+        ],
+        "Requirement": [],
+        "LocationID": 173,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Iris Field - Gather 4",
+        "Region": [
+            "Iris Field"
+        ],
+        "Requirement": [],
+        "LocationID": 174,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Iris Field - Gather 5",
+        "Region": [
+            "Iris Field"
+        ],
+        "Requirement": [],
+        "LocationID": 175,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Iris Field - Gather 6",
+        "Region": [
+            "Iris Field"
+        ],
+        "Requirement": [],
+        "LocationID": 176,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Junk Box - Gather 1",
+        "Region": [
+            "Junk Box"
+        ],
+        "Requirement": [],
+        "LocationID": 281,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Junk Box - Gather 2",
+        "Region": [
+            "Junk Box"
+        ],
+        "Requirement": [],
+        "LocationID": 282,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Junk Box - Gather 3",
+        "Region": [
+            "Junk Box"
+        ],
+        "Requirement": [],
+        "LocationID": 283,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Junk Box - Gather 4",
+        "Region": [
+            "Junk Box"
+        ],
+        "Requirement": [],
+        "LocationID": 284,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "LAN Castle Depths - Gather 1",
+        "Region": [
+            "LAN Castle Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 231,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "LAN Castle Depths - Gather 2",
+        "Region": [
+            "LAN Castle Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 232,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "LAN Castle Depths - Gather 3",
+        "Region": [
+            "LAN Castle Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 233,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "LAN Castle - Depths - Gather 1",
+        "Region": [
+            "LAN Castle - Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 251,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "LAN Castle - Depths - Gather 2",
+        "Region": [
+            "LAN Castle - Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 252,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "LAN Castle - Depths - Gather 3",
+        "Region": [
+            "LAN Castle - Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 253,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "LAN Castle - Gather 1",
+        "Region": [
+            "LAN Castle"
+        ],
+        "Requirement": [],
+        "LocationID": 221,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "LAN Castle - Gather 2",
+        "Region": [
+            "LAN Castle"
+        ],
+        "Requirement": [],
+        "LocationID": 222,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "LAN Castle - Gather 3",
+        "Region": [
+            "LAN Castle"
+        ],
+        "Requirement": [],
+        "LocationID": 223,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Lost Ruins - Gather 1",
+        "Region": [
+            "Lost Ruins"
+        ],
+        "Requirement": [],
+        "LocationID": 321,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Lost Ruins - Gather 2",
+        "Region": [
+            "Lost Ruins"
+        ],
+        "Requirement": [],
+        "LocationID": 322,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Lost Ruins - Gather 3",
+        "Region": [
+            "Lost Ruins"
+        ],
+        "Requirement": [],
+        "LocationID": 323,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Lost Ruins - Gather 4",
+        "Region": [
+            "Lost Ruins"
+        ],
+        "Requirement": [],
+        "LocationID": 324,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Lost Ruins - Gather 5",
+        "Region": [
+            "Lost Ruins"
+        ],
+        "Requirement": [],
+        "LocationID": 325,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Lowee Global Expo - East - Gather 1",
+        "Region": [
+            "Lowee Global Expo - East"
+        ],
+        "Requirement": [],
+        "LocationID": 81,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Lowee Global Expo - East - Gather 2",
+        "Region": [
+            "Lowee Global Expo - East"
+        ],
+        "Requirement": [],
+        "LocationID": 82,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Lowee Global Expo - East - Gather 3",
+        "Region": [
+            "Lowee Global Expo - East"
+        ],
+        "Requirement": [],
+        "LocationID": 83,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Lowee Global Expo - East - Gather 4",
+        "Region": [
+            "Lowee Global Expo - East"
+        ],
+        "Requirement": [],
+        "LocationID": 84,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Lowee Global Expo - West - Gather 1",
+        "Region": [
+            "Lowee Global Expo - West"
+        ],
+        "Requirement": [],
+        "LocationID": 91,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Lowee Global Expo - West - Gather 2",
+        "Region": [
+            "Lowee Global Expo - West"
+        ],
+        "Requirement": [],
+        "LocationID": 92,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Lowee Global Expo - West - Gather 3",
+        "Region": [
+            "Lowee Global Expo - West"
+        ],
+        "Requirement": [],
+        "LocationID": 93,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Lowee Global Expo - West - Gather 4",
+        "Region": [
+            "Lowee Global Expo - West"
+        ],
+        "Requirement": [],
+        "LocationID": 94,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Midcompany - Gather 1",
+        "Region": [
+            "Midcompany"
+        ],
+        "Requirement": [],
+        "LocationID": 61,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Midcompany - Gather 2",
+        "Region": [
+            "Midcompany"
+        ],
+        "Requirement": [],
+        "LocationID": 62,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Midcompany - Gather 3",
+        "Region": [
+            "Midcompany"
+        ],
+        "Requirement": [],
+        "LocationID": 63,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Midcompany - Gather 4",
+        "Region": [
+            "Midcompany"
+        ],
+        "Requirement": [],
+        "LocationID": 64,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Panan Jungle - Gather 1",
+        "Region": [
+            "Panan Jungle"
+        ],
+        "Requirement": [],
+        "LocationID": 311,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Panan Jungle - Gather 2",
+        "Region": [
+            "Panan Jungle"
+        ],
+        "Requirement": [],
+        "LocationID": 312,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Panan Jungle - Gather 3",
+        "Region": [
+            "Panan Jungle"
+        ],
+        "Requirement": [],
+        "LocationID": 313,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Panan Jungle - Gather 4",
+        "Region": [
+            "Panan Jungle"
+        ],
+        "Requirement": [],
+        "LocationID": 314,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Panan Jungle - Gather 5",
+        "Region": [
+            "Panan Jungle"
+        ],
+        "Requirement": [],
+        "LocationID": 315,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Powerlevel Island - Gather 1",
+        "Region": [
+            "Powerlevel Island"
+        ],
+        "Requirement": [],
+        "LocationID": 301,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Powerlevel Island - Gather 2",
+        "Region": [
+            "Powerlevel Island"
+        ],
+        "Requirement": [],
+        "LocationID": 302,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Powerlevel Island - Gather 3",
+        "Region": [
+            "Powerlevel Island"
+        ],
+        "Requirement": [],
+        "LocationID": 303,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Powerlevel Island - Gather 4",
+        "Region": [
+            "Powerlevel Island"
+        ],
+        "Requirement": [],
+        "LocationID": 304,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Powerlevel Island - Gather 5",
+        "Region": [
+            "Powerlevel Island"
+        ],
+        "Requirement": [],
+        "LocationID": 305,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Rebeat Resort - Gather 1",
+        "Region": [
+            "Rebeat Resort"
+        ],
+        "Requirement": [],
+        "LocationID": 41,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Rebeat Resort - Gather 2",
+        "Region": [
+            "Rebeat Resort"
+        ],
+        "Requirement": [],
+        "LocationID": 42,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Rebeat Resort - Gather 3",
+        "Region": [
+            "Rebeat Resort"
+        ],
+        "Requirement": [],
+        "LocationID": 43,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Rebeat Resort - Gather 4",
+        "Region": [
+            "Rebeat Resort"
+        ],
+        "Requirement": [],
+        "LocationID": 44,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Rebeat Resort - Gather 5",
+        "Region": [
+            "Rebeat Resort"
+        ],
+        "Requirement": [],
+        "LocationID": 45,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Septent Resort - Gather 1",
+        "Region": [
+            "Septent Resort"
+        ],
+        "Requirement": [],
+        "LocationID": 71,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Septent Resort - Gather 2",
+        "Region": [
+            "Septent Resort"
+        ],
+        "Requirement": [],
+        "LocationID": 72,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Septent Resort - Gather 3",
+        "Region": [
+            "Septent Resort"
+        ],
+        "Requirement": [],
+        "LocationID": 73,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Septent Resort - Gather 4",
+        "Region": [
+            "Septent Resort"
+        ],
+        "Requirement": [],
+        "LocationID": 74,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Septent Resort - Gather 5",
+        "Region": [
+            "Septent Resort"
+        ],
+        "Requirement": [],
+        "LocationID": 75,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Severed Dimension - Gather 1",
+        "Region": [
+            "Severed Dimension"
+        ],
+        "Requirement": [],
+        "LocationID": 151,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Severed Dimension - Gather 2",
+        "Region": [
+            "Severed Dimension"
+        ],
+        "Requirement": [],
+        "LocationID": 152,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Severed Dimension - Gather 3",
+        "Region": [
+            "Severed Dimension"
+        ],
+        "Requirement": [],
+        "LocationID": 153,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Severed Dimension Depths - Gather 1",
+        "Region": [
+            "Severed Dimension Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 161,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Severed Dimension Depths - Gather 2",
+        "Region": [
+            "Severed Dimension Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 162,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Severed Dimension Depths - Gather 3",
+        "Region": [
+            "Severed Dimension Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 163,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Severed Dimension Depths - Gather 4",
+        "Region": [
+            "Severed Dimension Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 164,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Sublie Road - Gather 1",
+        "Region": [
+            "Sublie Road"
+        ],
+        "Requirement": [],
+        "LocationID": 341,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Sublie Road - Gather 2",
+        "Region": [
+            "Sublie Road"
+        ],
+        "Requirement": [],
+        "LocationID": 342,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Sublie Road - Gather 3",
+        "Region": [
+            "Sublie Road"
+        ],
+        "Requirement": [],
+        "LocationID": 343,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Sublie Road - Gather 4",
+        "Region": [
+            "Sublie Road"
+        ],
+        "Requirement": [],
+        "LocationID": 344,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Sublie Road - Gather 5",
+        "Region": [
+            "Sublie Road"
+        ],
+        "Requirement": [],
+        "LocationID": 345,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Sublie Road - Gather 6",
+        "Region": [
+            "Sublie Road"
+        ],
+        "Requirement": [],
+        "LocationID": 346,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Trinity Marsh - Gather 1",
+        "Region": [
+            "Trinity Marsh"
+        ],
+        "Requirement": [],
+        "LocationID": 351,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Trinity Marsh - Gather 2",
+        "Region": [
+            "Trinity Marsh"
+        ],
+        "Requirement": [],
+        "LocationID": 352,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Trinity Marsh - Gather 3",
+        "Region": [
+            "Trinity Marsh"
+        ],
+        "Requirement": [],
+        "LocationID": 353,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Trinity Marsh - Gather 4",
+        "Region": [
+            "Trinity Marsh"
+        ],
+        "Requirement": [],
+        "LocationID": 354,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Trinity Marsh - Gather 5",
+        "Region": [
+            "Trinity Marsh"
+        ],
+        "Requirement": [],
+        "LocationID": 355,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Underverse - Gather 1",
+        "Region": [
+            "Underverse"
+        ],
+        "Requirement": [],
+        "LocationID": 131,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Underverse - Gather 2",
+        "Region": [
+            "Underverse"
+        ],
+        "Requirement": [],
+        "LocationID": 132,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Underverse - Gather 3",
+        "Region": [
+            "Underverse"
+        ],
+        "Requirement": [],
+        "LocationID": 133,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Underverse - Gather 4",
+        "Region": [
+            "Underverse"
+        ],
+        "Requirement": [],
+        "LocationID": 134,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Underverse Depths - Gather 1",
+        "Region": [
+            "Underverse Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 141,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Underverse Depths - Gather 2",
+        "Region": [
+            "Underverse Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 142,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Underverse Depths - Gather 3",
+        "Region": [
+            "Underverse Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 143,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Underverse Depths - Gather 4",
+        "Region": [
+            "Underverse Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 144,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Underverse Depths - Gather 5",
+        "Region": [
+            "Underverse Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 145,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Virtua Forest - Depths - Gather 1",
+        "Region": [
+            "Virtua Forest - Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 31,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Virtua Forest - Depths - Gather 2",
+        "Region": [
+            "Virtua Forest - Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 32,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Virtua Forest - Depths - Gather 3",
+        "Region": [
+            "Virtua Forest - Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 33,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Virtua Forest - Depths - Gather 4",
+        "Region": [
+            "Virtua Forest - Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 34,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Virtua Forest - Depths - Gather 5",
+        "Region": [
+            "Virtua Forest - Depths"
+        ],
+        "Requirement": [],
+        "LocationID": 35,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Virtua Forest - Gather 1",
+        "Region": [
+            "Virtua Forest"
+        ],
+        "Requirement": [],
+        "LocationID": 11,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Virtua Forest - Gather 2",
+        "Region": [
+            "Virtua Forest"
+        ],
+        "Requirement": [],
+        "LocationID": 12,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Virtua Forest - Gather 3",
+        "Region": [
+            "Virtua Forest"
+        ],
+        "Requirement": [],
+        "LocationID": 13,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Virtua Forest - Gather 4",
+        "Region": [
+            "Virtua Forest"
+        ],
+        "Requirement": [],
+        "LocationID": 14,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "World Labyrinth - 1st Floor - Gather 1",
+        "Region": [
+            "World Labyrinth - 1st Floor"
+        ],
+        "Requirement": [],
+        "LocationID": 101,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "World Labyrinth - 1st Floor - Gather 2",
+        "Region": [
+            "World Labyrinth - 1st Floor"
+        ],
+        "Requirement": [],
+        "LocationID": 102,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "World Labyrinth - 1st Floor - Gather 3",
+        "Region": [
+            "World Labyrinth - 1st Floor"
+        ],
+        "Requirement": [],
+        "LocationID": 103,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "World Labyrinth - 1st Floor - Gather 4",
+        "Region": [
+            "World Labyrinth - 1st Floor"
+        ],
+        "Requirement": [],
+        "LocationID": 104,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "World Labyrinth - 2nd Floor - Gather 1",
+        "Region": [
+            "World Labyrinth - 2nd Floor"
+        ],
+        "Requirement": [],
+        "LocationID": 111,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "World Labyrinth - 2nd Floor - Gather 2",
+        "Region": [
+            "World Labyrinth - 2nd Floor"
+        ],
+        "Requirement": [],
+        "LocationID": 112,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "World Labyrinth - 2nd Floor - Gather 3",
+        "Region": [
+            "World Labyrinth - 2nd Floor"
+        ],
+        "Requirement": [],
+        "LocationID": 113,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "World Labyrinth - 2nd Floor - Gather 4",
+        "Region": [
+            "World Labyrinth - 2nd Floor"
+        ],
+        "Requirement": [],
+        "LocationID": 114,
+        "Type": "GatherSpot",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "World Labyrinth - 2nd Floor - Gather 5",
+        "Region": [
+            "World Labyrinth - 2nd Floor"
+        ],
+        "Requirement": [],
+        "LocationID": 115,
+        "Type": "GatherSpot",
+        "DLC": 0
+    }
+]
