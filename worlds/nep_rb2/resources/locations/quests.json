@@ -1,0 +1,18 @@
+[
+        {
+        "Item": "",
+        "LocationName": "Template Quest",
+        "Region": [
+            "Quest"
+        ],
+        "Requirement": [
+            {
+                "Method":"",
+                "Difficulty":0
+            }
+        ],
+        "LocationID": 1,
+        "Type": "Quest",
+        "DLC": 0
+    }
+]

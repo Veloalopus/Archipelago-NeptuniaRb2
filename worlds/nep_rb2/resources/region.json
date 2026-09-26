@@ -4,6 +4,10 @@
         "DungeonID": 0,
         "Connections": [
             {
+                "Exit": "Quest",
+                "Method": ""
+            },
+            {
                 "Exit": "Arfoire's Factory",
                 "Method": "Level 40 && Power 2050 && Defense 2"
             },
@@ -123,6 +127,14 @@
         "DLC": 0,
         "ChangeDungeon": 0,
         "AddEnemies": 0
+    },
+    {
+        "Name": "Quest",
+        "DungeonID": 0,
+        "Connections": [],
+        "DLC": 0,
+        "ChangeDungeon": null,
+        "AddEnemies": null
     },
     {
         "Name": "Arfoire's Factory",
