@@ -1,13 +1,13 @@
 import os
 import json,pkgutil
-from offsets import AddIdOffest
 from BaseClasses import Location, Region, MultiWorld, ItemClassification,LocationProgressType,EntranceType
 
 from worlds.generic.Rules import set_rule
 
+from .offsets import AddIdOffest
 from .options import NepRb2Options
 from .items import item_id_to_name,apDungeonItemBaseID,NepRb2Item,DungeonUnlockExists
-
+from .logic_parser import parse_expression_logic,evaluate_rule
 
 
 class Rb2Location(Location):
@@ -48,8 +48,8 @@ class Nep2RegionDeft:
         for region in self.regions:
             for exit in region["Connections"]:
                 rule = exit["Method"]
-                #ap_rule = parse_expression_logic(rule)
-                #ap_rule = evaluate_rule(ap_rule,self.player,regions,self.options,True)
+                ap_rule = parse_expression_logic(rule)
+                ap_rule = evaluate_rule(ap_rule,self.player,self.options)
                 ap_rule = lambda _: True
                 entrance = regionCache[region["Name"]].add_exits([exit["Exit"]],{exit["Exit"]:ap_rule})
 
@@ -81,8 +81,8 @@ class Nep2RegionDeft:
             for partial_rule in location["Requirement"]:
                 rule += f"({partial_rule["Method"]})"
 
-            #ap_rule = parse_expression_logic(rule)
-            #ap_rule = evaluate_rule(ap_rul e,self.player,regions,self.options)
+            ap_rule = parse_expression_logic(rule)
+            ap_rule = evaluate_rule(ap_rule,self.player,self.options)
 
                 
 

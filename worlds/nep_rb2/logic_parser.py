@@ -7,7 +7,7 @@ from typing import Dict,List
 
 
 
-def evaluate_rule(existing_rule: str, player: int, regions: Dict[int, Dict[str, Region]], options:NepRb2Options):
+def evaluate_rule(existing_rule: str, player: int, options:NepRb2Options):
     """
     This method converts a rule from the existing randomizer to a lambda which can be passed to AP.
     The existing randomizer evaluates a defined logic expression, which it seperates into 5 classes:
@@ -67,15 +67,15 @@ def evaluate_rule(existing_rule: str, player: int, regions: Dict[int, Dict[str, 
         raise ValueError(f"Invalid Rule. {literal}")
 
     elif isinstance(existing_rule, OpNot):
-        expr = evaluate_rule(existing_rule.expr, player, regions, options)
+        expr = evaluate_rule(existing_rule.expr, player, options)
         return lambda state: not expr(state)
     elif isinstance(existing_rule, OpOr):
-        expr_l = evaluate_rule(existing_rule.exprL, player, regions, options)
-        expr_r = evaluate_rule(existing_rule.exprR, player, regions, options)
+        expr_l = evaluate_rule(existing_rule.exprL, player, options)
+        expr_r = evaluate_rule(existing_rule.exprR, player, options)
         return lambda state: expr_l(state) or expr_r(state)
     elif isinstance(existing_rule, OpAnd):
-        expr_l = evaluate_rule(existing_rule.exprL, player, regions, options)
-        expr_r = evaluate_rule(existing_rule.exprR, player, regions, options)
+        expr_l = evaluate_rule(existing_rule.exprL, player, options)
+        expr_r = evaluate_rule(existing_rule.exprR, player, options)
         return lambda state: expr_l(state) and expr_r(state)
     raise ValueError("Invalid Expression recieved.")
 
