@@ -1,5 +1,14 @@
-SAVE_START = 0x443310
-INVENTORY_SIZE = 0xCA4C
-INVENTORY_START = INVENTORY_SIZE + 0x04
-ITEM_AMOUNT_OFFSET = 0x02
-ITEM_LENGTH = 0x04
+## Locations
+treasure_base_id = 1_000_000
+enemy_base_id = 2_000_000
+quest_base_id = 4_500_000
+
+def AddIdOffest(id,type):
+    match type:
+        case "Quest":
+            id = id + quest_base_id
+        case "Enemy":
+            id = id + enemy_base_id
+        case "Treasure":
+            id = id + treasure_base_id
+    return id

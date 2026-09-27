@@ -1,4 +1,5 @@
 import logging
+import json
 import os
 import pkgutil
 import typing
@@ -11,6 +12,8 @@ from worlds.AutoWorld import World
 from worlds.LauncherComponents import Component, Type, components, launch_subprocess
 from Options import Option
 
+from .region import *
+from .LocationData import *
 from .items import NepRb2Item, item_data, allItemData,apCharacterItemBaseID,eventItemList
 from .locations import NepRb2Location
 from .options import NepRb2Options
@@ -35,17 +38,94 @@ class NepRb2World(World):
     disabled_locations = Set[str]
 
     def create_item(self, name:str) -> NepRb2Item:
+        if name in allItemData:
+            return NepRb2Item(name, allItemData[name].type, allItemData[name].code, self.player)
+        name = ItemNames.healing_grass
         return NepRb2Item(name, allItemData[name].type, allItemData[name].code, self.player)
     
+    def createJsonFiles(self):
+        from .region_data.region import all_dungeon_regions_dict
+        from .names.DungeonIDs import all_dungeons
+        regions = self.multiworld.get_regions(self.player)
+        regionJson = []
+        for region in regions:
+            exits = []
+            for exit in region.exits:
+                to = exit.connected_region.name
+                newExit = {
+                    "Exit": to,
+                    "Method": "",
+                }
+                if to in all_dungeon_regions_dict:
+                    toInfo:RegionData = all_dungeon_regions_dict[to]
+                    newExit["Method"] = f"Level {toInfo.level} && Power {toInfo.power} && Defense {toInfo.defense}"
+
+                exits.append(newExit)
+            newRegion = {
+                "Name": region.name,
+                "DungeonID": 0,
+                "Connections":exits,
+                "DLC":0,
+                "ChangeDungeon":0,
+                "AddEnemies":0,
+            }
+            if region.name in all_dungeons:
+                newRegion["DungeonID"] = all_dungeons[region.name]
+            if region.name in all_dungeon_regions_dict:
+                x = all_dungeon_regions_dict[region.name]
+                newRegion["ChangeDungeon"] = x.changeDungeon
+                newRegion["AddEnemies"] = x.addEnemy
+            regionJson.append(newRegion)
+        file = open("./region.json","w+")
+        file.write(json.dumps(regionJson,indent=4))
+        file.close()
+        locations = self.multiworld.get_locations(self.player)
+        locationsJson = []
+        for loc in locations:
+            LocType = ""
+            id = loc.address
+            if id == None:
+                LocType = "AP Tracker"
+                id = 0
+            elif id > quest_base_id:
+                LocType = "Quest"
+                id = id - quest_base_id
+            elif id > enemy_base_id:
+                LocType = "Enemy"
+                id = id - enemy_base_id
+            elif id > treasure_base_id:
+                LocType = "Treasure"
+                id = id - treasure_base_id
+            else:
+                LocationData = "GatherPoint"
+                
+            newLocation = {
+                "Item":"",
+                "LocationName": loc.name,
+                "Region": [loc.parent_region.name],
+                "Requirement":[],
+                "LocationID":id,
+                "Type":LocType,
+                "DLC":0
+            }
+            locationsJson.append(newLocation)
+        file = open("./location.json","w+")
+        file.write(json.dumps(locationsJson,indent=4))
+        file.close()
 
     def create_regions(self) -> None:
         self.disabled_locations = set()
+        a = Nep2RegionDeft(self.multiworld,self.player,self.options)
+        a.set_regions()
+        a.connect_regions()
+        a.set_locations()
         # Create
-        devin = Nep2RegionDef(self.multiworld,self.player,self.options)
-        devin.setup_regions()
-        devin.setup_dungeon_entrace()
-        devin.setup_locations()
-        set_win_condition(self)
+        #devin = Nep2RegionDef(self.multiworld,self.player,self.options)
+        #devin.setup_regions()
+        #devin.setup_dungeon_entrace()
+        #devin.setup_locations()
+        #set_win_condition(self)
+        #self.createJsonFiles()
 
     def create_items(self) -> None:
         item_pool= []
