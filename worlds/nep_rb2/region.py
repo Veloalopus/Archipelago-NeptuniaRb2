@@ -6,7 +6,7 @@ from worlds.generic.Rules import set_rule
 
 from .offsets import AddIdOffest
 from .options import NepRb2Options
-from .items import item_id_to_name,apDungeonItemBaseID,NepRb2Item,DungeonUnlockExists
+from .items_old import item_id_to_name,apDungeonItemBaseID,NepRb2Item,DungeonUnlockExists
 from .logic_parser import parse_expression_logic,evaluate_rule
 
 

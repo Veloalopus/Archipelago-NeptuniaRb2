@@ -1,0 +1,35 @@
+[
+    {
+        "Name": "LASTSTATION_KILL",
+        "DisplayName": "Conquest - Kill Uni & Noire",
+        "Default_Quantity": 1,
+        "Maximum_Quantity": 1,
+        "Classification": "progression",
+        "Weight": 100,
+        "ID": 513,
+        "Group": "Event",
+        "DLC": 0
+    },
+    {
+        "Name": "LOWEE_KILL",
+        "DisplayName": "Conquest - Kill Blanc & Rom & Ram",
+        "Default_Quantity": 1,
+        "Maximum_Quantity": 1,
+        "Classification": "progression",
+        "Weight": 100,
+        "ID": 516,
+        "Group": "Event",
+        "DLC": 0
+    },
+    {
+        "Name": "LEANBOX_KILL",
+        "DisplayName": "Conquest - Kill Vert & Linda",
+        "Default_Quantity": 1,
+        "Maximum_Quantity": 1,
+        "Classification": "progression",
+        "Weight": 100,
+        "ID": 519,
+        "Group": "Event",
+        "DLC": 0
+    }
+]

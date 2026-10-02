@@ -2,7 +2,7 @@ import re
 from BaseClasses import Region
 from .logic_helper import NepRB2Logic
 from .options import NepRb2Options
-from .items import TeviToApNames
+from .items_old import TeviToApNames
 from typing import Dict,List
 
 
