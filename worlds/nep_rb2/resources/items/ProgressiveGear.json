@@ -171,15 +171,15 @@
 {
     "Name":"CAVE",
     "DisplayName":"Cave - Progressive Weapons",
-    "Default_Quantity": 6,
-    "Maximum_Quantity": 6,
+    "Default_Quantity": 5,
+    "Maximum_Quantity": 5,
     "Classification": "progression",
     "Weight": 100,
     "ID": 21,
     "Group": "ProgressiveGear",
     "DLC": 0,
     "Power":[200,400,750,1250,2250],
-    "Weapon":["SCISSORS","BASTARD_SWORD","CLAIOMH_SOLAIS","EXCALIBUR","AIRGEATLAMH","KIRYU_SWORD"]
+    "Weapon":["SCISSORS","FEATHER_SWORD","ANGEL_FEATHER","JILBALARD","BLACKWIND"]
 },
 {
     "Name":"FALCOM",
