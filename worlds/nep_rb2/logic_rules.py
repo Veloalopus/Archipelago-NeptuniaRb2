@@ -48,7 +48,7 @@ class NepRB2Logic():
         return playerStrength >= power
 
     def has_defense(armor:int,state:CollectionState,player:int):
-        return state.has(RuleToApNames["ProgressiveGear"]["Armor"],player,armor)
+        return state.has(RuleToApNames["ProgressiveGear"]["ARMOR"]["DisplayName"],player,armor)
 
     def has_ApEvent(event:str,state:CollectionState,player:int):
         return state.has(event,player)

@@ -294,6 +294,8 @@
     "Weight": 100,
     "ID": 24,
     "Group": "ProgressiveGear",
-    "DLC": 0
+    "DLC": 0,
+    "Power":[],
+    "Weapon":[]
 }
 ]
