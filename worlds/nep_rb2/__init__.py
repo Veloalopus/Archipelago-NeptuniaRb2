@@ -73,14 +73,22 @@ class NepRb2World(World):
         self.multiworld.push_precollected(self.create_item(starting_character))
 
         numbersOfItemsInTheGame = len(self.multiworld.get_unfilled_locations(self.player))
-        while numbersOfItemsInTheGame > len(item_pool):
-                item_pool.append(self.create_item("Herb"))
-        
+
         for item,quantity in self.item_quantities.items():
             item_pool += [self.create_item(item) for _ in range(0, quantity)]
 
+        while numbersOfItemsInTheGame > len(item_pool):
+            item_pool.append(self.create_item("Herb"))
+
         self.multiworld.itempool += item_pool
 
+    def set_rules(self) -> None:
+        """
+        Set remaining rules (for now this is just the win condition). 
+        """
+        self.multiworld.completion_condition[self.player] = \
+            lambda state: state.has("Gamindustri Graveyard - Deity Of Sin Arfoire",self.player)
+        
     def get_filler_item_name(self) -> str:
         return
     

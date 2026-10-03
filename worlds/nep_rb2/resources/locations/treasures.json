@@ -551,9 +551,9 @@
     },
     {
         "Item": "",
-        "LocationName": "LAN Castle - Depths - Treasure 1",
+        "LocationName": "LAN Castle - Underground - Treasure 1",
         "Region": [
-            "LAN Castle - Depths"
+            "LAN Castle - Underground"
         ],
         "Requirement": [],
         "LocationID": 251,
@@ -562,9 +562,9 @@
     },
     {
         "Item": "",
-        "LocationName": "LAN Castle - Depths - Treasure 2",
+        "LocationName": "LAN Castle - Underground - Treasure 2",
         "Region": [
-            "LAN Castle - Depths"
+            "LAN Castle - Underground"
         ],
         "Requirement": [],
         "LocationID": 252,
@@ -573,9 +573,9 @@
     },
     {
         "Item": "",
-        "LocationName": "LAN Castle - Depths - Treasure 3",
+        "LocationName": "LAN Castle - Underground - Treasure 3",
         "Region": [
-            "LAN Castle - Depths"
+            "LAN Castle - Underground"
         ],
         "Requirement": [],
         "LocationID": 253,

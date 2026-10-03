@@ -9,111 +9,107 @@
             },
             {
                 "Exit": "Arfoire's Factory",
-                "Method": "Level 40 && Power 2050 && Defense 2 && Unlocked 21"
+                "Method": "Dungeon ARFOIRES_FACTORY"
             },
             {
                 "Exit": "Atari Marsh",
-                "Method": "Level 20 && Power 1450 && Defense 1 && Unlocked 18"
+                "Method": "Dungeon ATARI_MARSH"
             },
             {
                 "Exit": "Darkness 60",
-                "Method": "Level 0 && Power 150 && Defense 0 && Unlocked 2"
+                "Method": "Dungeon DARKNESS_60"
             },
             {
                 "Exit": "Endless Zone",
-                "Method": "Level 0 && Power 250 && Defense 0 && Unlocked 5"
+                "Method": "Dungeon ENDLESS_ZONE"
             },
             {
                 "Exit": "Gamindustri Graveyard",
-                "Method": "Level 50 && Power 2850 && Defense 3 && Unlocked  20"
+                "Method": "Dungeon GAMINDUSTRI_GRAVEYARD"
             },
             {
                 "Exit": "Gapain Field",
-                "Method": "Level 20 && Power 1250 && Defense 2 && Unlocked 12"
+                "Method": "Dungeon GAPAIN_FIELD"
             },
             {
                 "Exit": "Graveyard - Oblivion",
-                "Method": "Level 60 && Power 4500 && Defense 4 && Unlocked 29"
+                "Method": "Dungeon GRAVEYARD_OBLIVION"
             },
             {
                 "Exit": "Hellfire Hollow",
-                "Method": "Level 70 && Power 6360 && Defense 5 && Unlocked 33"
+                "Method": "Dungeon HELLFIRE_HOLLOW"
             },
             {
                 "Exit": "Icicle Pathway",
-                "Method": "Level 60 && Power 4350 && Defense 4 && Unlocked 26"
+                "Method": "Dungeon ICICLE_PATHWAY"
             },
             {
                 "Exit": "Infinite Corridor",
-                "Method": "Level 70 && Power 4350 && Defense 4 && Unlocked 27"
+                "Method": "Dungeon INFINITE_CORRIDOR"
             },
             {
                 "Exit": "Iris Field",
-                "Method": "Level 30 && Power 1750 && Defense 3 && Unlocked 17"
+                "Method": "Dungeon IRIS_FIELD"
             },
             {
                 "Exit": "Junk Box",
-                "Method": "Level 60 && Power 4950 && Defense 4 && Unlocked 28"
+                "Method": "Dungeon JUNK_BOX"
             },
             {
-                "Exit": "LAN Castle - Depths",
-                "Method": "Level 30 && Power 3550 && Defense 3 && Unlocked 23"
+                "Exit": "LAN Castle - Underground",
+                "Method": "Dungeon LAN_CASTLE_UNDERGROUND"
             },
             {
                 "Exit": "LAN Castle",
-                "Method": "Level 40 && Power 2950 && Defense 3 && Unlocked 22"
+                "Method": "Dungeon LAN_CASTLE"
             },
             {
                 "Exit": "Lost Ruins",
-                "Method": "Level 70 && Power 6300 && Defense 5 && Unlocked 32"
+                "Method": "Dungeon LOST_RUINS"
             },
             {
                 "Exit": "Lowee Global Expo - East",
-                "Method": "Level 10 && Power 950 && Defense 1 && Unlocked 8"
+                "Method": "Dungeon LOWEE_GLOBAL_EXPO"
             },
             {
                 "Exit": "Midcompany",
-                "Method": "Level 0 && Power 450 && Defense 0 && Unlocked 6"
+                "Method": "Dungeon MIDCOMPANY"
             },
             {
                 "Exit": "Panan Jungle",
-                "Method": "Level 70 && Power 6300 && Defense 5 && Unlocked 31"
+                "Method": "Dungeon PANAN_JUNGLE"
             },
             {
                 "Exit": "Powerlevel Island",
-                "Method": "Level 20 && Power 1250 && Defense 1 && Unlocked 30"
+                "Method": "Dungeon POWERLEVEL_ISLAND"
             },
             {
                 "Exit": "Rebeat Resort",
-                "Method": "Level 0 && Power 400 && Defense 0 && Unlocked 4"
+                "Method": "Dungeon REBEAT_RESORT"
             },
             {
                 "Exit": "Septent Resort",
-                "Method": "Level 0 && Power 400 && Defense 0 && Unlocked 7"
+                "Method": "Dungeon SEPTENT_RESORT"
             },
             {
                 "Exit": "Severed Dimension",
-                "Method": "Level 30 && Power 1950 && Defense 2 && Unlocked 16"
+                "Method": "Dungeon SEVERED_DIMENSION"
             },
             {
                 "Exit": "Sublie Road",
-                "Method": "Level 60 && Power 6300 && Defense 4 && Unlocked 34"
+                "Method": "Dungeon SUBLIE_ROAD"
             },
             {
                 "Exit": "Trinity Marsh",
-                "Method": "Level 70 && Power 6300 && Defense 5 && Unlocked 35"
-            },
-            {
-                "Exit": "Underverse Depths",
-                "Method": "Level 20 && Power 1350 && Defense 1 && Unlocked 14"
+                "Method": "Dungeon TRINITY_MARSH"
             },
             {
                 "Exit": "Underverse",
-                "Method": "Level 20 && Power 1350 && Defense 1 && Unlocked 13"
+                "Method": "Dungeon UNDERVERSE"
             },
             {
                 "Exit": "Virtua Forest - Depths",
-                "Method": "Level 0 && Power 50 && Defense 0 && Unlocked 3"
+                "Method": "Dungeon VIRTUA_FOREST_DEPTHS"
             },
             {
                 "Exit": "Virtua Forest",
@@ -121,7 +117,7 @@
             },
             {
                 "Exit": "World Labyrinth - 1st Floor",
-                "Method": "Level 20 && Power 1150 && Defense 1 && Unlocked 10"
+                "Method": "Dungeon WORLD_LABRYNTH"
             }
         ],
         "DLC": 0,
@@ -282,7 +278,7 @@
         "AddEnemies": "Plan - Add Enemies: LAN Castle"
     },
     {
-        "Name": "LAN Castle - Depths",
+        "Name": "LAN Castle - Underground",
         "DungeonID": 25,
         "Connections": [],
         "DLC": 0,

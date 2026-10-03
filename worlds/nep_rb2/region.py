@@ -66,7 +66,6 @@ class Nep2RegionDeft:
                 rule = exit["Method"]
                 ap_rule = parse_expression_logic(rule)
                 ap_rule = evaluate_rule(ap_rule,self.player,self.options)
-                ap_rule = lambda _: True
                 entrance = regionCache[region["Name"]].add_exits([exit["Exit"]],{exit["Exit"]:ap_rule})
 
 
@@ -108,6 +107,7 @@ class Nep2RegionDeft:
                 id,
                 regions[region_name]
             )
+            set_rule(ap_location,ap_rule)
             if id == None:
                 ap_location.place_locked_item(NepRb2Item(location["Item"],ItemClassification.progression,None,self.player))
                 ap_location.show_in_spoiler = False

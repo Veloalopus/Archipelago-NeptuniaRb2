@@ -460,7 +460,7 @@
         "Item": "",
         "LocationName": "Dolichorhynchops",
         "Region": [
-            "LAN Castle - Depths",
+            "LAN Castle - Underground",
             "Graveyard Depths"
         ],
         "Requirement": [],
@@ -769,7 +769,7 @@
         "Item": "",
         "LocationName": "Deadly Spider",
         "Region": [
-            "LAN Castle - Depths"
+            "LAN Castle - Underground"
         ],
         "Requirement": [],
         "LocationID": 251,
@@ -780,7 +780,7 @@
         "Item": "",
         "LocationName": "Pinky",
         "Region": [
-            "LAN Castle - Depths"
+            "LAN Castle - Underground"
         ],
         "Requirement": [],
         "LocationID": 252,
@@ -791,7 +791,7 @@
         "Item": "",
         "LocationName": "Ms. Pinky",
         "Region": [
-            "LAN Castle - Depths"
+            "LAN Castle - Underground"
         ],
         "Requirement": [],
         "LocationID": 253,
@@ -1428,6 +1428,17 @@
         ],
         "Requirement": [],
         "LocationID": 310,
+        "Type": "Enemy",
+        "DLC": 0
+    },
+    {
+        "Item": "",
+        "LocationName": "Super FX Professor",
+        "Region": [
+            "World Labyrinth - 2nd Floor"
+        ],
+        "Requirement": [],
+        "LocationID": 163,
         "Type": "Enemy",
         "DLC": 0
     },

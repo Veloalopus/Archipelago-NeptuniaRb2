@@ -1,2 +1,3 @@
 RuleToApNames = {}
 ApNamesToRule = {}
+RuleItemDict = {}

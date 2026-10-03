@@ -705,9 +705,9 @@
     },
     {
         "Item": "",
-        "LocationName": "LAN Castle - Depths - Gather 1",
+        "LocationName": "LAN Castle - Underground - Gather 1",
         "Region": [
-            "LAN Castle - Depths"
+            "LAN Castle - Underground"
         ],
         "Requirement": [],
         "LocationID": 251,
@@ -716,9 +716,9 @@
     },
     {
         "Item": "",
-        "LocationName": "LAN Castle - Depths - Gather 2",
+        "LocationName": "LAN Castle - Underground - Gather 2",
         "Region": [
-            "LAN Castle - Depths"
+            "LAN Castle - Underground"
         ],
         "Requirement": [],
         "LocationID": 252,
@@ -727,9 +727,9 @@
     },
     {
         "Item": "",
-        "LocationName": "LAN Castle - Depths - Gather 3",
+        "LocationName": "LAN Castle - Underground - Gather 3",
         "Region": [
-            "LAN Castle - Depths"
+            "LAN Castle - Underground"
         ],
         "Requirement": [],
         "LocationID": 253,

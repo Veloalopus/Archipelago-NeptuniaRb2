@@ -72,8 +72,8 @@ def loadItems():
             RuleToApNames[item["Group"]] = {}
             ApNamesToRule[item["Group"]] = {}
            
-        RuleToApNames[item["Group"]][item["Name"]] = item["DisplayName"]
-        ApNamesToRule[item["Group"]][item["DisplayName"]] = item["Name"]
+        RuleToApNames[item["Group"]][item["Name"]] = item
+        ApNamesToRule[item["Group"]][item["DisplayName"]] = item
         item_table[item["DisplayName"]] = itemData
 
 

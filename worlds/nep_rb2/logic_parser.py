@@ -1,6 +1,6 @@
 import re
 from BaseClasses import Region
-from .logic_helper import NepRB2Logic
+from .logic_rules import NepRB2Logic
 from .options import NepRb2Options
 
 from typing import Dict,List
@@ -49,10 +49,10 @@ def evaluate_rule(existing_rule: str, player: int, options:NepRb2Options):
         split = literal.split(" ")
         match split[0]:
             case "Item":
-                if len(split) == 3:
-                    return lambda state: NepRB2Logic.has_item(split[1],state,player,int(split[2]))
+                if len(split) == 4:
+                    return lambda state: NepRB2Logic.has_item(split[1],split[2],state,player,int(split[3]))
                 else:
-                    return lambda state: NepRB2Logic.has_item(split[1],state,player)
+                    return lambda state: NepRB2Logic.has_item(split[1],split[2],state,player)
             case "Level":
                 return lambda state: NepRB2Logic.has_level(int(split[1]),state,player)
             case "Power":
@@ -60,11 +60,11 @@ def evaluate_rule(existing_rule: str, player: int, options:NepRb2Options):
             case "Defense":
                 return lambda state: NepRB2Logic.has_defense(int(split[1]),state,player)
             case "Dungeon":
-                return lambda state: NepRB2Logic.dungeon_unlocked(int(split[1]),state,player)
+                return lambda state: NepRB2Logic.dungeon_unlocked(split[1],state,player)
             case "Enemy":
                 return lambda state: NepRB2Logic.can_reach_enemy(literal.split(" ",1)[1],state,player)
-            case "Unlocked":
-                return lambda state: NepRB2Logic.dungeon_unlocked(int(split[1]),state,player)
+            case "Tracker":
+                return lambda state: NepRB2Logic.has_ApEvent(split[1],state,player)
         raise ValueError(f"Invalid Rule. {literal}")
 
     elif isinstance(existing_rule, OpNot):
