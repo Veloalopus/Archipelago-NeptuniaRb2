@@ -87,7 +87,7 @@ class NepRb2World(World):
         Set remaining rules (for now this is just the win condition). 
         """
         self.multiworld.completion_condition[self.player] = \
-            lambda state: state.has("Gamindustri Graveyard - Deity Of Sin Arfoire",self.player)
+            lambda state: state.has("VICTORY",self.player)
         
     def get_filler_item_name(self) -> str:
         return

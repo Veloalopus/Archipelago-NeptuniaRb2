@@ -29,3 +29,6 @@ class TestApWorld(Nep2RBTestBase):
                 failedChar.append(character["Name"])
         self.assertTrue(len(failedChar) == 0,"Not enough Weapons in pool!"+",".join(failedChar))
         
+    def test_Goal(self) -> None:
+        self.collect_all_but([])
+        self.assertTrue(self.can_reach_location("Gamindustri Graveyard - Deity Of Sin Arfoire"))
