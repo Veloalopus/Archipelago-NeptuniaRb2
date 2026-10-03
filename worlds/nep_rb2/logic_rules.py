@@ -39,7 +39,7 @@ class NepRB2Logic():
         for ruleChar,info in RuleToApNames["Character"].items():
             if state.has(info["DisplayName"],player):
                 tier = state.count(RuleToApNames["ProgressiveGear"][ruleChar]["DisplayName"],player)
-                characterPower.append(RuleToApNames["ProgressiveGear"][ruleChar]["Power"][tier-1])
+                characterPower.append(RuleToApNames["ProgressiveGear"][ruleChar]["Power"][tier])
         characterPower.sort(reverse=True)
         playerStrength = 0
         for i in range(0,4):

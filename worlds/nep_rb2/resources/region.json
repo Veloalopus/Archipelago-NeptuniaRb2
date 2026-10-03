@@ -9,11 +9,11 @@
             },
             {
                 "Exit": "Arfoire's Factory",
-                "Method": "Dungeon ARFOIRES_FACTORY"
+                "Method": "Level 40 && Dungeon ARFOIRES_FACTORY"
             },
             {
                 "Exit": "Atari Marsh",
-                "Method": "Dungeon ATARI_MARSH"
+                "Method": "Level 20 && Dungeon ATARI_MARSH"
             },
             {
                 "Exit": "Darkness 60",
@@ -25,51 +25,51 @@
             },
             {
                 "Exit": "Gamindustri Graveyard",
-                "Method": "Dungeon GAMINDUSTRI_GRAVEYARD"
+                "Method": "Level 50 && Dungeon GAMINDUSTRI_GRAVEYARD"
             },
             {
                 "Exit": "Gapain Field",
-                "Method": "Dungeon GAPAIN_FIELD"
+                "Method": "Level 20 && Dungeon GAPAIN_FIELD"
             },
             {
                 "Exit": "Graveyard - Oblivion",
-                "Method": "Dungeon GRAVEYARD_OBLIVION"
+                "Method": "Level 60 && Dungeon GRAVEYARD_OBLIVION"
             },
             {
                 "Exit": "Hellfire Hollow",
-                "Method": "Dungeon HELLFIRE_HOLLOW"
+                "Method": "Level 70 && Dungeon HELLFIRE_HOLLOW"
             },
             {
                 "Exit": "Icicle Pathway",
-                "Method": "Dungeon ICICLE_PATHWAY"
+                "Method": "Level 60 && Dungeon ICICLE_PATHWAY"
             },
             {
                 "Exit": "Infinite Corridor",
-                "Method": "Dungeon INFINITE_CORRIDOR"
+                "Method": "Level 70 && Dungeon INFINITE_CORRIDOR"
             },
             {
                 "Exit": "Iris Field",
-                "Method": "Dungeon IRIS_FIELD"
+                "Method": "Level 30 && Dungeon IRIS_FIELD"
             },
             {
                 "Exit": "Junk Box",
-                "Method": "Dungeon JUNK_BOX"
+                "Method": "Level 60 && Dungeon JUNK_BOX"
             },
             {
                 "Exit": "LAN Castle - Underground",
-                "Method": "Dungeon LAN_CASTLE_UNDERGROUND"
+                "Method": "Level 30 && Dungeon LAN_CASTLE_UNDERGROUND"
             },
             {
                 "Exit": "LAN Castle",
-                "Method": "Dungeon LAN_CASTLE"
+                "Method": "Level 40 && Dungeon LAN_CASTLE"
             },
             {
                 "Exit": "Lost Ruins",
-                "Method": "Dungeon LOST_RUINS"
+                "Method": "Level 70 && Dungeon LOST_RUINS"
             },
             {
                 "Exit": "Lowee Global Expo - East",
-                "Method": "Dungeon LOWEE_GLOBAL_EXPO"
+                "Method": "Level 10 && Dungeon LOWEE_GLOBAL_EXPO"
             },
             {
                 "Exit": "Midcompany",
@@ -77,11 +77,11 @@
             },
             {
                 "Exit": "Panan Jungle",
-                "Method": "Dungeon PANAN_JUNGLE"
+                "Method": "Level 70 && Dungeon PANAN_JUNGLE"
             },
             {
                 "Exit": "Powerlevel Island",
-                "Method": "Dungeon POWERLEVEL_ISLAND"
+                "Method": "Level 20 && Dungeon POWERLEVEL_ISLAND"
             },
             {
                 "Exit": "Rebeat Resort",
@@ -93,19 +93,19 @@
             },
             {
                 "Exit": "Severed Dimension",
-                "Method": "Dungeon SEVERED_DIMENSION"
+                "Method": "Level 30 && Dungeon SEVERED_DIMENSION"
             },
             {
                 "Exit": "Sublie Road",
-                "Method": "Dungeon SUBLIE_ROAD"
+                "Method": "Level 60 && Dungeon SUBLIE_ROAD"
             },
             {
                 "Exit": "Trinity Marsh",
-                "Method": "Dungeon TRINITY_MARSH"
+                "Method": "Level 70 && Dungeon TRINITY_MARSH"
             },
             {
                 "Exit": "Underverse",
-                "Method": "Dungeon UNDERVERSE"
+                "Method": "Level 20 && Dungeon UNDERVERSE"
             },
             {
                 "Exit": "Virtua Forest - Depths",
@@ -117,7 +117,7 @@
             },
             {
                 "Exit": "World Labyrinth - 1st Floor",
-                "Method": "Dungeon WORLD_LABRYNTH"
+                "Method": "Level 20 && Dungeon WORLD_LABRYNTH"
             }
         ],
         "DLC": 0,

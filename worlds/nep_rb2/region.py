@@ -110,7 +110,7 @@ class Nep2RegionDeft:
             set_rule(ap_location,ap_rule)
             if id == None:
                 ap_location.place_locked_item(NepRb2Item(location["Item"],ItemClassification.progression,None,self.player))
-                ap_location.show_in_spoiler = False
+                
             regions[region_name].locations.append(ap_location)
 
             #set_rule(ap_location,ap_rule)

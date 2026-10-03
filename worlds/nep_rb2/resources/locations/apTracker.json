@@ -17,7 +17,7 @@
     },
     {
         "Item": "LASTSTATION_FIGHT",
-        "LocationName": "Virtua Forest - Laststation Fight",
+        "LocationName": "Laststation Fight",
         "Region": [
             "Virtua Forest"
         ],
@@ -32,7 +32,7 @@
     },
     {
         "Item": "LEANBOX_FIGHT",
-        "LocationName": "Virtua Forest - Leanbox Fight",
+        "LocationName": "Leanbox Fight",
         "Region": [
             "Virtua Forest"
         ],
@@ -47,7 +47,7 @@
     },
     {
         "Item": "LOWEE_FIGHT",
-        "LocationName": "Virtua Forest - Lowee Fight",
+        "LocationName": "Lowee Fight",
         "Region": [
             "Virtua Forest"
         ],
