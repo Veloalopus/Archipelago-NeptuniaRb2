@@ -2,7 +2,7 @@ import re
 from BaseClasses import Region
 from .logic_helper import NepRB2Logic
 from .options import NepRb2Options
-from .items_old import TeviToApNames
+
 from typing import Dict,List
 
 
@@ -38,7 +38,8 @@ def evaluate_rule(existing_rule: str, player: int, options:NepRb2Options):
         literal_eval_map = {
             "": lambda _: True,
             "None": lambda _: True,
-            "False": lambda _: False,
+            "True": lambda _:True,
+            "False": lambda _: False
         }
         
 

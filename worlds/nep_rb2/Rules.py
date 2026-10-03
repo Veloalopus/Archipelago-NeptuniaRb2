@@ -2,12 +2,11 @@ from typing import TYPE_CHECKING
 
 from .names import DungeonNames, CharacterNames, progressiveGear, DungeonIDs, ItemNames
 from BaseClasses import CollectionState
-from .items_old import apDungeonItemBaseID, item_id_to_name, NepRb2Item, item_data,dungeonItemList
-from .region_data.region import RegionData
+
+
 from .options import NepRb2Options
 from .names import ItemNames
-from .locations import NepRb2Location
-from .LocationData import LocationData
+
 from BaseClasses import ItemClassification
 if TYPE_CHECKING:
     from . import NepRb2World

@@ -1,18 +1,39 @@
 import os
 import json,pkgutil
 from BaseClasses import Location, Region, MultiWorld, ItemClassification,LocationProgressType,EntranceType
+from importlib.resources import files 
 
 from worlds.generic.Rules import set_rule
 
 from .offsets import AddIdOffest
 from .options import NepRb2Options
-from .items_old import item_id_to_name,apDungeonItemBaseID,NepRb2Item,DungeonUnlockExists
 from .logic_parser import parse_expression_logic,evaluate_rule
-
-
+from .items import NepRb2Item
 class Rb2Location(Location):
     game: str = "Hyperdimension Neptunia Re;birth 2 Sisters Generation"
 
+
+TreasureBaseID = 1_000_000;
+EnemyBaseID = 2_000_000;
+QuestBaseID = 4_500_000;
+
+def loadLocations():
+    resourcesFiles = files(__name__) / "resources"
+    locationsFiles = resourcesFiles / "locations"
+    locations = []
+    for file in locationsFiles.glob("*.json"):
+        locations += json.loads(file.read_text())
+    for loc in locations:
+        match loc["Type"]:
+            case "LocationID":
+                loc["ID"] += TreasureBaseID
+            case "Enemy":
+                loc["LocationID"] += EnemyBaseID
+            case "Quest":
+                loc["LocationID"] += QuestBaseID
+    return locations
+
+loadLocations()
 
 class Nep2RegionDeft:
     """
@@ -21,21 +42,16 @@ class Nep2RegionDeft:
     """
   
     def __init__(self, multiworld: MultiWorld, player: int, options:NepRb2Options):
-        from importlib.resources import files 
 
         self.data = {}
         self.player = player
         self.multiworld = multiworld
-
+        self.options = options
+        self.locations = loadLocations()
         resourcesFiles = files(__name__) / "resources"
 
-        locationsFiles = resourcesFiles / "locations"
-
-        self.locations = []
-        for file in locationsFiles.glob("*.json"):
-            self.locations += json.loads(file.read_text())
-
         self.regions = json.loads(resourcesFiles.joinpath("region.json").read_text())
+
 
 
     def set_regions(self):
@@ -90,7 +106,7 @@ class Nep2RegionDeft:
                 self.player,
                 location_name,
                 id,
-                region_name
+                regions[region_name]
             )
             if id == None:
                 ap_location.place_locked_item(NepRb2Item(location["Item"],ItemClassification.progression,None,self.player))
@@ -98,5 +114,4 @@ class Nep2RegionDeft:
             regions[region_name].locations.append(ap_location)
 
             #set_rule(ap_location,ap_rule)
-
 

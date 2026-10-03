@@ -4,7 +4,7 @@ Its probably a little haphazardly sorted.. but the method names are descriptive
 enough for it not to be confusing.
 """
 from BaseClasses import CollectionState, MultiWorld,Region,Entrance
-from .items_old import TeviToApNames
+from .globals import RuleToApNames
 from .options import NepRb2Options
 from worlds.AutoWorld import LogicMixin
 from typing import Dict,Set
