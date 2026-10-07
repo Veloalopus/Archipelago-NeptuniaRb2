@@ -1,7 +1,7 @@
 [
     {
         "Item": "",
-        "LocationName": "Calicovader",
+        "LocationName": "Enemy - Calicovader",
         "Region": [
             "Arfoire's Factory"
         ],
@@ -16,7 +16,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Viral Calicovader",
+        "LocationName": "Enemy - Viral Calicovader",
         "Region": [
             "Arfoire's Factory"
         ],
@@ -31,7 +31,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Aimable",
+        "LocationName": "Enemy - Aimable",
         "Region": [
             "Arfoire's Factory"
         ],
@@ -46,7 +46,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Ganglord Panther",
+        "LocationName": "Enemy - Ganglord Panther",
         "Region": [
             "Arfoire's Factory"
         ],
@@ -61,7 +61,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Lady Sun",
+        "LocationName": "Enemy - Lady Sun",
         "Region": [
             "Arfoire's Factory"
         ],
@@ -76,7 +76,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Viral Lady Sun",
+        "LocationName": "Enemy - Viral Lady Sun",
         "Region": [
             "Arfoire's Factory"
         ],
@@ -91,7 +91,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Self-Defense System",
+        "LocationName": "Enemy - Self-Defense System",
         "Region": [
             "Arfoire's Factory"
         ],
@@ -106,7 +106,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Harevader",
+        "LocationName": "Enemy - Harevader",
         "Region": [
             "Atari Marsh Depths"
         ],
@@ -121,7 +121,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Viral Harevader",
+        "LocationName": "Enemy - Viral Harevader",
         "Region": [
             "Atari Marsh Depths"
         ],
@@ -136,7 +136,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Eggplanter",
+        "LocationName": "Enemy - Eggplanter",
         "Region": [
             "Atari Marsh Depths"
         ],
@@ -151,7 +151,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Tarantula",
+        "LocationName": "Enemy - Tarantula",
         "Region": [
             "Atari Marsh Depths"
         ],
@@ -166,7 +166,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Fat Horsebird",
+        "LocationName": "Enemy - Fat Horsebird",
         "Region": [
             "Atari Marsh Depths"
         ],
@@ -181,7 +181,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Poison Horsebird",
+        "LocationName": "Enemy - Poison Horsebird",
         "Region": [
             "Atari Marsh Depths"
         ],
@@ -196,7 +196,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Plaid Dolphin",
+        "LocationName": "Enemy - Plaid Dolphin",
         "Region": [
             "Gamindustri Graveyard",
             "Atari Marsh",
@@ -213,7 +213,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Meowvader",
+        "LocationName": "Enemy - Meowvader",
         "Region": [
             "Atari Marsh"
         ],
@@ -228,7 +228,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Viral Meowvader",
+        "LocationName": "Enemy - Viral Meowvader",
         "Region": [
             "Atari Marsh"
         ],
@@ -243,7 +243,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Met Froggy",
+        "LocationName": "Enemy - Met Froggy",
         "Region": [
             "Atari Marsh"
         ],
@@ -258,7 +258,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Matango",
+        "LocationName": "Enemy - Matango",
         "Region": [
             "Atari Marsh"
         ],
@@ -273,7 +273,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Viral Matango",
+        "LocationName": "Enemy - Viral Matango",
         "Region": [
             "Atari Marsh"
         ],
@@ -288,7 +288,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Pixelvader",
+        "LocationName": "Enemy - Pixelvader",
         "Region": [
             "Darkness 60"
         ],
@@ -303,7 +303,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Clyde",
+        "LocationName": "Enemy - Clyde",
         "Region": [
             "Darkness 60"
         ],
@@ -318,7 +318,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Ms. Clyde",
+        "LocationName": "Enemy - Ms. Clyde",
         "Region": [
             "Darkness 60"
         ],
@@ -333,7 +333,7 @@
     },
     {
         "Item": "",
-        "LocationName": "M-3",
+        "LocationName": "Enemy - M-3",
         "Region": [
             "Darkness 60"
         ],
@@ -348,7 +348,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Bit",
+        "LocationName": "Enemy - Bit",
         "Region": [
             "Midcompany",
             "Endless Zone"
@@ -364,7 +364,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Delinquent Cat",
+        "LocationName": "Enemy - Delinquent Cat",
         "Region": [
             "Rebeat Resort",
             "Endless Zone"
@@ -380,7 +380,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Bomb-omburai",
+        "LocationName": "Enemy - Bomb-omburai",
         "Region": [
             "Endless Zone"
         ],
@@ -395,7 +395,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Fenrisulfr",
+        "LocationName": "Enemy - Fenrisulfr",
         "Region": [
             "Virtua Forest - Depths",
             "Endless Zone"
@@ -411,7 +411,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Swinevader",
+        "LocationName": "Enemy - Swinevader",
         "Region": [
             "Gamindustri Graveyard"
         ],
@@ -426,7 +426,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Viral Swinevader",
+        "LocationName": "Enemy - Viral Swinevader",
         "Region": [
             "Gamindustri Graveyard"
         ],
@@ -441,7 +441,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Inky",
+        "LocationName": "Enemy - Inky",
         "Region": [
             "Gamindustri Graveyard"
         ],
@@ -456,7 +456,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Ms. Inky",
+        "LocationName": "Enemy - Ms. Inky",
         "Region": [
             "Gamindustri Graveyard"
         ],
@@ -471,7 +471,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Disc",
+        "LocationName": "Enemy - Disc",
         "Region": [
             "Gamindustri Graveyard"
         ],
@@ -486,7 +486,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Cardbird",
+        "LocationName": "Enemy - Cardbird",
         "Region": [
             "Gapain Field"
         ],
@@ -501,7 +501,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Sunflowery",
+        "LocationName": "Enemy - Sunflowery",
         "Region": [
             "Gapain Field"
         ],
@@ -516,7 +516,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Viral Sunflowery",
+        "LocationName": "Enemy - Viral Sunflowery",
         "Region": [
             "Gapain Field"
         ],
@@ -531,7 +531,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Pumpkimon",
+        "LocationName": "Enemy - Pumpkimon",
         "Region": [
             "Gapain Field"
         ],
@@ -546,7 +546,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Viral Pumpkimon",
+        "LocationName": "Enemy - Viral Pumpkimon",
         "Region": [
             "Gapain Field"
         ],
@@ -561,7 +561,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Elemental Dragon",
+        "LocationName": "Enemy - Elemental Dragon",
         "Region": [
             "Gapain Field"
         ],
@@ -576,7 +576,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Prince Cardbird",
+        "LocationName": "Enemy - Prince Cardbird",
         "Region": [
             "Graveyard Depths"
         ],
@@ -591,7 +591,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Dark Disc",
+        "LocationName": "Enemy - Dark Disc",
         "Region": [
             "Graveyard Depths"
         ],
@@ -606,7 +606,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Spotted Plum-met",
+        "LocationName": "Enemy - Spotted Plum-met",
         "Region": [
             "Graveyard Depths"
         ],
@@ -621,7 +621,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Dolichorhynchops",
+        "LocationName": "Enemy - Dolichorhynchops",
         "Region": [
             "LAN Castle - Underground",
             "Graveyard Depths"
@@ -637,7 +637,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Magma Boy",
+        "LocationName": "Enemy - Magma Boy",
         "Region": [
             "Hellfire Hollow"
         ],
@@ -652,7 +652,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Magma Girl",
+        "LocationName": "Enemy - Magma Girl",
         "Region": [
             "Hellfire Hollow"
         ],
@@ -667,7 +667,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Floristan",
+        "LocationName": "Enemy - Floristan",
         "Region": [
             "Hellfire Hollow"
         ],
@@ -682,7 +682,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Bushidama",
+        "LocationName": "Enemy - Bushidama",
         "Region": [
             "Hellfire Hollow"
         ],
@@ -697,7 +697,7 @@
     },
     {
         "Item": "",
-        "LocationName": "King Cardbird",
+        "LocationName": "Enemy - King Cardbird",
         "Region": [
             "Icicle Pathway"
         ],
@@ -712,7 +712,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Shrotamon",
+        "LocationName": "Enemy - Shrotamon",
         "Region": [
             "Icicle Pathway"
         ],
@@ -727,7 +727,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Viral Shirotamon",
+        "LocationName": "Enemy - Viral Shirotamon",
         "Region": [
             "Icicle Pathway"
         ],
@@ -742,7 +742,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Monkey Balancer",
+        "LocationName": "Enemy - Monkey Balancer",
         "Region": [
             "Icicle Pathway"
         ],
@@ -757,7 +757,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Vanargandr",
+        "LocationName": "Enemy - Vanargandr",
         "Region": [
             "Icicle Pathway"
         ],
@@ -772,7 +772,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Betavader",
+        "LocationName": "Enemy - Betavader",
         "Region": [
             "Infinite Corridor"
         ],
@@ -787,7 +787,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Tesrit",
+        "LocationName": "Enemy - Tesrit",
         "Region": [
             "Infinite Corridor"
         ],
@@ -802,7 +802,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Plom-met",
+        "LocationName": "Enemy - Plom-met",
         "Region": [
             "Infinite Corridor"
         ],
@@ -817,7 +817,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Guardragon",
+        "LocationName": "Enemy - Guardragon",
         "Region": [
             "Infinite Corridor"
         ],
@@ -832,7 +832,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Rabbit Balancer",
+        "LocationName": "Enemy - Rabbit Balancer",
         "Region": [
             "Iris Field"
         ],
@@ -847,7 +847,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Moulin Rouge",
+        "LocationName": "Enemy - Moulin Rouge",
         "Region": [
             "Iris Field"
         ],
@@ -862,7 +862,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Viral Moulin Rouge",
+        "LocationName": "Enemy - Viral Moulin Rouge",
         "Region": [
             "Iris Field"
         ],
@@ -877,7 +877,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Meow",
+        "LocationName": "Enemy - Meow",
         "Region": [
             "Iris Field"
         ],
@@ -892,7 +892,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Forest Turtle",
+        "LocationName": "Enemy - Forest Turtle",
         "Region": [
             "Iris Field"
         ],
@@ -907,7 +907,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Nanovader",
+        "LocationName": "Enemy - Nanovader",
         "Region": [
             "Junk Box"
         ],
@@ -922,7 +922,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Testri",
+        "LocationName": "Enemy - Testri",
         "Region": [
             "Junk Box"
         ],
@@ -937,7 +937,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Plam-met",
+        "LocationName": "Enemy - Plam-met",
         "Region": [
             "Junk Box"
         ],
@@ -952,7 +952,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Stalking Sister",
+        "LocationName": "Enemy - Stalking Sister",
         "Region": [
             "Junk Box"
         ],
@@ -967,7 +967,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Dagon",
+        "LocationName": "Enemy - Dagon",
         "Region": [
             "Junk Box"
         ],
@@ -982,7 +982,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Blue Sun",
+        "LocationName": "Enemy - Blue Sun",
         "Region": [
             "LAN Castle Depths"
         ],
@@ -997,7 +997,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Viral Blue Sun",
+        "LocationName": "Enemy - Viral Blue Sun",
         "Region": [
             "LAN Castle Depths"
         ],
@@ -1012,7 +1012,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Numbing Spider",
+        "LocationName": "Enemy - Numbing Spider",
         "Region": [
             "LAN Castle Depths"
         ],
@@ -1027,7 +1027,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Metal Dogoo",
+        "LocationName": "Enemy - Metal Dogoo",
         "Region": [
             "LAN Castle Depths"
         ],
@@ -1042,7 +1042,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Deadly Spider",
+        "LocationName": "Enemy - Deadly Spider",
         "Region": [
             "LAN Castle - Underground"
         ],
@@ -1057,7 +1057,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Pinky",
+        "LocationName": "Enemy - Pinky",
         "Region": [
             "LAN Castle - Underground"
         ],
@@ -1072,7 +1072,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Ms. Pinky",
+        "LocationName": "Enemy - Ms. Pinky",
         "Region": [
             "LAN Castle - Underground"
         ],
@@ -1087,7 +1087,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Baconvader",
+        "LocationName": "Enemy - Baconvader",
         "Region": [
             "LAN Castle"
         ],
@@ -1102,7 +1102,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Viral Baconvader",
+        "LocationName": "Enemy - Viral Baconvader",
         "Region": [
             "LAN Castle"
         ],
@@ -1117,7 +1117,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Leovader",
+        "LocationName": "Enemy - Leovader",
         "Region": [
             "LAN Castle"
         ],
@@ -1132,7 +1132,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Viral Leovader",
+        "LocationName": "Enemy - Viral Leovader",
         "Region": [
             "LAN Castle"
         ],
@@ -1147,7 +1147,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Speedy",
+        "LocationName": "Enemy - Speedy",
         "Region": [
             "LAN Castle"
         ],
@@ -1162,7 +1162,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Ms. Speedy",
+        "LocationName": "Enemy - Ms. Speedy",
         "Region": [
             "LAN Castle"
         ],
@@ -1177,7 +1177,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Nidhogg",
+        "LocationName": "Enemy - Nidhogg",
         "Region": [
             "LAN Castle"
         ],
@@ -1192,7 +1192,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Custom Bit",
+        "LocationName": "Enemy - Custom Bit",
         "Region": [
             "Lost Ruins"
         ],
@@ -1207,7 +1207,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Malvader",
+        "LocationName": "Enemy - Malvader",
         "Region": [
             "Lost Ruins"
         ],
@@ -1222,7 +1222,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Killer Spider",
+        "LocationName": "Enemy - Killer Spider",
         "Region": [
             "Lost Ruins"
         ],
@@ -1237,7 +1237,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Boxer Cat",
+        "LocationName": "Enemy - Boxer Cat",
         "Region": [
             "Lost Ruins"
         ],
@@ -1252,7 +1252,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Heavy Tank",
+        "LocationName": "Enemy - Heavy Tank",
         "Region": [
             "Lost Ruins"
         ],
@@ -1267,7 +1267,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Bunnyvader",
+        "LocationName": "Enemy - Bunnyvader",
         "Region": [
             "Lowee Global Expo - East"
         ],
@@ -1282,7 +1282,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Viral Bunnyvader",
+        "LocationName": "Enemy - Viral Bunnyvader",
         "Region": [
             "Lowee Global Expo - East"
         ],
@@ -1297,7 +1297,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Kupokitty",
+        "LocationName": "Enemy - Kupokitty",
         "Region": [
             "Lowee Global Expo - East"
         ],
@@ -1312,7 +1312,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Terits",
+        "LocationName": "Enemy - Terits",
         "Region": [
             "Lowee Global Expo - East"
         ],
@@ -1327,7 +1327,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Ice Fenrir",
+        "LocationName": "Enemy - Ice Fenrir",
         "Region": [
             "Powerlevel Island",
             "Lowee Global Expo - West",
@@ -1344,7 +1344,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Minivader",
+        "LocationName": "Enemy - Minivader",
         "Region": [
             "Lowee Global Expo - West"
         ],
@@ -1359,7 +1359,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Bear Balancer",
+        "LocationName": "Enemy - Bear Balancer",
         "Region": [
             "Lowee Global Expo - West"
         ],
@@ -1374,7 +1374,7 @@
     },
     {
         "Item": "",
-        "LocationName": "DSTT",
+        "LocationName": "Enemy - DSTT",
         "Region": [
             "Lowee Global Expo - West"
         ],
@@ -1389,7 +1389,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Red Dogoo",
+        "LocationName": "Enemy - Red Dogoo",
         "Region": [
             "Midcompany"
         ],
@@ -1404,7 +1404,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Elephantvader",
+        "LocationName": "Enemy - Elephantvader",
         "Region": [
             "Midcompany"
         ],
@@ -1419,7 +1419,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Viral Elephantvader",
+        "LocationName": "Enemy - Viral Elephantvader",
         "Region": [
             "Midcompany"
         ],
@@ -1434,7 +1434,7 @@
     },
     {
         "Item": "",
-        "LocationName": "R-4",
+        "LocationName": "Enemy - R-4",
         "Region": [
             "Midcompany"
         ],
@@ -1449,7 +1449,7 @@
     },
     {
         "Item": "",
-        "LocationName": "R4i-SDHC",
+        "LocationName": "Enemy - R4i-SDHC",
         "Region": [
             "Midcompany"
         ],
@@ -1464,7 +1464,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Carroteer",
+        "LocationName": "Enemy - Carroteer",
         "Region": [
             "Panan Jungle"
         ],
@@ -1479,7 +1479,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Spacevader",
+        "LocationName": "Enemy - Spacevader",
         "Region": [
             "Panan Jungle"
         ],
@@ -1494,7 +1494,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Armor Shell",
+        "LocationName": "Enemy - Armor Shell",
         "Region": [
             "Panan Jungle"
         ],
@@ -1509,7 +1509,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Tricky Horsebird",
+        "LocationName": "Enemy - Tricky Horsebird",
         "Region": [
             "Panan Jungle"
         ],
@@ -1524,7 +1524,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Blazing Horsebird",
+        "LocationName": "Enemy - Blazing Horsebird",
         "Region": [
             "Panan Jungle"
         ],
@@ -1539,7 +1539,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Forest Crab",
+        "LocationName": "Enemy - Forest Crab",
         "Region": [
             "Panan Jungle"
         ],
@@ -1554,7 +1554,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Skeleton",
+        "LocationName": "Enemy - Skeleton",
         "Region": [
             "Powerlevel Island"
         ],
@@ -1569,7 +1569,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Child Wolf",
+        "LocationName": "Enemy - Child Wolf",
         "Region": [
             "Powerlevel Island"
         ],
@@ -1584,7 +1584,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Viral Child Wolf",
+        "LocationName": "Enemy - Viral Child Wolf",
         "Region": [
             "Powerlevel Island"
         ],
@@ -1599,7 +1599,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Boomerang",
+        "LocationName": "Enemy - Boomerang",
         "Region": [
             "Powerlevel Island"
         ],
@@ -1614,7 +1614,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Strange Person",
+        "LocationName": "Enemy - Strange Person",
         "Region": [
             "Powerlevel Island"
         ],
@@ -1629,7 +1629,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Babyvader",
+        "LocationName": "Enemy - Babyvader",
         "Region": [
             "Rebeat Resort"
         ],
@@ -1644,7 +1644,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Frog-in-the-box",
+        "LocationName": "Enemy - Frog-in-the-box",
         "Region": [
             "Rebeat Resort"
         ],
@@ -1659,7 +1659,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Fish Zombie",
+        "LocationName": "Enemy - Fish Zombie",
         "Region": [
             "Rebeat Resort",
             "Septent Resort"
@@ -1675,7 +1675,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Viral Fish Zombie",
+        "LocationName": "Enemy - Viral Fish Zombie",
         "Region": [
             "Septent Resort",
             "Rebeat Resort"
@@ -1691,7 +1691,7 @@
     },
     {
         "Item": "",
-        "LocationName": "King Crab",
+        "LocationName": "Enemy - King Crab",
         "Region": [
             "Rebeat Resort"
         ],
@@ -1706,7 +1706,7 @@
     },
     {
         "Item": "",
-        "LocationName": "West Point",
+        "LocationName": "Enemy - West Point",
         "Region": [
             "Septent Resort"
         ],
@@ -1721,7 +1721,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Viral West Point",
+        "LocationName": "Enemy - Viral West Point",
         "Region": [
             "Septent Resort"
         ],
@@ -1736,7 +1736,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Bashful",
+        "LocationName": "Enemy - Bashful",
         "Region": [
             "Septent Resort"
         ],
@@ -1751,7 +1751,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Ms. Bashful",
+        "LocationName": "Enemy - Ms. Bashful",
         "Region": [
             "Septent Resort"
         ],
@@ -1766,7 +1766,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Dolphin",
+        "LocationName": "Enemy - Dolphin",
         "Region": [
             "Septent Resort"
         ],
@@ -1781,7 +1781,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Heretical Dogoo",
+        "LocationName": "Enemy - Heretical Dogoo",
         "Region": [
             "Severed Dimension Depths"
         ],
@@ -1796,7 +1796,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Super FX Doctor",
+        "LocationName": "Enemy - Super FX Doctor",
         "Region": [
             "Severed Dimension",
             "Severed Dimension Depths"
@@ -1812,7 +1812,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Ruffian Cat",
+        "LocationName": "Enemy - Ruffian Cat",
         "Region": [
             "Severed Dimension Depths"
         ],
@@ -1827,7 +1827,7 @@
     },
     {
         "Item": "",
-        "LocationName": "EDGE",
+        "LocationName": "Enemy - EDGE",
         "Region": [
             "Severed Dimension Depths"
         ],
@@ -1842,7 +1842,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Demonic Fenrir",
+        "LocationName": "Enemy - Demonic Fenrir",
         "Region": [
             "Severed Dimension",
             "Severed Dimension Depths"
@@ -1858,7 +1858,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Weirdo Shadow",
+        "LocationName": "Enemy - Weirdo Shadow",
         "Region": [
             "Severed Dimension"
         ],
@@ -1873,7 +1873,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Sicko Shadow",
+        "LocationName": "Enemy - Sicko Shadow",
         "Region": [
             "Severed Dimension"
         ],
@@ -1888,7 +1888,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Greedy Shadow",
+        "LocationName": "Enemy - Greedy Shadow",
         "Region": [
             "Severed Dimension"
         ],
@@ -1903,7 +1903,7 @@
     },
     {
         "Item": "",
-        "LocationName": "ASCII Orchestra",
+        "LocationName": "Enemy - ASCII Orchestra",
         "Region": [
             "Severed Dimension"
         ],
@@ -1918,7 +1918,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Dogoo France",
+        "LocationName": "Enemy - Dogoo France",
         "Region": [
             "Sublie Road"
         ],
@@ -1933,7 +1933,7 @@
     },
     {
         "Item": "",
-        "LocationName": "R-4 Custom",
+        "LocationName": "Enemy - R-4 Custom",
         "Region": [
             "Sublie Road"
         ],
@@ -1948,7 +1948,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Super FX Professor",
+        "LocationName": "Enemy - Super FX Professor",
         "Region": [
             "World Labyrinth - 2nd Floor"
         ],
@@ -1963,7 +1963,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Nemesis Spider",
+        "LocationName": "Enemy - Nemesis Spider",
         "Region": [
             "Sublie Road"
         ],
@@ -1978,7 +1978,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Tortoise",
+        "LocationName": "Enemy - Tortoise",
         "Region": [
             "Sublie Road"
         ],
@@ -1993,7 +1993,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Tote",
+        "LocationName": "Enemy - Tote",
         "Region": [
             "Trinity Marsh"
         ],
@@ -2008,7 +2008,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Tempo",
+        "LocationName": "Enemy - Tempo",
         "Region": [
             "Trinity Marsh"
         ],
@@ -2023,7 +2023,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Empole",
+        "LocationName": "Enemy - Empole",
         "Region": [
             "Trinity Marsh"
         ],
@@ -2038,7 +2038,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Pole",
+        "LocationName": "Enemy - Pole",
         "Region": [
             "Trinity Marsh"
         ],
@@ -2053,7 +2053,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Totempole",
+        "LocationName": "Enemy - Totempole",
         "Region": [
             "Trinity Marsh"
         ],
@@ -2068,7 +2068,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Royal Dragon",
+        "LocationName": "Enemy - Royal Dragon",
         "Region": [
             "Trinity Marsh"
         ],
@@ -2083,7 +2083,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Ms. Bomb-omburai",
+        "LocationName": "Enemy - Ms. Bomb-omburai",
         "Region": [
             "Underverse Depths"
         ],
@@ -2098,7 +2098,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Apeldoom",
+        "LocationName": "Enemy - Apeldoom",
         "Region": [
             "Underverse Depths"
         ],
@@ -2113,7 +2113,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Viral Apeldoom",
+        "LocationName": "Enemy - Viral Apeldoom",
         "Region": [
             "Underverse Depths"
         ],
@@ -2128,7 +2128,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Pal Shell",
+        "LocationName": "Enemy - Pal Shell",
         "Region": [
             "Underverse Depths"
         ],
@@ -2143,7 +2143,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Plumindigo",
+        "LocationName": "Enemy - Plumindigo",
         "Region": [
             "Underverse"
         ],
@@ -2158,7 +2158,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Red Babyvader",
+        "LocationName": "Enemy - Red Babyvader",
         "Region": [
             "Underverse"
         ],
@@ -2173,7 +2173,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Blinky",
+        "LocationName": "Enemy - Blinky",
         "Region": [
             "Underverse"
         ],
@@ -2188,7 +2188,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Ms. Blinky",
+        "LocationName": "Enemy - Ms. Blinky",
         "Region": [
             "Underverse"
         ],
@@ -2203,7 +2203,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Flame Fenrir",
+        "LocationName": "Enemy - Flame Fenrir",
         "Region": [
             "Underverse"
         ],
@@ -2218,7 +2218,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Fungus",
+        "LocationName": "Enemy - Fungus",
         "Region": [
             "Virtua Forest - Depths"
         ],
@@ -2233,7 +2233,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Viral Fungus",
+        "LocationName": "Enemy - Viral Fungus",
         "Region": [
             "Virtua Forest - Depths"
         ],
@@ -2248,7 +2248,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Piranha Flower",
+        "LocationName": "Enemy - Piranha Flower",
         "Region": [
             "Virtua Forest - Depths"
         ],
@@ -2263,7 +2263,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Spider",
+        "LocationName": "Enemy - Spider",
         "Region": [
             "Virtua Forest - Depths"
         ],
@@ -2278,7 +2278,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Hoinin",
+        "LocationName": "Enemy - Hoinin",
         "Region": [
             "Virtua Forest - Depths"
         ],
@@ -2293,7 +2293,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Dogoo",
+        "LocationName": "Enemy - Dogoo",
         "Region": [
             "Virtua Forest"
         ],
@@ -2308,7 +2308,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Tulip",
+        "LocationName": "Enemy - Tulip",
         "Region": [
             "Virtua Forest"
         ],
@@ -2323,7 +2323,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Radisher",
+        "LocationName": "Enemy - Radisher",
         "Region": [
             "Virtua Forest"
         ],
@@ -2338,7 +2338,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Real Gamer",
+        "LocationName": "Enemy - Real Gamer",
         "Region": [
             "Virtua Forest"
         ],
@@ -2353,7 +2353,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Grandogoo",
+        "LocationName": "Enemy - Grandogoo",
         "Region": [
             "Virtua Forest"
         ],
@@ -2368,7 +2368,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Horsebird Leader",
+        "LocationName": "Enemy - Horsebird Leader",
         "Region": [
             "Virtua Forest"
         ],
@@ -2383,7 +2383,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Poxvader",
+        "LocationName": "Enemy - Poxvader",
         "Region": [
             "World Labyrinth - 1st Floor"
         ],
@@ -2398,7 +2398,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Tetsri",
+        "LocationName": "Enemy - Tetsri",
         "Region": [
             "World Labyrinth - 1st Floor"
         ],
@@ -2413,7 +2413,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Tokimeki Sister",
+        "LocationName": "Enemy - Tokimeki Sister",
         "Region": [
             "World Labyrinth - 1st Floor"
         ],
@@ -2428,7 +2428,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Phoenix",
+        "LocationName": "Enemy - Phoenix",
         "Region": [
             "World Labyrinth - 2nd Floor",
             "World Labyrinth - 1st Floor"
@@ -2444,7 +2444,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Lionvader",
+        "LocationName": "Enemy - Lionvader",
         "Region": [
             "World Labyrinth - 2nd Floor"
         ],
@@ -2459,7 +2459,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Viral Lionvader",
+        "LocationName": "Enemy - Viral Lionvader",
         "Region": [
             "World Labyrinth - 2nd Floor"
         ],
@@ -2474,7 +2474,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Terist",
+        "LocationName": "Enemy - Terist",
         "Region": [
             "World Labyrinth - 2nd Floor"
         ],
@@ -2489,7 +2489,7 @@
     },
     {
         "Item": "",
-        "LocationName": "Plum-met",
+        "LocationName": "Enemy - Plum-met",
         "Region": [
             "World Labyrinth - 2nd Floor"
         ],
