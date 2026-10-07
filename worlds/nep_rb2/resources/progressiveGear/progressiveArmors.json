@@ -2,31 +2,31 @@
 {
     "Name":"STEEL_BRACELET,STEEL_ARMLET",
     "Defense":100,
-    "Tier":1
+    "Tier":0
 },
 {
     "Name":"STUDDED_BRACELET,STUDDED_ARMLET",
     "Defense":500,
-    "Tier":2
+    "Tier":1
 },
 {
     "Name":"HADES_BANGLE,PEARL_BRACELET,PEARL_ARMLET",
     "Defense":1100,
-    "Tier":3
+    "Tier":2
 },
 {
     "Name":"ARCHEBANGLE,ARCHEARMLET,GODDESS_BANGLE",
     "Defense":1450,
-    "Tier":4
+    "Tier":3
 },
 {
     "Name":"V_CRYSTAL,HUNTERS_CHARM,BLAZE_EMBLEM,TRIANGLE_FORCE,MONKEY_BRACELET,WHITE_KITTY_STRAP,SHIITAKE_BRACELET,NUNCHUK_STRAP",
     "Defense":1750,
-    "Tier":5
+    "Tier":4
 },
 {
     "Name":"TRAPEZOHEDRON,CELESTIA_BANGLE,TRINITY_BANGLE,TWIN_BANGLE",
     "Defense":2350,
-    "Tier":6
+    "Tier":5
 }
 ]

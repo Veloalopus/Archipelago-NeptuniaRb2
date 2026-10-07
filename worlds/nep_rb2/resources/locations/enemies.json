@@ -7,7 +7,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1250 && Defense 3"
+                "Method": "Level 40 && Power 1250 && Defense 2"
             }
         ],
         "LocationID": 223,
@@ -22,7 +22,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1250 && Defense 3"
+                "Method": "Level 40 && Power 1250 && Defense 2"
             }
         ],
         "LocationID": 224,
@@ -37,7 +37,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1250 && Defense 3"
+                "Method": "Level 40 && Power 1250 && Defense 2"
             }
         ],
         "LocationID": 225,
@@ -52,7 +52,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1250 && Defense 3"
+                "Method": "Level 40 && Power 1250 && Defense 2"
             }
         ],
         "LocationID": 226,
@@ -67,7 +67,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1250 && Defense 3"
+                "Method": "Level 40 && Power 1250 && Defense 2"
             }
         ],
         "LocationID": 227,
@@ -82,7 +82,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1250 && Defense 3"
+                "Method": "Level 40 && Power 1250 && Defense 2"
             }
         ],
         "LocationID": 228,
@@ -97,7 +97,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 50 && Power 2350 && Defense 3"
+                "Method": "Level 50 && Power 2350 && Defense 2"
             }
         ],
         "LocationID": 229,
@@ -112,7 +112,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 950 && Defense 2"
+                "Method": "Level 30 && Power 950 && Defense 1"
             }
         ],
         "LocationID": 210,
@@ -127,7 +127,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 950 && Defense 2"
+                "Method": "Level 30 && Power 950 && Defense 1"
             }
         ],
         "LocationID": 211,
@@ -142,7 +142,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 950 && Defense 2"
+                "Method": "Level 30 && Power 950 && Defense 1"
             }
         ],
         "LocationID": 212,
@@ -157,7 +157,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 950 && Defense 2"
+                "Method": "Level 30 && Power 950 && Defense 1"
             }
         ],
         "LocationID": 213,
@@ -172,7 +172,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 950 && Defense 2"
+                "Method": "Level 30 && Power 950 && Defense 1"
             }
         ],
         "LocationID": 214,
@@ -187,7 +187,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 950 && Defense 2"
+                "Method": "Level 30 && Power 950 && Defense 1"
             }
         ],
         "LocationID": 215,
@@ -204,7 +204,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 2000 && Defense 3"
+                "Method": "Level 40 && Power 2000 && Defense 2"
             }
         ],
         "LocationID": 207,
@@ -219,7 +219,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 850 && Defense 2"
+                "Method": "Level 30 && Power 850 && Defense 1"
             }
         ],
         "LocationID": 202,
@@ -234,7 +234,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 850 && Defense 2"
+                "Method": "Level 30 && Power 850 && Defense 1"
             }
         ],
         "LocationID": 203,
@@ -249,7 +249,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 850 && Defense 2"
+                "Method": "Level 30 && Power 850 && Defense 1"
             }
         ],
         "LocationID": 204,
@@ -264,7 +264,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 850 && Defense 2"
+                "Method": "Level 30 && Power 850 && Defense 1"
             }
         ],
         "LocationID": 205,
@@ -279,7 +279,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 850 && Defense 2"
+                "Method": "Level 30 && Power 850 && Defense 1"
             }
         ],
         "LocationID": 206,
@@ -294,7 +294,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 107,
@@ -309,7 +309,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 108,
@@ -324,7 +324,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 109,
@@ -339,7 +339,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 110,
@@ -355,7 +355,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 125,
@@ -371,7 +371,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 118,
@@ -386,7 +386,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 126,
@@ -402,7 +402,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 10 && Power 250 && Defense 1"
+                "Method": "Level 10 && Power 250"
             }
         ],
         "LocationID": 116,
@@ -417,7 +417,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 950 && Defense 3"
+                "Method": "Level 30 && Power 950 && Defense 2"
             }
         ],
         "LocationID": 216,
@@ -432,7 +432,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 950 && Defense 3"
+                "Method": "Level 30 && Power 950 && Defense 2"
             }
         ],
         "LocationID": 217,
@@ -447,7 +447,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 950 && Defense 3"
+                "Method": "Level 30 && Power 950 && Defense 2"
             }
         ],
         "LocationID": 218,
@@ -462,7 +462,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 950 && Defense 3"
+                "Method": "Level 30 && Power 950 && Defense 2"
             }
         ],
         "LocationID": 219,
@@ -477,7 +477,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 950 && Defense 3"
+                "Method": "Level 30 && Power 950 && Defense 2"
             }
         ],
         "LocationID": 220,
@@ -492,7 +492,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 20 && Power 450 && Defense 1"
+                "Method": "Level 20 && Power 450"
             }
         ],
         "LocationID": 164,
@@ -507,7 +507,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 20 && Power 450 && Defense 1"
+                "Method": "Level 20 && Power 450"
             }
         ],
         "LocationID": 165,
@@ -522,7 +522,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 20 && Power 450 && Defense 1"
+                "Method": "Level 20 && Power 450"
             }
         ],
         "LocationID": 166,
@@ -537,7 +537,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 20 && Power 450 && Defense 1"
+                "Method": "Level 20 && Power 450"
             }
         ],
         "LocationID": 167,
@@ -552,7 +552,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 20 && Power 450 && Defense 1"
+                "Method": "Level 20 && Power 450"
             }
         ],
         "LocationID": 168,
@@ -567,7 +567,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 1550 && Defense 2"
+                "Method": "Level 30 && Power 1550 && Defense 1"
             }
         ],
         "LocationID": 169,
@@ -582,7 +582,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1350 && Defense 3"
+                "Method": "Level 40 && Power 1350 && Defense 2"
             }
         ],
         "LocationID": 245,
@@ -597,7 +597,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1350 && Defense 3"
+                "Method": "Level 40 && Power 1350 && Defense 2"
             }
         ],
         "LocationID": 246,
@@ -612,7 +612,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1350 && Defense 3"
+                "Method": "Level 40 && Power 1350 && Defense 2"
             }
         ],
         "LocationID": 247,
@@ -628,7 +628,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 60 && Power 2750 && Defense 4"
+                "Method": "Level 60 && Power 2750 && Defense 3"
             }
         ],
         "LocationID": 248,
@@ -643,7 +643,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 70 && Power 3450 && Defense 5"
+                "Method": "Level 70 && Power 3450 && Defense 4"
             }
         ],
         "LocationID": 301,
@@ -658,7 +658,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 70 && Power 3450 && Defense 5"
+                "Method": "Level 70 && Power 3450 && Defense 4"
             }
         ],
         "LocationID": 302,
@@ -673,7 +673,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 70 && Power 3450 && Defense 5"
+                "Method": "Level 70 && Power 3450 && Defense 4"
             }
         ],
         "LocationID": 303,
@@ -688,7 +688,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 80 && Power 4500 && Defense 5"
+                "Method": "Level 80 && Power 4500 && Defense 4"
             }
         ],
         "LocationID": 304,
@@ -703,7 +703,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1650 && Defense 4"
+                "Method": "Level 40 && Power 1650 && Defense 3"
             }
         ],
         "LocationID": 256,
@@ -718,7 +718,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1650 && Defense 4"
+                "Method": "Level 40 && Power 1650 && Defense 3"
             }
         ],
         "LocationID": 257,
@@ -733,7 +733,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1650 && Defense 4"
+                "Method": "Level 40 && Power 1650 && Defense 3"
             }
         ],
         "LocationID": 258,
@@ -748,7 +748,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1650 && Defense 4"
+                "Method": "Level 40 && Power 1650 && Defense 3"
             }
         ],
         "LocationID": 259,
@@ -763,7 +763,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 80 && Power 4550 && Defense 5"
+                "Method": "Level 80 && Power 4550 && Defense 4"
             }
         ],
         "LocationID": 260,
@@ -778,7 +778,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1650 && Defense 4"
+                "Method": "Level 40 && Power 1650 && Defense 3"
             }
         ],
         "LocationID": 263,
@@ -793,7 +793,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1650 && Defense 4"
+                "Method": "Level 40 && Power 1650 && Defense 3"
             }
         ],
         "LocationID": 264,
@@ -808,7 +808,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1650 && Defense 4"
+                "Method": "Level 40 && Power 1650 && Defense 3"
             }
         ],
         "LocationID": 265,
@@ -823,7 +823,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 80 && Power 4650 && Defense 6"
+                "Method": "Level 80 && Power 4650 && Defense 5"
             }
         ],
         "LocationID": 266,
@@ -838,7 +838,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 750 && Defense 2"
+                "Method": "Level 30 && Power 750 && Defense 1"
             }
         ],
         "LocationID": 195,
@@ -853,7 +853,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 750 && Defense 2"
+                "Method": "Level 30 && Power 750 && Defense 1"
             }
         ],
         "LocationID": 196,
@@ -868,7 +868,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 750 && Defense 2"
+                "Method": "Level 30 && Power 750 && Defense 1"
             }
         ],
         "LocationID": 197,
@@ -883,7 +883,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 750 && Defense 2"
+                "Method": "Level 30 && Power 750 && Defense 1"
             }
         ],
         "LocationID": 198,
@@ -898,7 +898,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1950 && Defense 3"
+                "Method": "Level 40 && Power 1950 && Defense 2"
             }
         ],
         "LocationID": 199,
@@ -913,7 +913,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1650 && Defense 4"
+                "Method": "Level 40 && Power 1650 && Defense 3"
             }
         ],
         "LocationID": 269,
@@ -928,7 +928,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1650 && Defense 4"
+                "Method": "Level 40 && Power 1650 && Defense 3"
             }
         ],
         "LocationID": 272,
@@ -943,7 +943,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1650 && Defense 4"
+                "Method": "Level 40 && Power 1650 && Defense 3"
             }
         ],
         "LocationID": 271,
@@ -958,7 +958,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1650 && Defense 4"
+                "Method": "Level 40 && Power 1650 && Defense 3"
             }
         ],
         "LocationID": 270,
@@ -973,7 +973,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 80 && Power 4650 && Defense 5"
+                "Method": "Level 80 && Power 4650 && Defense 4"
             }
         ],
         "LocationID": 273,
@@ -988,7 +988,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1350 && Defense 3"
+                "Method": "Level 40 && Power 1350 && Defense 2"
             }
         ],
         "LocationID": 241,
@@ -1003,7 +1003,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1350 && Defense 3"
+                "Method": "Level 40 && Power 1350 && Defense 2"
             }
         ],
         "LocationID": 242,
@@ -1018,7 +1018,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1350 && Defense 3"
+                "Method": "Level 40 && Power 1350 && Defense 2"
             }
         ],
         "LocationID": 243,
@@ -1033,7 +1033,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1350 && Defense 3"
+                "Method": "Level 40 && Power 1350 && Defense 2"
             }
         ],
         "LocationID": 244,
@@ -1048,7 +1048,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1450 && Defense 4"
+                "Method": "Level 40 && Power 1450 && Defense 3"
             }
         ],
         "LocationID": 251,
@@ -1063,7 +1063,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1450 && Defense 4"
+                "Method": "Level 40 && Power 1450 && Defense 3"
             }
         ],
         "LocationID": 252,
@@ -1078,7 +1078,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1450 && Defense 4"
+                "Method": "Level 40 && Power 1450 && Defense 3"
             }
         ],
         "LocationID": 253,
@@ -1093,7 +1093,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1350 && Defense 3"
+                "Method": "Level 40 && Power 1350 && Defense 2"
             }
         ],
         "LocationID": 232,
@@ -1108,7 +1108,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1350 && Defense 3"
+                "Method": "Level 40 && Power 1350 && Defense 2"
             }
         ],
         "LocationID": 233,
@@ -1123,7 +1123,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1350 && Defense 3"
+                "Method": "Level 40 && Power 1350 && Defense 2"
             }
         ],
         "LocationID": 236,
@@ -1138,7 +1138,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1350 && Defense 3"
+                "Method": "Level 40 && Power 1350 && Defense 2"
             }
         ],
         "LocationID": 237,
@@ -1153,7 +1153,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1350 && Defense 3"
+                "Method": "Level 40 && Power 1350 && Defense 2"
             }
         ],
         "LocationID": 234,
@@ -1168,7 +1168,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1350 && Defense 3"
+                "Method": "Level 40 && Power 1350 && Defense 2"
             }
         ],
         "LocationID": 235,
@@ -1183,7 +1183,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 50 && Power 2350 && Defense 3"
+                "Method": "Level 50 && Power 2350 && Defense 2"
             }
         ],
         "LocationID": 238,
@@ -1198,7 +1198,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 70 && Power 4000 && Defense 5"
+                "Method": "Level 70 && Power 4000 && Defense 4"
             }
         ],
         "LocationID": 294,
@@ -1213,7 +1213,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 70 && Power 4000 && Defense 5"
+                "Method": "Level 70 && Power 4000 && Defense 4"
             }
         ],
         "LocationID": 295,
@@ -1228,7 +1228,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 70 && Power 4000 && Defense 5"
+                "Method": "Level 70 && Power 4000 && Defense 4"
             }
         ],
         "LocationID": 296,
@@ -1243,7 +1243,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 70 && Power 4000 && Defense 5"
+                "Method": "Level 70 && Power 4000 && Defense 4"
             }
         ],
         "LocationID": 297,
@@ -1258,7 +1258,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 80 && Power 4950 && Defense 6"
+                "Method": "Level 80 && Power 4950 && Defense 5"
             }
         ],
         "LocationID": 298,
@@ -1273,7 +1273,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 10 && Power 300 && Defense 1"
+                "Method": "Level 10 && Power 300"
             }
         ],
         "LocationID": 144,
@@ -1288,7 +1288,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 10 && Power 300 && Defense 1"
+                "Method": "Level 10 && Power 300"
             }
         ],
         "LocationID": 145,
@@ -1303,7 +1303,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 10 && Power 300 && Defense 1"
+                "Method": "Level 10 && Power 300"
             }
         ],
         "LocationID": 143,
@@ -1318,7 +1318,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 10 && Power 300 && Defense 1"
+                "Method": "Level 10 && Power 300"
             }
         ],
         "LocationID": 146,
@@ -1335,7 +1335,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 20 && Power 1150 && Defense 2"
+                "Method": "Level 20 && Power 1150 && Defense 1"
             }
         ],
         "LocationID": 147,
@@ -1350,7 +1350,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 10 && Power 300 && Defense 1"
+                "Method": "Level 10 && Power 300"
             }
         ],
         "LocationID": 150,
@@ -1365,7 +1365,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 10 && Power 300 && Defense 1"
+                "Method": "Level 10 && Power 300"
             }
         ],
         "LocationID": 151,
@@ -1380,7 +1380,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 10 && Power 300 && Defense 1"
+                "Method": "Level 10 && Power 300"
             }
         ],
         "LocationID": 152,
@@ -1395,7 +1395,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 129,
@@ -1410,7 +1410,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 130,
@@ -1425,7 +1425,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 131,
@@ -1440,7 +1440,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 132,
@@ -1455,7 +1455,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 133,
@@ -1470,7 +1470,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1850 && Defense 4"
+                "Method": "Level 40 && Power 1850 && Defense 3"
             }
         ],
         "LocationID": 286,
@@ -1485,7 +1485,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1850 && Defense 4"
+                "Method": "Level 40 && Power 1850 && Defense 3"
             }
         ],
         "LocationID": 287,
@@ -1500,7 +1500,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1850 && Defense 4"
+                "Method": "Level 40 && Power 1850 && Defense 3"
             }
         ],
         "LocationID": 290,
@@ -1515,7 +1515,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1850 && Defense 4"
+                "Method": "Level 40 && Power 1850 && Defense 3"
             }
         ],
         "LocationID": 288,
@@ -1530,7 +1530,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1850 && Defense 4"
+                "Method": "Level 40 && Power 1850 && Defense 3"
             }
         ],
         "LocationID": 289,
@@ -1545,7 +1545,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 70 && Power 4650 && Defense 5"
+                "Method": "Level 70 && Power 4650 && Defense 4"
             }
         ],
         "LocationID": 291,
@@ -1560,7 +1560,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 950 && Defense 2"
+                "Method": "Level 30 && Power 950 && Defense 1"
             }
         ],
         "LocationID": 417,
@@ -1575,7 +1575,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 950 && Defense 2"
+                "Method": "Level 30 && Power 950 && Defense 1"
             }
         ],
         "LocationID": 418,
@@ -1590,7 +1590,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 950 && Defense 2"
+                "Method": "Level 30 && Power 950 && Defense 1"
             }
         ],
         "LocationID": 419,
@@ -1605,7 +1605,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 950 && Defense 2"
+                "Method": "Level 30 && Power 950 && Defense 1"
             }
         ],
         "LocationID": 420,
@@ -1620,7 +1620,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 950 && Defense 2"
+                "Method": "Level 30 && Power 950 && Defense 1"
             }
         ],
         "LocationID": 421,
@@ -1635,7 +1635,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 117,
@@ -1650,7 +1650,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 119,
@@ -1666,7 +1666,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 120,
@@ -1682,7 +1682,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 121,
@@ -1697,7 +1697,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 122,
@@ -1712,7 +1712,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 136,
@@ -1727,7 +1727,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 137,
@@ -1742,7 +1742,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 138,
@@ -1757,7 +1757,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 139,
@@ -1772,7 +1772,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 20 && Power 400 && Defense 1"
+                "Method": "Level 20 && Power 400"
             }
         ],
         "LocationID": 140,
@@ -1787,7 +1787,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 750 && Defense 2"
+                "Method": "Level 30 && Power 750 && Defense 1"
             }
         ],
         "LocationID": 191,
@@ -1803,7 +1803,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 750 && Defense 2"
+                "Method": "Level 30 && Power 750 && Defense 1"
             }
         ],
         "LocationID": 187,
@@ -1818,7 +1818,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 750 && Defense 2"
+                "Method": "Level 30 && Power 750 && Defense 1"
             }
         ],
         "LocationID": 193,
@@ -1833,7 +1833,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 750 && Defense 2"
+                "Method": "Level 30 && Power 750 && Defense 1"
             }
         ],
         "LocationID": 194,
@@ -1849,7 +1849,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 40 && Power 1950 && Defense 3"
+                "Method": "Level 40 && Power 1950 && Defense 2"
             }
         ],
         "LocationID": 188,
@@ -1864,7 +1864,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 750 && Defense 2"
+                "Method": "Level 30 && Power 750 && Defense 1"
             }
         ],
         "LocationID": 183,
@@ -1879,7 +1879,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 750 && Defense 2"
+                "Method": "Level 30 && Power 750 && Defense 1"
             }
         ],
         "LocationID": 184,
@@ -1894,7 +1894,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 750 && Defense 2"
+                "Method": "Level 30 && Power 750 && Defense 1"
             }
         ],
         "LocationID": 185,
@@ -1909,7 +1909,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 750 && Defense 2"
+                "Method": "Level 30 && Power 750 && Defense 1"
             }
         ],
         "LocationID": 186,
@@ -1924,7 +1924,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 80 && Power 4950 && Defense 5"
+                "Method": "Level 80 && Power 4950 && Defense 4"
             }
         ],
         "LocationID": 308,
@@ -1939,7 +1939,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 80 && Power 4950 && Defense 5"
+                "Method": "Level 80 && Power 4950 && Defense 4"
             }
         ],
         "LocationID": 310,
@@ -1954,7 +1954,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 10 && Power 350 && Defense 1"
+                "Method": "Level 10 && Power 350"
             }
         ],
         "LocationID": 163,
@@ -1969,7 +1969,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 80 && Power 4950 && Defense 5"
+                "Method": "Level 80 && Power 4950 && Defense 4"
             }
         ],
         "LocationID": 309,
@@ -1984,7 +1984,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 90 && Power 5450 && Defense 6"
+                "Method": "Level 90 && Power 5450 && Defense 5"
             }
         ],
         "LocationID": 311,
@@ -1999,7 +1999,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 90 && Power 5450 && Defense 6"
+                "Method": "Level 90 && Power 5450 && Defense 5"
             }
         ],
         "LocationID": 314,
@@ -2014,7 +2014,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 90 && Power 5450 && Defense 6"
+                "Method": "Level 90 && Power 5450 && Defense 5"
             }
         ],
         "LocationID": 315,
@@ -2029,7 +2029,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 90 && Power 5450 && Defense 6"
+                "Method": "Level 90 && Power 5450 && Defense 5"
             }
         ],
         "LocationID": 316,
@@ -2044,7 +2044,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 90 && Power 5450 && Defense 6"
+                "Method": "Level 90 && Power 5450 && Defense 5"
             }
         ],
         "LocationID": 317,
@@ -2059,7 +2059,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 90 && Power 5450 && Defense 6"
+                "Method": "Level 90 && Power 5450 && Defense 5"
             }
         ],
         "LocationID": 318,
@@ -2074,7 +2074,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 90 && Power 6550 && Defense 6"
+                "Method": "Level 90 && Power 6550 && Defense 5"
             }
         ],
         "LocationID": 319,
@@ -2089,7 +2089,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 20 && Power 500 && Defense 2"
+                "Method": "Level 20 && Power 500 && Defense 1"
             }
         ],
         "LocationID": 179,
@@ -2104,7 +2104,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 20 && Power 500 && Defense 2"
+                "Method": "Level 20 && Power 500 && Defense 1"
             }
         ],
         "LocationID": 180,
@@ -2119,7 +2119,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 20 && Power 500 && Defense 2"
+                "Method": "Level 20 && Power 500 && Defense 1"
             }
         ],
         "LocationID": 181,
@@ -2134,7 +2134,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 20 && Power 500 && Defense 2"
+                "Method": "Level 20 && Power 500 && Defense 1"
             }
         ],
         "LocationID": 182,
@@ -2149,7 +2149,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 20 && Power 500 && Defense 2"
+                "Method": "Level 20 && Power 500 && Defense 1"
             }
         ],
         "LocationID": 172,
@@ -2164,7 +2164,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 20 && Power 500 && Defense 2"
+                "Method": "Level 20 && Power 500 && Defense 1"
             }
         ],
         "LocationID": 173,
@@ -2179,7 +2179,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 20 && Power 500 && Defense 2"
+                "Method": "Level 20 && Power 500 && Defense 1"
             }
         ],
         "LocationID": 174,
@@ -2194,7 +2194,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 20 && Power 500 && Defense 2"
+                "Method": "Level 20 && Power 500 && Defense 1"
             }
         ],
         "LocationID": 175,
@@ -2209,7 +2209,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 1650 && Defense 2"
+                "Method": "Level 30 && Power 1650 && Defense 1"
             }
         ],
         "LocationID": 176,
@@ -2224,7 +2224,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 111,
@@ -2239,7 +2239,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 112,
@@ -2254,7 +2254,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 114,
@@ -2269,7 +2269,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 115,
@@ -2284,7 +2284,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 113,
@@ -2299,7 +2299,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 101,
@@ -2314,7 +2314,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 103,
@@ -2329,7 +2329,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 106,
@@ -2344,7 +2344,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 104,
@@ -2359,7 +2359,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 102,
@@ -2374,7 +2374,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Power 50 && Defense 1"
+                "Method": "Power 50"
             }
         ],
         "LocationID": 105,
@@ -2389,7 +2389,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 10 && Power 350 && Defense 1"
+                "Method": "Level 10 && Power 350"
             }
         ],
         "LocationID": 153,
@@ -2404,7 +2404,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 10 && Power 350 && Defense 1"
+                "Method": "Level 10 && Power 350"
             }
         ],
         "LocationID": 154,
@@ -2419,7 +2419,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 10 && Power 350 && Defense 1"
+                "Method": "Level 10 && Power 350"
             }
         ],
         "LocationID": 155,
@@ -2435,7 +2435,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 30 && Power 1500 && Defense 2"
+                "Method": "Level 30 && Power 1500 && Defense 1"
             }
         ],
         "LocationID": 156,
@@ -2450,7 +2450,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 10 && Power 350 && Defense 1"
+                "Method": "Level 10 && Power 350"
             }
         ],
         "LocationID": 159,
@@ -2465,7 +2465,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 10 && Power 350 && Defense 1"
+                "Method": "Level 10 && Power 350"
             }
         ],
         "LocationID": 160,
@@ -2480,7 +2480,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 10 && Power 350 && Defense 1"
+                "Method": "Level 10 && Power 350"
             }
         ],
         "LocationID": 161,
@@ -2495,7 +2495,7 @@
         ],
         "Requirement": [
             {
-                "Method": "Level 10 && Power 350 && Defense 1"
+                "Method": "Level 10 && Power 350"
             }
         ],
         "LocationID": 162,
