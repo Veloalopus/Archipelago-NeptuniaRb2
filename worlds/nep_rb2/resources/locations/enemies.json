@@ -1,12 +1,15 @@
 [
-    
     {
         "Item": "",
         "LocationName": "Calicovader",
         "Region": [
             "Arfoire's Factory"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1250 && Defense 3"
+            }
+        ],
         "LocationID": 223,
         "Type": "Enemy",
         "DLC": 0
@@ -17,7 +20,11 @@
         "Region": [
             "Arfoire's Factory"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1250 && Defense 3"
+            }
+        ],
         "LocationID": 224,
         "Type": "Enemy",
         "DLC": 0
@@ -28,7 +35,11 @@
         "Region": [
             "Arfoire's Factory"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1250 && Defense 3"
+            }
+        ],
         "LocationID": 225,
         "Type": "Enemy",
         "DLC": 0
@@ -39,7 +50,11 @@
         "Region": [
             "Arfoire's Factory"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1250 && Defense 3"
+            }
+        ],
         "LocationID": 226,
         "Type": "Enemy",
         "DLC": 0
@@ -50,7 +65,11 @@
         "Region": [
             "Arfoire's Factory"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1250 && Defense 3"
+            }
+        ],
         "LocationID": 227,
         "Type": "Enemy",
         "DLC": 0
@@ -61,7 +80,11 @@
         "Region": [
             "Arfoire's Factory"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1250 && Defense 3"
+            }
+        ],
         "LocationID": 228,
         "Type": "Enemy",
         "DLC": 0
@@ -72,7 +95,11 @@
         "Region": [
             "Arfoire's Factory"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 50 && Power 2350 && Defense 3"
+            }
+        ],
         "LocationID": 229,
         "Type": "Enemy",
         "DLC": 0
@@ -83,7 +110,11 @@
         "Region": [
             "Atari Marsh Depths"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 950 && Defense 2"
+            }
+        ],
         "LocationID": 210,
         "Type": "Enemy",
         "DLC": 0
@@ -94,7 +125,11 @@
         "Region": [
             "Atari Marsh Depths"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 950 && Defense 2"
+            }
+        ],
         "LocationID": 211,
         "Type": "Enemy",
         "DLC": 0
@@ -105,7 +140,11 @@
         "Region": [
             "Atari Marsh Depths"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 950 && Defense 2"
+            }
+        ],
         "LocationID": 212,
         "Type": "Enemy",
         "DLC": 0
@@ -116,7 +155,11 @@
         "Region": [
             "Atari Marsh Depths"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 950 && Defense 2"
+            }
+        ],
         "LocationID": 213,
         "Type": "Enemy",
         "DLC": 0
@@ -127,7 +170,11 @@
         "Region": [
             "Atari Marsh Depths"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 950 && Defense 2"
+            }
+        ],
         "LocationID": 214,
         "Type": "Enemy",
         "DLC": 0
@@ -138,7 +185,11 @@
         "Region": [
             "Atari Marsh Depths"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 950 && Defense 2"
+            }
+        ],
         "LocationID": 215,
         "Type": "Enemy",
         "DLC": 0
@@ -151,7 +202,11 @@
             "Atari Marsh",
             "Atari Marsh Depths"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 2000 && Defense 3"
+            }
+        ],
         "LocationID": 207,
         "Type": "Enemy",
         "DLC": 0
@@ -162,7 +217,11 @@
         "Region": [
             "Atari Marsh"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 850 && Defense 2"
+            }
+        ],
         "LocationID": 202,
         "Type": "Enemy",
         "DLC": 0
@@ -173,7 +232,11 @@
         "Region": [
             "Atari Marsh"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 850 && Defense 2"
+            }
+        ],
         "LocationID": 203,
         "Type": "Enemy",
         "DLC": 0
@@ -184,7 +247,11 @@
         "Region": [
             "Atari Marsh"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 850 && Defense 2"
+            }
+        ],
         "LocationID": 204,
         "Type": "Enemy",
         "DLC": 0
@@ -195,7 +262,11 @@
         "Region": [
             "Atari Marsh"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 850 && Defense 2"
+            }
+        ],
         "LocationID": 205,
         "Type": "Enemy",
         "DLC": 0
@@ -206,7 +277,11 @@
         "Region": [
             "Atari Marsh"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 850 && Defense 2"
+            }
+        ],
         "LocationID": 206,
         "Type": "Enemy",
         "DLC": 0
@@ -217,7 +292,11 @@
         "Region": [
             "Darkness 60"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 107,
         "Type": "Enemy",
         "DLC": 0
@@ -228,7 +307,11 @@
         "Region": [
             "Darkness 60"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 108,
         "Type": "Enemy",
         "DLC": 0
@@ -239,7 +322,11 @@
         "Region": [
             "Darkness 60"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 109,
         "Type": "Enemy",
         "DLC": 0
@@ -250,7 +337,11 @@
         "Region": [
             "Darkness 60"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 110,
         "Type": "Enemy",
         "DLC": 0
@@ -262,7 +353,11 @@
             "Midcompany",
             "Endless Zone"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 125,
         "Type": "Enemy",
         "DLC": 0
@@ -274,7 +369,11 @@
             "Rebeat Resort",
             "Endless Zone"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 118,
         "Type": "Enemy",
         "DLC": 0
@@ -285,7 +384,11 @@
         "Region": [
             "Endless Zone"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 126,
         "Type": "Enemy",
         "DLC": 0
@@ -297,7 +400,11 @@
             "Virtua Forest - Depths",
             "Endless Zone"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 10 && Power 250 && Defense 1"
+            }
+        ],
         "LocationID": 116,
         "Type": "Enemy",
         "DLC": 0
@@ -308,7 +415,11 @@
         "Region": [
             "Gamindustri Graveyard"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 950 && Defense 3"
+            }
+        ],
         "LocationID": 216,
         "Type": "Enemy",
         "DLC": 0
@@ -319,7 +430,11 @@
         "Region": [
             "Gamindustri Graveyard"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 950 && Defense 3"
+            }
+        ],
         "LocationID": 217,
         "Type": "Enemy",
         "DLC": 0
@@ -330,7 +445,11 @@
         "Region": [
             "Gamindustri Graveyard"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 950 && Defense 3"
+            }
+        ],
         "LocationID": 218,
         "Type": "Enemy",
         "DLC": 0
@@ -341,7 +460,11 @@
         "Region": [
             "Gamindustri Graveyard"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 950 && Defense 3"
+            }
+        ],
         "LocationID": 219,
         "Type": "Enemy",
         "DLC": 0
@@ -352,7 +475,11 @@
         "Region": [
             "Gamindustri Graveyard"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 950 && Defense 3"
+            }
+        ],
         "LocationID": 220,
         "Type": "Enemy",
         "DLC": 0
@@ -363,7 +490,11 @@
         "Region": [
             "Gapain Field"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 20 && Power 450 && Defense 1"
+            }
+        ],
         "LocationID": 164,
         "Type": "Enemy",
         "DLC": 0
@@ -374,7 +505,11 @@
         "Region": [
             "Gapain Field"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 20 && Power 450 && Defense 1"
+            }
+        ],
         "LocationID": 165,
         "Type": "Enemy",
         "DLC": 0
@@ -385,7 +520,11 @@
         "Region": [
             "Gapain Field"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 20 && Power 450 && Defense 1"
+            }
+        ],
         "LocationID": 166,
         "Type": "Enemy",
         "DLC": 0
@@ -396,7 +535,11 @@
         "Region": [
             "Gapain Field"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 20 && Power 450 && Defense 1"
+            }
+        ],
         "LocationID": 167,
         "Type": "Enemy",
         "DLC": 0
@@ -407,7 +550,11 @@
         "Region": [
             "Gapain Field"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 20 && Power 450 && Defense 1"
+            }
+        ],
         "LocationID": 168,
         "Type": "Enemy",
         "DLC": 0
@@ -418,7 +565,11 @@
         "Region": [
             "Gapain Field"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 1550 && Defense 2"
+            }
+        ],
         "LocationID": 169,
         "Type": "Enemy",
         "DLC": 0
@@ -429,7 +580,11 @@
         "Region": [
             "Graveyard Depths"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1350 && Defense 3"
+            }
+        ],
         "LocationID": 245,
         "Type": "Enemy",
         "DLC": 0
@@ -440,7 +595,11 @@
         "Region": [
             "Graveyard Depths"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1350 && Defense 3"
+            }
+        ],
         "LocationID": 246,
         "Type": "Enemy",
         "DLC": 0
@@ -451,7 +610,11 @@
         "Region": [
             "Graveyard Depths"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1350 && Defense 3"
+            }
+        ],
         "LocationID": 247,
         "Type": "Enemy",
         "DLC": 0
@@ -463,7 +626,11 @@
             "LAN Castle - Underground",
             "Graveyard Depths"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 60 && Power 2750 && Defense 4"
+            }
+        ],
         "LocationID": 248,
         "Type": "Enemy",
         "DLC": 0
@@ -474,7 +641,11 @@
         "Region": [
             "Hellfire Hollow"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 70 && Power 3450 && Defense 5"
+            }
+        ],
         "LocationID": 301,
         "Type": "Enemy",
         "DLC": 0
@@ -485,7 +656,11 @@
         "Region": [
             "Hellfire Hollow"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 70 && Power 3450 && Defense 5"
+            }
+        ],
         "LocationID": 302,
         "Type": "Enemy",
         "DLC": 0
@@ -496,7 +671,11 @@
         "Region": [
             "Hellfire Hollow"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 70 && Power 3450 && Defense 5"
+            }
+        ],
         "LocationID": 303,
         "Type": "Enemy",
         "DLC": 0
@@ -507,7 +686,11 @@
         "Region": [
             "Hellfire Hollow"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 80 && Power 4500 && Defense 5"
+            }
+        ],
         "LocationID": 304,
         "Type": "Enemy",
         "DLC": 0
@@ -518,7 +701,11 @@
         "Region": [
             "Icicle Pathway"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1650 && Defense 4"
+            }
+        ],
         "LocationID": 256,
         "Type": "Enemy",
         "DLC": 0
@@ -529,7 +716,11 @@
         "Region": [
             "Icicle Pathway"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1650 && Defense 4"
+            }
+        ],
         "LocationID": 257,
         "Type": "Enemy",
         "DLC": 0
@@ -540,7 +731,11 @@
         "Region": [
             "Icicle Pathway"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1650 && Defense 4"
+            }
+        ],
         "LocationID": 258,
         "Type": "Enemy",
         "DLC": 0
@@ -551,7 +746,11 @@
         "Region": [
             "Icicle Pathway"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1650 && Defense 4"
+            }
+        ],
         "LocationID": 259,
         "Type": "Enemy",
         "DLC": 0
@@ -562,7 +761,11 @@
         "Region": [
             "Icicle Pathway"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 80 && Power 4550 && Defense 5"
+            }
+        ],
         "LocationID": 260,
         "Type": "Enemy",
         "DLC": 0
@@ -573,7 +776,11 @@
         "Region": [
             "Infinite Corridor"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1650 && Defense 4"
+            }
+        ],
         "LocationID": 263,
         "Type": "Enemy",
         "DLC": 0
@@ -584,7 +791,11 @@
         "Region": [
             "Infinite Corridor"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1650 && Defense 4"
+            }
+        ],
         "LocationID": 264,
         "Type": "Enemy",
         "DLC": 0
@@ -595,7 +806,11 @@
         "Region": [
             "Infinite Corridor"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1650 && Defense 4"
+            }
+        ],
         "LocationID": 265,
         "Type": "Enemy",
         "DLC": 0
@@ -606,7 +821,11 @@
         "Region": [
             "Infinite Corridor"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 80 && Power 4650 && Defense 6"
+            }
+        ],
         "LocationID": 266,
         "Type": "Enemy",
         "DLC": 0
@@ -617,7 +836,11 @@
         "Region": [
             "Iris Field"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 750 && Defense 2"
+            }
+        ],
         "LocationID": 195,
         "Type": "Enemy",
         "DLC": 0
@@ -628,7 +851,11 @@
         "Region": [
             "Iris Field"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 750 && Defense 2"
+            }
+        ],
         "LocationID": 196,
         "Type": "Enemy",
         "DLC": 0
@@ -639,7 +866,11 @@
         "Region": [
             "Iris Field"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 750 && Defense 2"
+            }
+        ],
         "LocationID": 197,
         "Type": "Enemy",
         "DLC": 0
@@ -650,7 +881,11 @@
         "Region": [
             "Iris Field"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 750 && Defense 2"
+            }
+        ],
         "LocationID": 198,
         "Type": "Enemy",
         "DLC": 0
@@ -661,7 +896,11 @@
         "Region": [
             "Iris Field"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1950 && Defense 3"
+            }
+        ],
         "LocationID": 199,
         "Type": "Enemy",
         "DLC": 0
@@ -672,7 +911,11 @@
         "Region": [
             "Junk Box"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1650 && Defense 4"
+            }
+        ],
         "LocationID": 269,
         "Type": "Enemy",
         "DLC": 0
@@ -683,7 +926,11 @@
         "Region": [
             "Junk Box"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1650 && Defense 4"
+            }
+        ],
         "LocationID": 272,
         "Type": "Enemy",
         "DLC": 0
@@ -694,7 +941,11 @@
         "Region": [
             "Junk Box"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1650 && Defense 4"
+            }
+        ],
         "LocationID": 271,
         "Type": "Enemy",
         "DLC": 0
@@ -705,7 +956,11 @@
         "Region": [
             "Junk Box"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1650 && Defense 4"
+            }
+        ],
         "LocationID": 270,
         "Type": "Enemy",
         "DLC": 0
@@ -716,7 +971,11 @@
         "Region": [
             "Junk Box"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 80 && Power 4650 && Defense 5"
+            }
+        ],
         "LocationID": 273,
         "Type": "Enemy",
         "DLC": 0
@@ -727,7 +986,11 @@
         "Region": [
             "LAN Castle Depths"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1350 && Defense 3"
+            }
+        ],
         "LocationID": 241,
         "Type": "Enemy",
         "DLC": 0
@@ -738,7 +1001,11 @@
         "Region": [
             "LAN Castle Depths"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1350 && Defense 3"
+            }
+        ],
         "LocationID": 242,
         "Type": "Enemy",
         "DLC": 0
@@ -749,7 +1016,11 @@
         "Region": [
             "LAN Castle Depths"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1350 && Defense 3"
+            }
+        ],
         "LocationID": 243,
         "Type": "Enemy",
         "DLC": 0
@@ -760,7 +1031,11 @@
         "Region": [
             "LAN Castle Depths"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1350 && Defense 3"
+            }
+        ],
         "LocationID": 244,
         "Type": "Enemy",
         "DLC": 0
@@ -771,7 +1046,11 @@
         "Region": [
             "LAN Castle - Underground"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1450 && Defense 4"
+            }
+        ],
         "LocationID": 251,
         "Type": "Enemy",
         "DLC": 0
@@ -782,7 +1061,11 @@
         "Region": [
             "LAN Castle - Underground"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1450 && Defense 4"
+            }
+        ],
         "LocationID": 252,
         "Type": "Enemy",
         "DLC": 0
@@ -793,7 +1076,11 @@
         "Region": [
             "LAN Castle - Underground"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1450 && Defense 4"
+            }
+        ],
         "LocationID": 253,
         "Type": "Enemy",
         "DLC": 0
@@ -804,7 +1091,11 @@
         "Region": [
             "LAN Castle"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1350 && Defense 3"
+            }
+        ],
         "LocationID": 232,
         "Type": "Enemy",
         "DLC": 0
@@ -815,7 +1106,11 @@
         "Region": [
             "LAN Castle"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1350 && Defense 3"
+            }
+        ],
         "LocationID": 233,
         "Type": "Enemy",
         "DLC": 0
@@ -826,7 +1121,11 @@
         "Region": [
             "LAN Castle"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1350 && Defense 3"
+            }
+        ],
         "LocationID": 236,
         "Type": "Enemy",
         "DLC": 0
@@ -837,7 +1136,11 @@
         "Region": [
             "LAN Castle"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1350 && Defense 3"
+            }
+        ],
         "LocationID": 237,
         "Type": "Enemy",
         "DLC": 0
@@ -848,7 +1151,11 @@
         "Region": [
             "LAN Castle"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1350 && Defense 3"
+            }
+        ],
         "LocationID": 234,
         "Type": "Enemy",
         "DLC": 0
@@ -859,7 +1166,11 @@
         "Region": [
             "LAN Castle"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1350 && Defense 3"
+            }
+        ],
         "LocationID": 235,
         "Type": "Enemy",
         "DLC": 0
@@ -870,7 +1181,11 @@
         "Region": [
             "LAN Castle"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 50 && Power 2350 && Defense 3"
+            }
+        ],
         "LocationID": 238,
         "Type": "Enemy",
         "DLC": 0
@@ -881,7 +1196,11 @@
         "Region": [
             "Lost Ruins"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 70 && Power 4000 && Defense 5"
+            }
+        ],
         "LocationID": 294,
         "Type": "Enemy",
         "DLC": 0
@@ -892,7 +1211,11 @@
         "Region": [
             "Lost Ruins"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 70 && Power 4000 && Defense 5"
+            }
+        ],
         "LocationID": 295,
         "Type": "Enemy",
         "DLC": 0
@@ -903,7 +1226,11 @@
         "Region": [
             "Lost Ruins"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 70 && Power 4000 && Defense 5"
+            }
+        ],
         "LocationID": 296,
         "Type": "Enemy",
         "DLC": 0
@@ -914,7 +1241,11 @@
         "Region": [
             "Lost Ruins"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 70 && Power 4000 && Defense 5"
+            }
+        ],
         "LocationID": 297,
         "Type": "Enemy",
         "DLC": 0
@@ -925,7 +1256,11 @@
         "Region": [
             "Lost Ruins"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 80 && Power 4950 && Defense 6"
+            }
+        ],
         "LocationID": 298,
         "Type": "Enemy",
         "DLC": 0
@@ -936,7 +1271,11 @@
         "Region": [
             "Lowee Global Expo - East"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 10 && Power 300 && Defense 1"
+            }
+        ],
         "LocationID": 144,
         "Type": "Enemy",
         "DLC": 0
@@ -947,7 +1286,11 @@
         "Region": [
             "Lowee Global Expo - East"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 10 && Power 300 && Defense 1"
+            }
+        ],
         "LocationID": 145,
         "Type": "Enemy",
         "DLC": 0
@@ -958,7 +1301,11 @@
         "Region": [
             "Lowee Global Expo - East"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 10 && Power 300 && Defense 1"
+            }
+        ],
         "LocationID": 143,
         "Type": "Enemy",
         "DLC": 0
@@ -969,7 +1316,11 @@
         "Region": [
             "Lowee Global Expo - East"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 10 && Power 300 && Defense 1"
+            }
+        ],
         "LocationID": 146,
         "Type": "Enemy",
         "DLC": 0
@@ -982,7 +1333,11 @@
             "Lowee Global Expo - West",
             "Lowee Global Expo - East"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 20 && Power 1150 && Defense 2"
+            }
+        ],
         "LocationID": 147,
         "Type": "Enemy",
         "DLC": 0
@@ -993,7 +1348,11 @@
         "Region": [
             "Lowee Global Expo - West"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 10 && Power 300 && Defense 1"
+            }
+        ],
         "LocationID": 150,
         "Type": "Enemy",
         "DLC": 0
@@ -1004,7 +1363,11 @@
         "Region": [
             "Lowee Global Expo - West"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 10 && Power 300 && Defense 1"
+            }
+        ],
         "LocationID": 151,
         "Type": "Enemy",
         "DLC": 0
@@ -1015,7 +1378,11 @@
         "Region": [
             "Lowee Global Expo - West"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 10 && Power 300 && Defense 1"
+            }
+        ],
         "LocationID": 152,
         "Type": "Enemy",
         "DLC": 0
@@ -1026,7 +1393,11 @@
         "Region": [
             "Midcompany"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 129,
         "Type": "Enemy",
         "DLC": 0
@@ -1037,7 +1408,11 @@
         "Region": [
             "Midcompany"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 130,
         "Type": "Enemy",
         "DLC": 0
@@ -1048,7 +1423,11 @@
         "Region": [
             "Midcompany"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 131,
         "Type": "Enemy",
         "DLC": 0
@@ -1059,7 +1438,11 @@
         "Region": [
             "Midcompany"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 132,
         "Type": "Enemy",
         "DLC": 0
@@ -1070,7 +1453,11 @@
         "Region": [
             "Midcompany"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 133,
         "Type": "Enemy",
         "DLC": 0
@@ -1081,7 +1468,11 @@
         "Region": [
             "Panan Jungle"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1850 && Defense 4"
+            }
+        ],
         "LocationID": 286,
         "Type": "Enemy",
         "DLC": 0
@@ -1092,7 +1483,11 @@
         "Region": [
             "Panan Jungle"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1850 && Defense 4"
+            }
+        ],
         "LocationID": 287,
         "Type": "Enemy",
         "DLC": 0
@@ -1103,7 +1498,11 @@
         "Region": [
             "Panan Jungle"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1850 && Defense 4"
+            }
+        ],
         "LocationID": 290,
         "Type": "Enemy",
         "DLC": 0
@@ -1114,7 +1513,11 @@
         "Region": [
             "Panan Jungle"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1850 && Defense 4"
+            }
+        ],
         "LocationID": 288,
         "Type": "Enemy",
         "DLC": 0
@@ -1125,7 +1528,11 @@
         "Region": [
             "Panan Jungle"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1850 && Defense 4"
+            }
+        ],
         "LocationID": 289,
         "Type": "Enemy",
         "DLC": 0
@@ -1136,7 +1543,11 @@
         "Region": [
             "Panan Jungle"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 70 && Power 4650 && Defense 5"
+            }
+        ],
         "LocationID": 291,
         "Type": "Enemy",
         "DLC": 0
@@ -1147,7 +1558,11 @@
         "Region": [
             "Powerlevel Island"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 950 && Defense 2"
+            }
+        ],
         "LocationID": 417,
         "Type": "Enemy",
         "DLC": 0
@@ -1158,7 +1573,11 @@
         "Region": [
             "Powerlevel Island"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 950 && Defense 2"
+            }
+        ],
         "LocationID": 418,
         "Type": "Enemy",
         "DLC": 0
@@ -1169,7 +1588,11 @@
         "Region": [
             "Powerlevel Island"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 950 && Defense 2"
+            }
+        ],
         "LocationID": 419,
         "Type": "Enemy",
         "DLC": 0
@@ -1180,7 +1603,11 @@
         "Region": [
             "Powerlevel Island"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 950 && Defense 2"
+            }
+        ],
         "LocationID": 420,
         "Type": "Enemy",
         "DLC": 0
@@ -1191,7 +1618,11 @@
         "Region": [
             "Powerlevel Island"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 950 && Defense 2"
+            }
+        ],
         "LocationID": 421,
         "Type": "Enemy",
         "DLC": 0
@@ -1202,7 +1633,11 @@
         "Region": [
             "Rebeat Resort"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 117,
         "Type": "Enemy",
         "DLC": 0
@@ -1213,7 +1648,11 @@
         "Region": [
             "Rebeat Resort"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 119,
         "Type": "Enemy",
         "DLC": 0
@@ -1225,7 +1664,11 @@
             "Rebeat Resort",
             "Septent Resort"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 120,
         "Type": "Enemy",
         "DLC": 0
@@ -1237,7 +1680,11 @@
             "Septent Resort",
             "Rebeat Resort"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 121,
         "Type": "Enemy",
         "DLC": 0
@@ -1248,7 +1695,11 @@
         "Region": [
             "Rebeat Resort"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 122,
         "Type": "Enemy",
         "DLC": 0
@@ -1259,7 +1710,11 @@
         "Region": [
             "Septent Resort"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 136,
         "Type": "Enemy",
         "DLC": 0
@@ -1270,7 +1725,11 @@
         "Region": [
             "Septent Resort"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 137,
         "Type": "Enemy",
         "DLC": 0
@@ -1281,7 +1740,11 @@
         "Region": [
             "Septent Resort"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 138,
         "Type": "Enemy",
         "DLC": 0
@@ -1292,7 +1755,11 @@
         "Region": [
             "Septent Resort"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 139,
         "Type": "Enemy",
         "DLC": 0
@@ -1303,7 +1770,11 @@
         "Region": [
             "Septent Resort"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 20 && Power 400 && Defense 1"
+            }
+        ],
         "LocationID": 140,
         "Type": "Enemy",
         "DLC": 0
@@ -1314,7 +1785,11 @@
         "Region": [
             "Severed Dimension Depths"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 750 && Defense 2"
+            }
+        ],
         "LocationID": 191,
         "Type": "Enemy",
         "DLC": 0
@@ -1326,7 +1801,11 @@
             "Severed Dimension",
             "Severed Dimension Depths"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 750 && Defense 2"
+            }
+        ],
         "LocationID": 187,
         "Type": "Enemy",
         "DLC": 0
@@ -1337,7 +1816,11 @@
         "Region": [
             "Severed Dimension Depths"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 750 && Defense 2"
+            }
+        ],
         "LocationID": 193,
         "Type": "Enemy",
         "DLC": 0
@@ -1348,7 +1831,11 @@
         "Region": [
             "Severed Dimension Depths"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 750 && Defense 2"
+            }
+        ],
         "LocationID": 194,
         "Type": "Enemy",
         "DLC": 0
@@ -1360,7 +1847,11 @@
             "Severed Dimension",
             "Severed Dimension Depths"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 40 && Power 1950 && Defense 3"
+            }
+        ],
         "LocationID": 188,
         "Type": "Enemy",
         "DLC": 0
@@ -1371,7 +1862,11 @@
         "Region": [
             "Severed Dimension"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 750 && Defense 2"
+            }
+        ],
         "LocationID": 183,
         "Type": "Enemy",
         "DLC": 0
@@ -1382,7 +1877,11 @@
         "Region": [
             "Severed Dimension"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 750 && Defense 2"
+            }
+        ],
         "LocationID": 184,
         "Type": "Enemy",
         "DLC": 0
@@ -1393,7 +1892,11 @@
         "Region": [
             "Severed Dimension"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 750 && Defense 2"
+            }
+        ],
         "LocationID": 185,
         "Type": "Enemy",
         "DLC": 0
@@ -1404,7 +1907,11 @@
         "Region": [
             "Severed Dimension"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 750 && Defense 2"
+            }
+        ],
         "LocationID": 186,
         "Type": "Enemy",
         "DLC": 0
@@ -1415,7 +1922,11 @@
         "Region": [
             "Sublie Road"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 80 && Power 4950 && Defense 5"
+            }
+        ],
         "LocationID": 308,
         "Type": "Enemy",
         "DLC": 0
@@ -1426,7 +1937,11 @@
         "Region": [
             "Sublie Road"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 80 && Power 4950 && Defense 5"
+            }
+        ],
         "LocationID": 310,
         "Type": "Enemy",
         "DLC": 0
@@ -1437,7 +1952,11 @@
         "Region": [
             "World Labyrinth - 2nd Floor"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 10 && Power 350 && Defense 1"
+            }
+        ],
         "LocationID": 163,
         "Type": "Enemy",
         "DLC": 0
@@ -1448,7 +1967,11 @@
         "Region": [
             "Sublie Road"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 80 && Power 4950 && Defense 5"
+            }
+        ],
         "LocationID": 309,
         "Type": "Enemy",
         "DLC": 0
@@ -1459,7 +1982,11 @@
         "Region": [
             "Sublie Road"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 90 && Power 5450 && Defense 6"
+            }
+        ],
         "LocationID": 311,
         "Type": "Enemy",
         "DLC": 0
@@ -1470,7 +1997,11 @@
         "Region": [
             "Trinity Marsh"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 90 && Power 5450 && Defense 6"
+            }
+        ],
         "LocationID": 314,
         "Type": "Enemy",
         "DLC": 0
@@ -1481,7 +2012,11 @@
         "Region": [
             "Trinity Marsh"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 90 && Power 5450 && Defense 6"
+            }
+        ],
         "LocationID": 315,
         "Type": "Enemy",
         "DLC": 0
@@ -1492,7 +2027,11 @@
         "Region": [
             "Trinity Marsh"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 90 && Power 5450 && Defense 6"
+            }
+        ],
         "LocationID": 316,
         "Type": "Enemy",
         "DLC": 0
@@ -1503,7 +2042,11 @@
         "Region": [
             "Trinity Marsh"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 90 && Power 5450 && Defense 6"
+            }
+        ],
         "LocationID": 317,
         "Type": "Enemy",
         "DLC": 0
@@ -1514,7 +2057,11 @@
         "Region": [
             "Trinity Marsh"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 90 && Power 5450 && Defense 6"
+            }
+        ],
         "LocationID": 318,
         "Type": "Enemy",
         "DLC": 0
@@ -1525,7 +2072,11 @@
         "Region": [
             "Trinity Marsh"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 90 && Power 6550 && Defense 6"
+            }
+        ],
         "LocationID": 319,
         "Type": "Enemy",
         "DLC": 0
@@ -1536,7 +2087,11 @@
         "Region": [
             "Underverse Depths"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 20 && Power 500 && Defense 2"
+            }
+        ],
         "LocationID": 179,
         "Type": "Enemy",
         "DLC": 0
@@ -1547,7 +2102,11 @@
         "Region": [
             "Underverse Depths"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 20 && Power 500 && Defense 2"
+            }
+        ],
         "LocationID": 180,
         "Type": "Enemy",
         "DLC": 0
@@ -1558,7 +2117,11 @@
         "Region": [
             "Underverse Depths"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 20 && Power 500 && Defense 2"
+            }
+        ],
         "LocationID": 181,
         "Type": "Enemy",
         "DLC": 0
@@ -1569,7 +2132,11 @@
         "Region": [
             "Underverse Depths"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 20 && Power 500 && Defense 2"
+            }
+        ],
         "LocationID": 182,
         "Type": "Enemy",
         "DLC": 0
@@ -1580,7 +2147,11 @@
         "Region": [
             "Underverse"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 20 && Power 500 && Defense 2"
+            }
+        ],
         "LocationID": 172,
         "Type": "Enemy",
         "DLC": 0
@@ -1591,7 +2162,11 @@
         "Region": [
             "Underverse"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 20 && Power 500 && Defense 2"
+            }
+        ],
         "LocationID": 173,
         "Type": "Enemy",
         "DLC": 0
@@ -1602,7 +2177,11 @@
         "Region": [
             "Underverse"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 20 && Power 500 && Defense 2"
+            }
+        ],
         "LocationID": 174,
         "Type": "Enemy",
         "DLC": 0
@@ -1613,7 +2192,11 @@
         "Region": [
             "Underverse"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 20 && Power 500 && Defense 2"
+            }
+        ],
         "LocationID": 175,
         "Type": "Enemy",
         "DLC": 0
@@ -1624,7 +2207,11 @@
         "Region": [
             "Underverse"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 1650 && Defense 2"
+            }
+        ],
         "LocationID": 176,
         "Type": "Enemy",
         "DLC": 0
@@ -1635,7 +2222,11 @@
         "Region": [
             "Virtua Forest - Depths"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 111,
         "Type": "Enemy",
         "DLC": 0
@@ -1646,7 +2237,11 @@
         "Region": [
             "Virtua Forest - Depths"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 112,
         "Type": "Enemy",
         "DLC": 0
@@ -1657,7 +2252,11 @@
         "Region": [
             "Virtua Forest - Depths"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 114,
         "Type": "Enemy",
         "DLC": 0
@@ -1668,7 +2267,11 @@
         "Region": [
             "Virtua Forest - Depths"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 115,
         "Type": "Enemy",
         "DLC": 0
@@ -1679,7 +2282,11 @@
         "Region": [
             "Virtua Forest - Depths"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 113,
         "Type": "Enemy",
         "DLC": 0
@@ -1690,7 +2297,11 @@
         "Region": [
             "Virtua Forest"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 101,
         "Type": "Enemy",
         "DLC": 0
@@ -1701,7 +2312,11 @@
         "Region": [
             "Virtua Forest"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 103,
         "Type": "Enemy",
         "DLC": 0
@@ -1712,7 +2327,11 @@
         "Region": [
             "Virtua Forest"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 106,
         "Type": "Enemy",
         "DLC": 0
@@ -1723,7 +2342,11 @@
         "Region": [
             "Virtua Forest"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 104,
         "Type": "Enemy",
         "DLC": 0
@@ -1734,7 +2357,11 @@
         "Region": [
             "Virtua Forest"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 102,
         "Type": "Enemy",
         "DLC": 0
@@ -1745,7 +2372,11 @@
         "Region": [
             "Virtua Forest"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Power 50 && Defense 1"
+            }
+        ],
         "LocationID": 105,
         "Type": "Enemy",
         "DLC": 0
@@ -1756,7 +2387,11 @@
         "Region": [
             "World Labyrinth - 1st Floor"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 10 && Power 350 && Defense 1"
+            }
+        ],
         "LocationID": 153,
         "Type": "Enemy",
         "DLC": 0
@@ -1767,19 +2402,26 @@
         "Region": [
             "World Labyrinth - 1st Floor"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 10 && Power 350 && Defense 1"
+            }
+        ],
         "LocationID": 154,
         "Type": "Enemy",
         "DLC": 0
     },
-    
     {
         "Item": "",
         "LocationName": "Tokimeki Sister",
         "Region": [
             "World Labyrinth - 1st Floor"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 10 && Power 350 && Defense 1"
+            }
+        ],
         "LocationID": 155,
         "Type": "Enemy",
         "DLC": 0
@@ -1791,7 +2433,11 @@
             "World Labyrinth - 2nd Floor",
             "World Labyrinth - 1st Floor"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 30 && Power 1500 && Defense 2"
+            }
+        ],
         "LocationID": 156,
         "Type": "Enemy",
         "DLC": 0
@@ -1802,7 +2448,11 @@
         "Region": [
             "World Labyrinth - 2nd Floor"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 10 && Power 350 && Defense 1"
+            }
+        ],
         "LocationID": 159,
         "Type": "Enemy",
         "DLC": 0
@@ -1813,7 +2463,11 @@
         "Region": [
             "World Labyrinth - 2nd Floor"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 10 && Power 350 && Defense 1"
+            }
+        ],
         "LocationID": 160,
         "Type": "Enemy",
         "DLC": 0
@@ -1824,7 +2478,11 @@
         "Region": [
             "World Labyrinth - 2nd Floor"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 10 && Power 350 && Defense 1"
+            }
+        ],
         "LocationID": 161,
         "Type": "Enemy",
         "DLC": 0
@@ -1835,7 +2493,11 @@
         "Region": [
             "World Labyrinth - 2nd Floor"
         ],
-        "Requirement": [],
+        "Requirement": [
+            {
+                "Method": "Level 10 && Power 350 && Defense 1"
+            }
+        ],
         "LocationID": 162,
         "Type": "Enemy",
         "DLC": 0
