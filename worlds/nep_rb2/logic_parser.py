@@ -65,6 +65,9 @@ def evaluate_rule(existing_rule: str, player: int, options:NepRb2Options):
                 return lambda state: NepRB2Logic.can_reach_enemy(literal.split(" ",1)[1],state,player)
             case "Tracker":
                 return lambda state: NepRB2Logic.has_ApEvent(split[1],state,player)
+            case "ChangeDungeon":
+                return lambda state: NepRB2Logic.has_dungeon_change(split[1],split[2],state,player)
+                
         raise ValueError(f"Invalid Rule. {literal}")
 
     elif isinstance(existing_rule, OpNot):

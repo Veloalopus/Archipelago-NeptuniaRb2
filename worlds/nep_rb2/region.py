@@ -5,6 +5,7 @@ from importlib.resources import files
 
 from worlds.generic.Rules import set_rule
 
+from .globals import *
 from .offsets import AddIdOffest
 from .options import NepRb2Options
 from .logic_parser import parse_expression_logic,evaluate_rule
@@ -13,11 +14,8 @@ class Rb2Location(Location):
     game: str = "Hyperdimension Neptunia Re;birth 2 Sisters Generation"
 
 
-TreasureBaseID = 1_000_000;
-EnemyBaseID = 2_000_000;
-QuestBaseID = 4_500_000;
 
-def loadLocations():
+def loadResources():
     resourcesFiles = files(__name__) / "resources"
     locationsFiles = resourcesFiles / "locations"
     locations = []
@@ -29,11 +27,18 @@ def loadLocations():
                 loc["ID"] += TreasureBaseID
             case "Enemy":
                 loc["LocationID"] += EnemyBaseID
+                EnemyDict[loc["LocationName"]] = loc
             case "Quest":
                 loc["LocationID"] += QuestBaseID
+
+    resourcesFiles = files(__name__) / "resources"
+    regions = json.loads(resourcesFiles.joinpath("region.json").read_text())
+    for region in regions:
+        if region["DungeonID"] != 0:
+            DungeonIdDict[region["DungeonID"]] = region
     return locations
 
-loadLocations()
+loadResources()
 
 class Nep2RegionDeft:
     """
@@ -47,7 +52,7 @@ class Nep2RegionDeft:
         self.player = player
         self.multiworld = multiworld
         self.options = options
-        self.locations = loadLocations()
+        self.locations = loadResources()
         resourcesFiles = files(__name__) / "resources"
 
         self.regions = json.loads(resourcesFiles.joinpath("region.json").read_text())

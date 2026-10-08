@@ -347,7 +347,7 @@
         "DLC": 0
     },
     {
-        "Item": "LEVEL_70",
+        "Item": "LEVEL_80",
         "LocationName": "Sublie Road - Grinding Level 70",
         "Region": [
             "Sublie Road"
@@ -358,7 +358,7 @@
         "DLC": 0
     },
     {
-        "Item": "LEVEL_80",
+        "Item": "LEVEL_90",
         "LocationName": "Trinity Marsh - Grinding Level 80",
         "Region": [
             "Trinity Marsh"
