@@ -50,7 +50,7 @@ class NepRB2Logic():
     def has_defense(armor:int,state:CollectionState,player:int):
         return state.has(RuleToApNames["ProgressiveGear"]["ARMOR"]["DisplayName"],player,armor)
     
-    def has_dungeon_change(dungeonId:int,change:int,state:CollectionState,player:int):
+    def has_dungeon_state(dungeonId:int,change:int,state:CollectionState,player:int):
         match change:
             case 1:
                 return DungeonIdDict[dungeonId]["ChangeDungeon"] == None or state.has(DungeonIdDict[dungeonId]["ChangeDungeon"],player)
